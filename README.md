@@ -1,6 +1,8 @@
 # box-office-predictor
+-----------------------
 Forecasting Box-office Earnings with Data on the Web
 
-Tools
-1. IMDbPY
-2. python-twitter
+#Tools
+-----------------------
+- IMDbPY
+- [Python Twitter Tools](https://github.com/sixohsix/twitter/blob/master/README)
