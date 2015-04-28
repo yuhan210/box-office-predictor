@@ -22,6 +22,7 @@ print 'runtime', the_unt['runtime']
 print 'rating', the_unt['rating']
 director = the_unt['director'] # get a list of Person objects.
 
+print 'director', director[0]
 # Get the first item listed as a "goof".
 #ia.update(the_unt, 'goofs')
 #print the_unt['goofs'][0]
@@ -29,4 +30,4 @@ director = the_unt['director'] # get a list of Person objects.
 # The first "trivia" for the first director.
 b_depalma = director[0]
 ia.update(b_depalma)
-print b_depalma['trivia'][0]
+#print b_depalma['trivia'][0]
