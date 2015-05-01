@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import urllib2
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -28,7 +29,8 @@ def wgetDirectorIMDBPage(dir_id):
     webpage_path = os.path.join(dir_o_folder, dir_id)
     os.system('wget %s%s -O %s -q' %(url, dir_id, webpage_path))
 
-    parseDirectorPage(webpage_path)    
+    d = getDirectedMovies(webpage_path)    
+    
 
 # Parse director webpage
 def getDirectedMovies(webpage_path):
@@ -42,7 +44,20 @@ def getDirectedMovies(webpage_path):
     for match in soup.find_all('div', id=re.compile('^producer-')):
         past_movieids += [match.get('id').split('-tt')[1]]
 
-    #for movid in past_movieids:
+    d = {}
+    for movie_id in past_movieids:    
+        d[movie_id] = getMovieGrossWithMovieID(movie_id) 
+
+    return d
+
+def getMovieGrossWithMovieID(movie_id): 
+    url = "http://www.imdb.com/title/tt%s" % (movie_id)
+    html_doc = urllib2.urlopen(url).readlines()
+    gross = -1
+    for line in html_doc:
+        if line.find('Gross') >= 0:
+            gross = line.split('</h4>')[1].strip()
+    return gross
 
 def getDirectorBoxEarningHistories(movie_title):
     ia = imdb.IMDb()
@@ -60,6 +75,7 @@ def getDirectorBoxEarningHistories(movie_title):
         #http://www.imdb.com/name/nm0000142/
         print dir_id
         wgetDirectorIMDBPage(dir_id)     
+    
     else:
         return None
 
