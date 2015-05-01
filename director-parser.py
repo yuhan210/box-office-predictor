@@ -1,11 +1,16 @@
+from bs4 import BeautifulSoup
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+import time
 import imdb
 import os
-
+import re
 '''
 This script searches the box-office earning histories for each director
+
+python package dependency:
+bs4 (beautifulsoup), pandas, imdbpy
 '''
 
 def getMostRelevantSeach(movie_title, search_results):
@@ -21,13 +26,23 @@ def wgetDirectorIMDBPage(dir_id):
 
     url = "http://www.imdb.com/name/nm"
     webpage_path = os.path.join(dir_o_folder, dir_id)
-    print webpage_path
     os.system('wget %s%s -O %s -q' %(url, dir_id, webpage_path))
-   # parseDirectorPage(os.path.join(dir_o_folder, dir_id))    
+
+    parseDirectorPage(webpage_path)    
 
 # Parse director webpage
-#def parseDirectorPage(webpage_path):
+def getDirectedMovies(webpage_path):
+    
+    html_doc = open(webpage_path).read()
+    soup = BeautifulSoup(html_doc)
+    
+    # find all div id starting with producer-*
+    # get movie id <div class="filmo-row odd" id="producer-tt2179136">
+    past_movieids = [] 
+    for match in soup.find_all('div', id=re.compile('^producer-')):
+        past_movieids += [match.get('id').split('-tt')[1]]
 
+    #for movid in past_movieids:
 
 def getDirectorBoxEarningHistories(movie_title):
     ia = imdb.IMDb()
