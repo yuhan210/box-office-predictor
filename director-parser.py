@@ -3,6 +3,7 @@ import urllib2
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+import socket
 import time
 import imdb
 import sys
@@ -29,10 +30,11 @@ def wgetDirectorIMDBPage(dir_id):
     dir_o_folder = os.path.join(pwd, 'director_pages')
     if not os.path.exists(dir_o_folder):
             os.makedirs(dir_o_folder)
-
-    url = "http://www.imdb.com/name/nm"
+    
     webpage_path = os.path.join(dir_o_folder, dir_id)
-    os.system('wget %s%s -O %s -q' %(url, dir_id, webpage_path))
+    if not os.path.exists(webpage_path):
+        url = "http://www.imdb.com/name/nm"
+        os.system('wget %s%s -O %s -q' %(url, dir_id, webpage_path))
 
     return webpage_path
 
@@ -56,8 +58,18 @@ def getDirectedMovies(webpage_path):
 # Return gross
 def getMovieGrossWithMovieID(movie_id): 
     url = "http://www.imdb.com/title/tt%s" % (movie_id)
-    html_doc = urllib2.urlopen(url).readlines()
     gross = -1
+    
+    try:
+        html_doc = urllib2.urlopen(url).readlines()
+    except urllib2.URLError, e:
+        # For Python 2.7
+            print 'URLError %r' % e
+            return -1
+    except socket.timeout, e:
+        # For Python 2.7
+            print 'Timeout %r' % e
+            return -1 
     for line in html_doc:
         if line.find('Gross') >= 0:
             #print line
@@ -72,6 +84,7 @@ def getMovieGrossWithMovieID(movie_id):
 
 def getDirectorBoxEarningHistories(movie_title):
     ia = imdb.IMDb()
+    movie_title = re.sub(r"([\'])",    r'\\\1', movie_title)  
     search_results = ia.search_movie(movie_title)
     
     if (len(search_results) > 0):
@@ -79,6 +92,8 @@ def getDirectorBoxEarningHistories(movie_title):
         ia.update(mov)
          
         movie_id = mov.getID()
+        if not mov.has_key('director'):
+            return (None, None)
         director = mov['director'][0]
         dir_id = director.getID()
         
@@ -98,7 +113,7 @@ def getDirectorBoxEarningHistories(movie_title):
         
         return (director, earnings)
     else:
-        return None
+        return (None, None)
 
 if __name__ == "__main__":
 
@@ -109,12 +124,14 @@ if __name__ == "__main__":
 
     out_file = open(sys.argv[1],'w')
     movies_data = pd.read_excel("box_office2014.xlsx")
-    for title in movies_data['Title']:
+    for title in movies_data['Title'][178:]:
         print title
         (director, earnings) = getDirectorBoxEarningHistories(title)
-        print director    
-        earnings_str = ';'.join([x + ':' + earnings[x] for x in earnings])
-        out_str = '%s\t%s\t%s\n' % (title, director, earnings_str)
-        out_file.write(out_str)
+        if director == None:
+            out_str = '%s\n' % (title)
+        else:    
+            earnings_str = ';'.join([x + ':' + earnings[x] for x in earnings])
+            out_str = '%s\t%s\t%s\n' % (title, director, earnings_str)
+        out_file.write(out_str.encode('utf8'))
         out_file.flush()
     out_file.close()
