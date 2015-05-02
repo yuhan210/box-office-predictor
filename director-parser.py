@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import time
 import imdb
+import sys
 import os
 import re
 '''
@@ -14,7 +15,7 @@ python package dependency:
 bs4 (beautifulsoup), pandas, imdbpy
 '''
 
-limit = 10
+limit = 11
 
 def getMostRelevantSeach(movie_title, search_results):
     #TODO: use some heuristics to find the best match. Currently returns the first result
@@ -59,11 +60,11 @@ def getMovieGrossWithMovieID(movie_id):
     gross = -1
     for line in html_doc:
         if line.find('Gross') >= 0:
-            print line
+            #print line
             if line.find('$') >= 0:
                 gross = line.split('$')[1].strip() 
-            elif line.find('pound;') >= 0:
-                gross = line.split('pound;')[1].strip() 
+            #elif line.find('pound;') >= 0:
+            #    gross = line.split('pound;')[1].strip() 
             break
     
     return gross
@@ -85,7 +86,7 @@ def getDirectorBoxEarningHistories(movie_title):
         webpage_path = wgetDirectorIMDBPage(dir_id)     
         directed_movieids = getDirectedMovies(webpage_path)    
         
-        earnings = []
+        earnings = {}
         for mid in directed_movieids:
             #print earnings           
             if len(earnings) == limit:
@@ -93,15 +94,27 @@ def getDirectorBoxEarningHistories(movie_title):
             
             gross = getMovieGrossWithMovieID(mid)
             if gross != -1:
-                earnings += [gross]
-
-        return earnings
+                earnings[mid] = gross
+        
+        return (director, earnings)
     else:
         return None
 
 if __name__ == "__main__":
 
 
+    if len(sys.argv) != 2:
+        print 'Usage:', sys.argv[0], ' outputfile'
+        exit(11)
+
+    out_file = open(sys.argv[1],'w')
     movies_data = pd.read_excel("box_office2014.xlsx")
     for title in movies_data['Title']:
-        print title, getDirectorBoxEarningHistories(title)
+        print title
+        (director, earnings) = getDirectorBoxEarningHistories(title)
+        print director    
+        earnings_str = ';'.join([x + ':' + earnings[x] for x in earnings])
+        out_str = '%s\t%s\t%s\n' % (title, director, earnings_str)
+        out_file.write(out_str)
+        out_file.flush()
+    out_file.close()
