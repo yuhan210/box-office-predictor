@@ -1,0 +1,4798 @@
+
+
+
+<!DOCTYPE html>
+<html
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+
+        
+    
+            <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
+            <script type="text/javascript">
+                var ue_mid = "A1EVAM02EL8SFB"; 
+                var ue_sn = "www.imdb.com";  
+                var ue_furl = "fls-na.amazon.com";
+                var ue_sid = "000-0000000-0000000";
+                var ue_id = "0WE9CF3GH703C9MY1P81";
+                (function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-051542d0cfa6f645f8266601739de597._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);
+                if (!('CS' in window)) { window.CS = {}; }
+                    window.CS.loginSecureHost = "https://secure.imdb.com";
+            </script>
+ 
+
+        
+        <script type="text/javascript">var IMDbTimer={starttime: new Date().getTime(),pt:'java'};</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        <title>Lars von Trier - IMDb</title>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+            <link rel="canonical" href="http://www.imdb.com/name/nm0001885/" />
+            <meta property="og:url" content="http://www.imdb.com/name/nm0001885/" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        <link rel="icon" type="image/ico" href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._CB379387995_.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._CB379390718_.ico" />
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-4151659188._CB361295786_.png" rel="apple-touch-icon"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-76x76-53536248._CB361295462_.png" rel="apple-touch-icon" sizes="76x76"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-120x120-2442878471._CB361295428_.png" rel="apple-touch-icon" sizes="120x120"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-152x152-1475823641._CB361295368_.png" rel="apple-touch-icon" sizes="152x152"> 
+        <link rel="search" type="application/opensearchdescription+xml" href="http://ia.media-imdb.com/images/G/01/imdb/images/imdbsearch-3349468880._CB379388505_.xml" title="IMDb" />
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+    
+        <link rel='image_src' href="http://ia.media-imdb.com/images/M/MV5BMTk1MDY1NTQ0NF5BMl5BanBnXkFtZTcwOTcyMDczNg@@._V1_SY1200_CR311,0,630,1200_AL_.jpg">
+        <meta property='og:image' content="http://ia.media-imdb.com/images/M/MV5BMTk1MDY1NTQ0NF5BMl5BanBnXkFtZTcwOTcyMDczNg@@._V1_SY1200_CR311,0,630,1200_AL_.jpg" />
+    
+        <meta property='og:type' content="actor" />
+    <meta property='fb:app_id' content='115109575169727' />
+    
+    <meta property='og:title' content="Lars von Trier" />
+    <meta property='og:site_name' content='IMDb' />
+    <meta name="title" content="Lars von Trier - IMDb" />
+        <meta name="description" content="Lars von Trier, Writer: Melancholia. Probably the most ambitious and visually distinctive filmmaker to emerge from Denmark since Carl Theodor Dreyer over 60 years earlier, Lars von Trier studied film at the Danish Film School and attracted international attention with his very first feature, The Element of Crime (1984). A highly distinctive blend of film noir and German Expressionism with stylistic nods to Dreyer, Andrei Tarkovsky ..." />
+        <meta property="og:description" content="Lars von Trier, Writer: Melancholia. Probably the most ambitious and visually distinctive filmmaker to emerge from Denmark since Carl Theodor Dreyer over 60 years earlier, Lars von Trier studied film at the Danish Film School and attracted international attention with his very first feature, The Element of Crime (1984). A highly distinctive blend of film noir and German Expressionism with stylistic nods to Dreyer, Andrei Tarkovsky ..." />
+        <meta name="keywords" content="Biography, Photos, Awards, News, Message Boards" />
+        <meta name="request_id" content="0WE9CF3GH703C9MY1P81" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<!-- h=ics-1a-c3-2xl-i-0622bbfa.us-east-1 -->
+
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/name-232419406._CB305190861_.css" />
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-flat-6662145._CB305190902_.css" />
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-mega-1801187020._CB325753108_.css" />
+        <noscript>
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/wheel/nojs-2627072490._CB343672767_.css">
+        </noscript>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <script  type="text/javascript">
+            // ensures js doesn't die if ads service fails.  
+            // Note that we need to define the js here, since ad js is being rendered inline after this.
+            (function(f) {
+                // Fallback javascript, when the ad Service call fails.  
+                
+                if((window.csm === undefined || window.generic === undefined || window.consoleLog === undefined)) {
+                    if (console !== undefined && console.log !== undefined) {
+                        console.log("one or more of window.csm, window.generic or window.consoleLog has been stubbed...");
+                    }
+                }
+                
+                window.csm = window.csm || { measure:f, record:f, duration:f, listen:f, metrics:{} };
+                window.generic = window.generic || { monitoring: { start_timing: f, stop_timing: f } };
+                window.consoleLog = window.consoleLog || f;
+            })(function() {});
+        </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_head_delivery_finished');
+    }
+  </script>
+        </head>
+    <body id="styleguide-v2" class="fixed">
+<script>
+    if (typeof uet == 'function') {
+      uet("bb");
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_body_delivery_started');
+    }
+  </script>
+        <div id="wrapper">
+            <div id="root" class="redesign">
+<script>
+    if (typeof uet == 'function') {
+      uet("ns");
+    }
+</script>
+<div id="nb20" class="navbarSprite">
+<div id="supertab">	
+	<!-- no content received for slot: top_ad -->
+	
+</div>
+  <div id="navbar" class="navbarSprite">
+<noscript>
+  <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-no-js-4175877511._CB379390803_.css" />
+</noscript>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-ie-470687728._CB379390980_.css"><![endif]-->
+<span id="home_img_holder">
+<a href="/?ref_=nv_home"
+title="Home" class="navbarSprite" id="home_img" ></a>  <span class="alt_logo">
+    <a href="/?ref_=nv_home"
+title="Home" >IMDb</a>
+  </span>
+</span>
+<form
+onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
+ method="get"
+ action="/find"
+ class="nav-searchbar-inner"
+ id="navbar-form"
+
+>
+  <div id="nb_search">
+    <noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+    <button id="navbar-submit-button" class="primary btn" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+    <input type="hidden" name="ref_" value="nv_sr_fn" />
+    <input type="text" autocomplete="off" value="" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more...">
+    <div class="quicksearch_dropdown_wrapper">
+      <select name="s" id="quicksearch" class="quicksearch_dropdown navbarSprite"
+              onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+        <option value="all" >All</option>
+        <option value="tt" >Titles</option>
+        <option value="ep" >TV Episodes</option>
+        <option value="nm" >Names</option>
+        <option value="co" >Companies</option>
+        <option value="kw" >Keywords</option>
+        <option value="ch" >Characters</option>
+        <option value="qu" >Quotes</option>
+        <option value="bi" >Bios</option>
+        <option value="pl" >Plots</option>
+      </select>
+    </div>
+    <div id="navbar-suggestionsearch"></div>
+  </div>
+</form>
+<div id="megaMenu">
+    <ul id="consumer_main_nav" class="main_nav">
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navTitleMenu">
+            <p class="navCategory">
+                <a href="/movies-in-theaters/?ref_=nv_tp_inth_1"
+>Movies</a>,
+                <a href="/tv/?ref_=nv_tp_tvhm_2"
+>TV</a><br />
+                & <a href="/showtimes/?ref_=nv_tp_sh_3"
+>Showtimes</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu1" class="sub_nav">
+                <div id="titleAd"></div>
+                <div class="subNavListContainer">
+                    <h5>MOVIES</h5>
+                    <ul>
+                        <li><a href="/movies-in-theaters/?ref_=nv_mv_inth_1"
+>In Theaters</a></li>
+                        <li><a href="/showtimes/?ref_=nv_mv_sh_2"
+>Showtimes & Tickets</a></li>
+                        <li><a href="/trailers/?ref_=nv_mv_tr_3"
+>Latest Trailers</a></li>
+                        <li><a href="/movies-coming-soon/?ref_=nv_mv_cs_4"
+>Coming Soon</a></li>
+                        <li><a href="/calendar/?ref_=nv_mv_cal_5"
+>Release Calendar</a></li>
+                    </ul>
+                    <h5>CHARTS & TRENDS</h5>
+                    <ul>
+                        <li><a href="/search/title?count=100&title_type=feature,tv_series,tv_movie&explore=title_type,genres,year,countries&ref_=nv_ch_mm_1"
+>Popular Movies & TV</a></li>
+                        <li><a href="/chart/?ref_=nv_ch_cht_2"
+>Box Office</a></li>
+                        <li><a href="/search/title?count=100&groups=oscar_best_picture_winners&sort=year,desc&ref_=nv_ch_osc_3"
+>Oscar Winners</a></li>
+                        <li><a href="/chart/top?ref_=nv_ch_250_4"
+>Top 250</a></li>
+                        <li><a href="/genre/?ref_=nv_ch_gr_5"
+>Most Popular by Genre</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>TV & VIDEO</h5>
+                    <ul>
+                        <li><a href="/tv/?ref_=nv_tvv_hm_1"
+>TV Home</a></li>
+                        <li><a href="/tvgrid/?ref_=nv_tvv_ls_2"
+>On Tonight</a></li>
+                        <li><a href="/watchnow/?ref_=nv_tvv_wn_3"
+>Watch Now on Amazon</a></li>
+                        <li><a href="/sections/dvd/?ref_=nv_tvv_dvd_4"
+>DVD & Blu-Ray</a></li>
+                        <li><a href="/tv/blog?ref_=nv_tvv_blog_5"
+>TV Blog</a></li>
+                    </ul>
+                    <h5>SPECIAL FEATURES</h5>
+                    <ul>
+                        <li><a href="/academymuseum/?ref_=nv_sf_am_1"
+>Academy Museum</a></li>
+                        <li><a href="/imdbpicks/?ref_=nv_sf_pks_2"
+>IMDb Picks</a></li>
+                        <li><a href="/best-of/?ref_=nv_sf_bo_3"
+>Best of 2014</a></li>
+                        <li><a href="/x-ray/?ref_=nv_sf_xray_4"
+>X-Ray for Movies & TV</a></li>
+                        <li><a href="/whattowatch/?ref_=nv_sf_wtw_5"
+>What to Watch</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNameMenu">
+            <p class="navCategory">
+                <a href="/search/name?gender=male,female&ref_=nv_tp_cel_1"
+>Celebs</a>,
+                <a href="/awards-central/?ref_=nv_tp_awrd_2"
+>Events</a><br />
+                & <a href="/media/index/rg1176148480?ref_=nv_tp_ph_3"
+>Photos</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu2" class="sub_nav">
+                <div id="nameAd"></div>
+                <div class="subNavListContainer">
+                    <h5>CELEBS</h5>
+                    <ul>
+                            <li><a href="/search/name?birth_monthday=05-02&refine=birth_monthday&ref_=nv_cel_brn_1"
+>Born Today</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_cel_nw_2"
+>Celebrity News</a></li>
+                        <li><a href="/search/name?gender=male,female&ref_=nv_cel_m_3"
+>Most Popular Celebs</a></li>
+                    </ul>
+                    <h5>PHOTOS</h5>
+                    <ul>
+                        <li><a href="/media/index/rg1176148480?ref_=nv_ph_ls_1"
+>Latest Stills</a></li>
+                        <li><a href="/media/index/rg1528338944?ref_=nv_ph_lp_2"
+>Latest Posters</a></li>
+                        <li><a href="/media/index/rg2465176320?ref_=nv_ph_lv_3"
+>Photos We Love</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>EVENTS</h5>
+                    <ul>
+                        <li><a href="/awards-central/?ref_=nv_ev_awrd_1"
+>Awards Central</a></li>
+                        <li><a href="/sundance/?ref_=nv_ev_sun_2"
+>Sundance</a></li>
+                        <li><a href="/sxsw/?ref_=nv_ev_sxsw_3"
+>SXSW Film Festival</a></li>
+                        <li><a href="/tribeca/?ref_=nv_ev_tri_4"
+>Tribeca</a></li>
+                        <li><a href="/cannes/?ref_=nv_ev_can_5"
+>Cannes</a></li>
+                        <li><a href="/comic-con/?ref_=nv_ev_comic_6"
+>Comic-Con</a></li>
+                        <li><a href="/emmys/?ref_=nv_ev_rte_7"
+>Road to the Emmys</a></li>
+                        <li><a href="/venice/?ref_=nv_ev_venice_8"
+>Venice Film Festival</a></li>
+                        <li><a href="/toronto/?ref_=nv_ev_tff_9"
+>Toronto Film Festival</a></li>
+                        <li><a href="/awards-central/?ref_=nv_ev_all_10"
+>More Popular Events</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNewsMenu">
+            <p class="navCategory">
+                <a href="/news/top?ref_=nv_tp_nw_1"
+>News</a> &<br />
+                <a href="/boards/?ref_=nv_tp_bd_2"
+>Community</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu3" class="sub_nav">
+                <div id="latestHeadlines">
+                    <div class="subNavListContainer">
+                        <h5>LATEST HEADLINES</h5>
+    <ul>
+                <li itemprop="headline">
+<a href="/news/ni58553971/?ref_=nv_nw_tn_1"
+> 'Star Wars' Standalone Film Loses Director Josh Trank
+</a><br />
+                        <span class="time">6 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni58552953/?ref_=nv_nw_tn_2"
+> Avengers: Age Of Ultron Opening Night Box Office Scores $27.6 Million
+</a><br />
+                        <span class="time">13 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni58552924/?ref_=nv_nw_tn_3"
+> Fear The Walking Dead Casts Orange Is the New Black’s Elizabeth Rodriguez
+</a><br />
+                        <span class="time">14 hours ago</span>
+                </li>
+    </ul>
+                    </div>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>NEWS</h5>
+                    <ul>
+                        <li><a href="/news/top?ref_=nv_nw_tp_1"
+>Top News</a></li>
+                        <li><a href="/news/movie?ref_=nv_nw_mv_2"
+>Movie News</a></li>
+                        <li><a href="/news/tv?ref_=nv_nw_tv_3"
+>TV News</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_nw_cel_4"
+>Celebrity News</a></li>
+                        <li><a href="/news/indie?ref_=nv_nw_ind_5"
+>Indie News</a></li>
+                    </ul>
+                    <h5>COMMUNITY</h5>
+                    <ul>
+                        <li><a href="/boards/?ref_=nv_cm_bd_1"
+>Message Boards</a></li>
+                        <li><a href="/czone/?ref_=nv_cm_cz_2"
+>Contributor Zone</a></li>
+                        <li><a href="/games/guess?ref_=nv_cm_qz_3"
+>Quiz Game</a></li>
+                        <li><a href="/poll/?ref_=nv_cm_pl_4"
+>Polls</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navWatchlistMenu">
+<p class="navCategory singleLine watchlist">
+    <a href="/list/watchlist?ref_=nv_wl_all_0"
+>Watchlist</a>
+</p>
+<span class="downArrow"></span>
+<div id="navMenu4" class="sub_nav">
+    <h5>
+            YOUR WATCHLIST
+    </h5> 
+    <ul id="navWatchlist">
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.watchlistTeaserData = [
+                {
+                        href : "/list/watchlist",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot1_logged_out-1670046337._CB306318084_.jpg"
+                },
+                {
+                    href : "/search/title?count=100&title_type=feature,tv_series",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot2_popular-4090757197._CB306318127_.jpg"
+                },
+                {
+                    href : "/chart/top",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot3_top250-575799966._CB306318332_.jpg"
+                }
+    ];
+    </script>
+</div>
+        </li>
+        <li class="spacer"></li>
+    </ul>
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.navbarAdSlots = {
+    titleAd : {
+    },
+    nameAd : {
+    }
+}
+</script>
+</div>
+<div id="nb_extra">
+    <ul id="nb_extra_nav" class="main_nav">
+        <li class="css_nav_item" id="navProMenu">
+            <p class="navCategory">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+> <img alt="IMDbPro Menu" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_nb-720143162._CB306318304_.png" />
+</a>            </p>
+            <span class="downArrow"></span>
+            <div id="navMenuPro" class="sub_nav">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+id="proLink" > <div id="proAd">
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.proMenuTeaser = {
+imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu_user-2082544740._CB306318138_.jpg"
+};
+</script>
+</div>
+<div class="subNavListContainer">
+<img alt="Go to IMDbPro" title="Go to IMDbPro" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_menu-2185879182._CB306318245_.png" />
+<h5>GET INFORMED</h5>
+<p>Industry information at your fingertips</p>
+<h5>GET CONNECTED</h5>
+<p>Over 200,000 Hollywood insiders</p>
+<h5>GET DISCOVERED</h5>
+<p>Enhance your IMDb Page</p>
+<p><strong>Go to IMDbPro &raquo;</strong></p>
+</div>
+</a>            </div>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/apps/?ref_=nb_app"
+>IMDb Apps</a>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/help/?ref_=nb_hlp"
+>Help</a>
+        </li>
+    </ul>
+</div>
+<div id="nb_personal">
+    <ul id="consumer_user_nav" class="main_nav">
+
+        <li class="css_nav_menu" id="navUserMenu">
+            <p class="navCategory singleLine">
+                <a href="/register/login?ref_=nv_usr_lgin_1"
+rel="login" id="nblogin" >Login</a>
+            </p>
+            <span class="downArrow"></span>
+            <div class="sub_nav">
+                <div class="subNavListContainer">
+                    <br />
+                    <ul>
+                        <li>
+                            <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=nv_usr_reg_2"
+>Register</a>
+                        </li>
+                        <li>
+                            <a href="/register/login?ref_=nv_usr_lgin_3"
+rel="login" id="nblogin" >Login</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
+  </div>
+</div>
+	
+	<!-- no content received for slot: navstrip -->
+	
+	
+	<!-- no content received for slot: injected_navstrip -->
+	
+<script>
+    if (typeof uet == 'function') {
+      uet("ne");
+    }
+</script>
+                    <div id="pagecontent" itemscope itemtype="http://schema.org/Person">
+	
+	<!-- no content received for slot: injected_billboard -->
+	
+
+<div id="content-2-wide" class="redesign">
+
+    <div class="maindetails_center" id="maindetails_center_top">
+
+                    
+                    
+        
+
+            <div class="article name-overview">
+
+    
+    <div id="name-overview-widget">
+        <table cellspacing="0" cellpadding="0" border="0" id="name-overview-widget-layout">
+            <tbody>
+                <tr>
+                    <td rowspan="2" id="img_primary">
+                        <div class="image">
+<a href="/media/rm4052335616/nm0001885?ref_=nm_ov_ph"
+> <img id="name-poster"
+height="317"
+width="214"
+alt="Lars von Trier Picture"
+title="Lars von Trier Picture"
+src="http://ia.media-imdb.com/images/M/MV5BMTk1MDY1NTQ0NF5BMl5BanBnXkFtZTcwOTcyMDczNg@@._V1_SY317_CR58,0,214,317_AL_.jpg"
+itemprop="image" />
+</a>                                
+                         
+                        </div> 
+                    </td>
+                    
+                    <td id="overview-top">
+
+
+
+
+        
+
+            <div id="prometer_container">
+                <div id="prometer" class="meter-collapsed up">
+                    <div id="meterHeaderBox">
+                        <div class="meterToggleOnHover">STARmeter</div>
+<a href="http://pro.imdb.com/name/nm0001885?rf=cons_nm_meter&ref_=cons_nm_meter"
+id="meterRank" >Top 5000</a>
+                    </div>
+                    <div id="meterChangeRow" class="meterToggleOnHover">
+                            <span>Up</span>
+                        <span id="meterChange">507</span>
+                        <span>this week</span>
+                    </div>
+                    <div id="meterSeeMoreRow" class="meterToggleOnHover">
+<a href="http://pro.imdb.com/name/nm0001885?rf=cons_nm_meter&ref_=cons_nm_meter"
+>View rank on IMDbPro</a>
+                        <span>&raquo;</span>
+                    </div>
+                </div>
+            </div>
+                        
+    <h1 class="header"> <span class="itemprop" itemprop="name">Lars von Trier</span> 
+        
+        
+    </h1>
+    
+        <div class="infobar" id="name-job-categories">
+            
+            
+<a href="#writer"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Writer</span></a>                 <span class="ghost">|</span> 
+            
+            
+<a href="#director"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Director</span></a>                 <span class="ghost">|</span> 
+            
+            
+<a href="#producer"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Producer</span></a>            
+        </div>
+    
+        <hr/>
+                        
+<div class="txt-block" id="name-bio-text">
+        <div class="name-trivia-bio-text">
+                      <div class="inline" itemprop="description">
+Probably the most ambitious and visually distinctive filmmaker to emerge from Denmark since <a href="/name/nm0003433?ref_=nm_ov_bio_lk1">Carl Theodor Dreyer</a> over 60 years earlier, Lars von Trier studied film at the Danish Film School and attracted international attention with his very first feature, <a href="/title/tt0087280?ref_=nm_ov_bio_lk2">The Element of Crime</a> (1984). A highly distinctive blend of film noir and German Expressionism...            <span class="see-more inline nobr-only">
+                    <a href="/name/nm0001885/bio?ref_=nm_ov_bio_sm"
+>See full bio</a> &raquo;
+            </span>
+</div>        </div>
+</div>
+
+                        
+    <div id="name-born-info" class="txt-block">
+        <h4 class="inline">Born:</h4> 
+<a href="/name/nm0001885/bio?ref_=nm_ov_bth_nm"
+> Lars Trier
+</a>            <br />
+   
+  <time datetime="1956-4-30" itemprop="birthDate">
+<a href="/search/name?birth_monthday=4-30&refine=birth_monthday&ref_=nm_ov_bth_monthday"
+>April 30</a>, 
+     
+<a href="/search/name?birth_year=1956&ref_=nm_ov_bth_year"
+>1956</a>    
+  </time>
+            in
+            <a href="/search/name?birth_place=Copenhagen,+Denmark&ref_=nm_ov_bth_place"
+>Copenhagen, Denmark</a>
+    </div>
+
+                        
+                        
+                   </td>
+                <tr>
+                   <td id="overview-middle">
+        <div id="name-pro-info" class="pro-list">
+            <span class="pro-list-title"><a href="http://pro.imdb.com/name/nm0001885?rf=cons_nm_more&ref_=cons_nm_more"
+>More at IMDbPro</a> &raquo;</span>
+<a href="http://pro.imdb.com/name/nm0001885/agent?rf=cons_nm_contact&ref_=cons_nm_contact"
+><img class="absmiddle" width="13" height="13" src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/phone-375450651._CB379390030_.png" alt="Contact Info on IMDbPro"/></a>                <strong>Contact Info:</strong>
+<a href="http://pro.imdb.com/name/nm0001885/agent?rf=cons_nm_contact&ref_=cons_nm_contact"
+> View company
+</a><br />
+            
+            
+<a href="http://pro.imdb.com/name/nm0001885?rf=cons_nm_photo&ref_=cons_nm_photo"
+><img class="absmiddle" width="13" height="13" src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/profile-152317997._CB379391798_.png" alt="Add or change photos on IMDbPro"/ ></a>                <strong>Represent Lars von Trier?</strong> <a href="http://pro.imdb.com/name/nm0001885?rf=cons_nm_photo&ref_=cons_nm_photo"
+>Add or change photos</a>
+        </div>
+                        
+                   </td>
+                </tr>
+            </tbody>
+        </table>
+        
+    
+        <div class="mediastrip_container">
+        <div class="mediastrip">
+                
+<a href="/media/rm1093192704/nm0001885?ref_=nm_phs_md_1"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Still of Lars von Trier in Antichrist (2009)" title="Still of Lars von Trier in Antichrist (2009)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTYzOTAwMjM1Nl5BMl5BanBnXkFtZTgwNTkzMDIwMjE@._V1_SX99_CR0,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm4098791680/nm0001885?ref_=nm_phs_md_2"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Lars von Trier and Jens Albinus in Direkt&oslash;ren for det hele (2006)" title="Lars von Trier and Jens Albinus in Direkt&oslash;ren for det hele (2006)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTUzMDQzMzg0M15BMl5BanBnXkFtZTYwNjQ2NDc3._V1_SY99_CR43,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm3906512640/nm0001885?ref_=nm_phs_md_3"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Christian Slater, Uma Thurman, Willem Dafoe, Charlotte Gainsbourg, Udo Kier, Connie Nielsen, Stellan Skarsgård, Lars von Trier, Jamie Bell, Nicolas Bro, Shia LaBeouf, Sophie Kennedy Clark, Stacy Martin and Mia Goth in Nymphomaniac: Vol. I (2013)" title="Christian Slater, Uma Thurman, Willem Dafoe, Charlotte Gainsbourg, Udo Kier, Connie Nielsen, Stellan Skarsgård, Lars von Trier, Jamie Bell, Nicolas Bro, Shia LaBeouf, Sophie Kennedy Clark, Stacy Martin and Mia Goth in Nymphomaniac: Vol. I (2013)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjI3NzUwNzQwM15BMl5BanBnXkFtZTcwNTY5NjI1OQ@@._V1_SY99_CR38,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm3308165120/nm0001885?ref_=nm_phs_md_4"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Lars von Trier in Manderlay (2005)" title="Lars von Trier in Manderlay (2005)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTAwMTY4NDExMDFeQTJeQWpwZ15BbWU2MDcxODE3Ng@@._V1_SY99_CR20,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm4115568896/nm0001885?ref_=nm_phs_md_5"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Lars von Trier in Direkt&oslash;ren for det hele (2006)" title="Lars von Trier in Direkt&oslash;ren for det hele (2006)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTUzMjgwNzIyNl5BMl5BanBnXkFtZTYwNDQ2NDc3._V1_SY99_CR43,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm256227328/nm0001885?ref_=nm_phs_md_6"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Kirsten Dunst, Kiefer Sutherland, Charlotte Gainsbourg, Lars von Trier, Alexander Skarsgård and Manuel Alberto Claro in Melancholia (2011)" title="Kirsten Dunst, Kiefer Sutherland, Charlotte Gainsbourg, Lars von Trier, Alexander Skarsgård and Manuel Alberto Claro in Melancholia (2011)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTk5OTM1MjIxNF5BMl5BanBnXkFtZTcwMzQyOTk5NA@@._V1_SY99_CR30,0,99,99_AL_.jpg" itemprop='image' /></a>        </div>
+            
+            <div class="see-more">
+<a href="/name/nm0001885/mediaindex?ref_=nm_phs_md_sm"
+><span class="titlePageSprite showAllVidsAndPics"></span></a>
+<a href="/name/nm0001885/mediaindex?ref_=nm_phs_md_sm"
+>18 photos</a>                
+<span class="ghost">|</span>        
+<a href="/name/nm0001885/videogallery?ref_=nm_phs_vi"
+>22 videos</a>                
+<span class="ghost">|</span>        
+<a href="/name/nm0001885/news?ref_=nm_phs_nw"
+>4533 news articles</a> &raquo;            </div>
+        </div>
+        
+    </div>
+
+            </div> 
+
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_main');
+    }
+  </script>
+                    
+<script>
+    if (typeof uet == 'function') {
+      uet("cf");
+    }
+</script>
+    </div> 
+    <div id="maindetails_sidebar_bottom" class="maindetails_sidebar" data-caller-name="name-main">
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_sidebar');
+    }
+  </script>
+
+	
+	<!-- no content received for slot: top_rhs -->
+	
+
+                    
+                    
+
+    
+    
+    <div class="aux-content-widget-3 links subnav" div="quicklinks">
+
+            <h3>Quick Links</h3>
+
+
+        <div id="maindetails_quicklinks">
+                <div class="split_0">    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/bio?ref_=nm_ql_1"
+class="link" >Biography</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/awards?ref_=nm_ql_2"
+class="link" >Awards</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/board/?ref_=nm_ql_3"
+class="link" >Message Boards</a>
+                    </span>
+                </li>
+    </ul>
+</div>
+                <div class="split_1">    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/mediaindex?ref_=nm_ql_4"
+class="link" >Photo Gallery</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/?nmdp=1&ref_=nm_ql_5#filmography"
+class="link" >Filmography <span class="ghost quicklink_modifier">(by Job)</span></a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/videogallery?ref_=nm_ql_6"
+class="link" >Trailers and Videos</a>
+                    </span>
+                </li>
+    </ul>
+</div>
+        </div>
+        <hr/>
+
+        <div id="full_subnav">
+
+
+        <h4>Filmography</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=year&explore=title_type&role=nm0001885&ref_=nm_ql_flmg_1"
+class="link" ><span class="ghost">by</span> Year</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/?nmdp=1&ref_=nm_ql_flmg_2#filmography"
+class="link" ><span class="ghost">by</span> Job</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=user_rating&explore=title_type&role=nm0001885&ref_=nm_ql_flmg_3"
+class="link" ><span class="ghost">by</span> Ratings</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=num_votes&explore=title_type&role=nm0001885&ref_=nm_ql_flmg_4"
+class="link" ><span class="ghost">by</span> Votes</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=moviemeter&explore=genres&role=nm0001885&ref_=nm_ql_flmg_5"
+class="link" ><span class="ghost">by</span> Genre</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=moviemeter&explore=keywords&role=nm0001885&ref_=nm_ql_flmg_6"
+class="link" ><span class="ghost">by</span> Keyword</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Personal Details</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/bio?ref_=nm_ql_pdtls_1"
+class="link" >Biography</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/otherworks?ref_=nm_ql_pdtls_2"
+class="link" >Other Works</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/publicity?ref_=nm_ql_pdtls_3"
+class="link" >Publicity Listings</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/officialsites?ref_=nm_ql_pdtls_4"
+class="link ghost" >Official Sites</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/agent?ref_=nm_ql_pdtls_5"
+class="link" >Contact Info <span class="ghost quicklink_modifier">(IMDbPro)</span></a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Did You Know?</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/bio?ref_=nm_ql_dyk_1#quotes"
+class="link" >Personal Quotes</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/bio?ref_=nm_ql_dyk_2#trivia"
+class="link" >Trivia </a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/bio?ref_=nm_ql_dyk_3#trademark"
+class="link" >Trademark</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Photo & Video</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/mediaindex?ref_=nm_ql_pv_1"
+class="link" >Photo Gallery</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/videogallery?ref_=nm_ql_pv_2"
+class="link" >Trailers and Videos</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Opinion</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/awards?ref_=nm_ql_op_1"
+class="link" >Awards</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/board/?ref_=nm_ql_op_2"
+class="link" >Message Boards</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Related Items</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/workedwith?ref_=nm_ql_rel_1"
+class="link" >Credited With</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/nowshowing?ref_=nm_ql_rel_2"
+class="link ghost" >TV Schedule</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/news?ref_=nm_ql_rel_3"
+class="link" >NewsDesk</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0001885/externalsites?ref_=nm_ql_rel_4"
+class="link" >External Sites</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Professional Services</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/widget/resume_redirect/?ref_=nm_ql_pro_1"
+class="link" >Promote yourself with a resume</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/name/nm0001885?ref_=nm_ql_pro_2"
+class="link" >Add or change photos</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/name/nm0001885?ref_=nm_ql_pro_3"
+class="link" >Get more at IMDbPro</a>
+                    </span>
+                </li>
+    </ul>
+            <hr/>
+        </div>
+
+        <div class="show_more"><span class="titlePageSprite arrows show"></span>Explore More</div>
+        <div class="show_less"><span class="titlePageSprite arrows hide"></span>Show Less</div>
+    </div>
+
+                    
+        <div class="aux-content-widget-2">
+        <span class="ab_widget"
+        >
+            <div class="ab_ninja ">
+<span class="ninja_header"> <span class="oneline"> <a href="/imdbpicks/?ref_=nm_pks_hd" > <h3>IMDb Picks: May</h3> </a> </span> </span> <p class="blurb">Visit our IMDb Picks section to see our recommendations of movies and TV shows coming out in May, sponsored by COVERGIRL.</p> <div class="ninja_image_pack"> <div class="ninja_center"> <div class="ninja_image first_image last_image" style="width:100%;height:auto;" > <div style="width:100%;height:auto;margin:0 auto;"> <div class="widget_image"> <div class="image"> <a href="/imdbpicks/?ref_=nm_pks_i_1" > <img itemprop="image" class="pri_image" src="http://ia.media-imdb.com/images/M/MV5BOTMzMzk1NjE1OV5BMl5BanBnXkFtZTgwNDIwNTI1NTE@._V1_SY460_CR0,0,613,460_AL_.jpg" data-src-x2="http://ia.media-imdb.com/images/M/MV5BOTMzMzk1NjE1OV5BMl5BanBnXkFtZTgwNDIwNTI1NTE@._V1_SY460_CR0,0,613,460_AL_.jpg" /> </a> <div class="widget_caption caption_overlay"> <div class="primary"> <div class="onoverflow"> <a href="/imdbpicks/?ref_=nm_pks_cap_pri_1" > Pitch Perfect 2 </a> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div> <p class="seemore position_bottom"> <a href="/imdbpicks/?ref_=nm_pks_sm" >Visit the IMDb Picks section</a> </p> </div>    </div>
+
+        </span>
+        </div>
+
+
+                    
+
+  <div class="aux-content-widget-2" id="social-share-widget"> 
+    
+    <div class="social">
+      <div class="social_networking"> 
+       <span><strong>Share</strong> this page:</span>
+  <a onclick="window.open(&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0001885%2F&quot;, 'newWindow', 'width=626, height=436'); return false;" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0001885%2F" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
+  <a onclick="window.open(&quot;http://twitter.com/intent/tweet?text=Lars%20von%20Trier%20-%20http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0001885%2F&quot;, 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/intent/tweet?text=Lars%20von%20Trier%20-%20http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0001885%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
+  <a onclick="$('div.social input[name=share-link]').show().select(); return false;" title="Share the page" class="share_icon share_url_link" href="http://www.imdb.com/name/nm0001885/"></a>
+      </div>
+      <input type="text" name="share-link" value="http://www.imdb.com/name/nm0001885/" readonly>
+    </div>
+  <script type="text/javascript">generic.monitoring.start_timing("facebook_like_iframe");</script>
+  <div class="social_networking_like">
+    <iframe
+      id="iframe_like"
+      name="fbLikeIFrame_0"
+      class="social-iframe"
+      scrolling="no"
+      frameborder="0"
+      allowTransparency="allowTransparency"
+      ref="http://www.imdb.com/name/nm0001885/"
+      width=280
+      height=65></iframe>
+  </div>
+  </div>
+
+                    
+
+	
+	<!-- no content received for slot: rhs_cornerstone -->
+	
+
+                    
+
+
+      <div class="aux-content-widget-2" >
+        <h3>Related News</h3>
+
+        
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm0001885/news?ref_=nm_nwr_1#ni58550198"
+>Watch: Lars von Trier Explains the Rules of Dogme 95</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  30 April 2015 11:09 AM, EDT
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0000353?ref_=nm_nwr_1"
+>Thompson on Hollywood</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item even" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm0001885/news?ref_=nm_nwr_2#ni58546927"
+>Far from the Madding Crowd review: Carey Mulligan in corset mode</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  29 April 2015 5:00 AM, EDT
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0000023?ref_=nm_nwr_2"
+>Digital Spy</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm0001885/news?ref_=nm_nwr_3#ni58545254"
+>Far from the Madding Crowd director Thomas Vinterberg: ‘It’s always been me-me-me-me – until now’</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  28 April 2015 1:10 PM, EDT
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0000680?ref_=nm_nwr_3"
+>The Guardian - Film News</a>
+                                </span>
+                        </small>
+                    </div>
+       
+            <div class="see-more">
+                <a href="/name/nm0001885/news?ref_=nm_nwr_sm"
+>See all 4533 related articles</a>&nbsp;&raquo;
+            </div>
+
+      </div>
+
+                    
+
+        <div class="aux-content-widget-2">
+                <h3>On Amazon Instant Video</h3>
+    <div id="on-aiv-list">
+
+                
+                        <div class="on-aiv-row">
+                            <div class="on-aiv-button" style="font-family:Verdana,Arial,sans-serif;font-size:11px;">
+    <a href="/offsite/?page-action=watch-aiv&token=BCYrLM-mM9NQN8hxtDNBsuvR9TY4FyRj5lwjizGJfrsPXKJHkHrKYOxh10XEk_hJJW8wq9PCyP5B%0D%0AYdQ2SLMSuZEKsVL6YuTPvCSwH8JRY1DdcmyUcEa8BJ2s4BEh3AxZmme3t_pW4Xq7EAqYRDlBe12W%0D%0Ax2ujHioxRRJ4pchddm-Zrb-ojBMEFcwesgbOdNt4fGJ-4ROvX6wLBvLHGJ8wpIP5D9R0VA9ia8rg%0D%0AgryxyobCLKmTsPTgvzD1zuUmKQ1GiYg_EW2JKh8OF_c-EIO-F9y-Vkt000j_u12X3O3zVIoa9qE%0D%0A&ref_=nm_aiv_1"
+rel="nofollow" itemprop='url'>Watch Now</a>
+                            </div>
+                            <div class="on-aiv-title">
+                                <a href="/title/tt1937390?ref_=nm_aiv_t1"
+>Nymphomaniac: Vol. I</a>
+                            </div>
+                        </div>
+                
+                        <div class="on-aiv-row">
+                            <div class="on-aiv-button" style="font-family:Verdana,Arial,sans-serif;font-size:11px;">
+    <a href="/offsite/?page-action=watch-aiv&token=BCYlPArcK1hkazYrT5UlHWc699PgucCNKUGXHMkX8vrTthEMqDfvUSLDTTgtIM2DQFUw1dTjxRZd%0D%0A_x5yyTeW8tD-mVqMWl7rwrgurraT_fwwzLoHyws0-mv1OXAl-0siAxG0piNSz2hBwAmBxI6npY1Y%0D%0AtVxDQ6-0LFAI2Xow7hbX5xsDE5-PgJpI73cDuedIKM-isXPG49y4U4tOdnf6JstaViguaTw85lGg%0D%0Adzia1N4QbU321PmlvR8wW4AYYgQeKugO2qCMuQ617X1iRJIuYJnF0e9PR0ua8oJqTGkbLo8BJSI%0D%0A&ref_=nm_aiv_2"
+rel="nofollow" itemprop='url'>Watch Now</a>
+                            </div>
+                            <div class="on-aiv-title">
+                                <a href="/title/tt0276919?ref_=nm_aiv_t2"
+>Dogville</a>
+                            </div>
+                        </div>
+                
+                
+                        <div class="on-aiv-row">
+                            <div class="on-aiv-button" style="font-family:Verdana,Arial,sans-serif;font-size:11px;">
+    <a href="/offsite/?page-action=watch-aiv&token=BCYgZ3yYgLeDUCAFY6ZC90d9mg6VlQL4Ruz76YPS67HajOKgGXLjMkfFY-25EcEnWlNon7D6U6JA%0D%0ARK2r-dG5jOJKNtbFSb2TzObWVPUTb61L4WclodqjHCRvL079arp6jAbhuMDZD70pAcwSPELpvdQ9%0D%0AFtLIKmGJ-k6sU6yLep1PitHBO4vx5bIXqCOREOuMpWrnf5AZun5BN1TwK5wG6dl3gHix8l0FR4rA%0D%0AwHJ2pVkfa4aOWIVkEzwaIMhtY_5Eys_PyUN6JUJQazr4e-zZUqpRlmSuNrkE-Zn4H9mTVBEeKLY%0D%0A&ref_=nm_aiv_3"
+rel="nofollow" itemprop='url'>Watch Now</a>
+                            </div>
+                            <div class="on-aiv-title">
+                                <a href="/title/tt1527186?ref_=nm_aiv_t3"
+>Melancholia</a>
+                            </div>
+                        </div>
+                
+                        <div class="on-aiv-row">
+                            <div class="on-aiv-button" style="font-family:Verdana,Arial,sans-serif;font-size:11px;">
+    <a href="/offsite/?page-action=watch-aiv&token=BCYpOaWD1kreIGZwZE6U2RM6tEhubiTdQwUKZt9zbR2A0Q0a0LJy5LrHeBWIPtPMflP2s92EcU5r%0D%0AvrFWS1srQRkUmAsM0i-5C-P6ScjpxESg7zYjmn1-R9CKfMGSc40lsl8dzd3NH3-feWWrYp7PK8ef%0D%0ABDaTVkN-ZOV-CRJPXEYdHP6M4x55mVj0ooVhzJfivvMfuyXqy65dSjuEqeF-aeuTOMzhFqNAPfSu%0D%0AkjEaxvjkJCfByqW8u7TMrfhK5HaDyzdm3CuqKQ8dKTaKrdZxg3djmfCkIjBatWCtmF2m1SDFPn8%0D%0A&ref_=nm_aiv_4"
+rel="nofollow" itemprop='url'>Watch Now</a>
+                            </div>
+                            <div class="on-aiv-title">
+                                <a href="/title/tt0870984?ref_=nm_aiv_t4"
+>Antichrist</a>
+                            </div>
+                        </div>
+    </div>
+                <div class="see-more">
+                    <a href="/offsite/?page-action=watch-aiv&token=BCYpwQb6rZvFtZWalXC2GSiK5OooYwzbBTkV7BucC2ZSOFXhG6eQAniO4A4N66bnjnaK4bm32SVK%0D%0AdIXlf7bWlXczr1YRExNYFMLMojKEY308QgBjeVoa73uQhJEZufIyPsqx4kr8G5S0oJPNO943oE5k%0D%0AbG30Tldf5u4A3aV-qCAjh7nSspumxbt6B8VARgKuooVIrCIvUgoTVVDQP5y8or8PavxcvQt3-YtD%0D%0ATz0tRBbCr4gB91g7gb0MOFkrbBIdD9sgRjlnX9nh61XAfgxWEh9OKpz4-7dHHsQwdAygJ-RTYw0%0D%0A&ref_=nm_aiv_sm"
+>See more on Amazon Instant Video</a> &raquo;
+                </div>
+        </div>
+
+
+                    
+
+            <div class="aux-content-widget-2" >
+    <h3>Projects In Development <a href="/help/show_leaf?proindevelopment"
+class="titlePageSprite helpInSprite" ></a></h3>
+            <div class="devitem odd">
+<a href="/title/tt1849127?ref_=nm_dev_1"
+> The Boss of It All
+</a>            </div>
+            <div class="devitem even">
+<a href="/title/tt1935904?ref_=nm_dev_2"
+> The Five Obstructions: Scorsese vs. Trier
+</a>            </div>
+    <div class="see-more">
+        Details only on <a href="http://pro.imdb.com/name/nm0001885?rf=cons_nm_pid_det&ref_=cons_nm_pid_det"
+>IMDbPro</a> &raquo;
+    </div>
+            </div>
+
+                    
+
+        <div class="aux-content-widget-2">
+            <div id="relatedListsWidget">
+                <div class="rightcornerlink">
+                    <a href="/list/create?ref_=nm_rls"
+>Create a list</a>&nbsp;&raquo;
+                </div>
+                <h3>User Lists</h3>
+                <p>Related lists from IMDb users</p>
+
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls000682353?ref_=nm_rls_1"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTg3MjgwMzUzOF5BMl5BanBnXkFtZTcwODM5Nzk4MQ@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls000682353?ref_=nm_rls_1"
+>my favorite directors</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 36 people
+            <br />created 19&nbsp;May&nbsp;2011
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview odd">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls009715819?ref_=nm_rls_2"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTcyNDA4Nzk3N15BMl5BanBnXkFtZTcwNDYzMjMxMw@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls009715819?ref_=nm_rls_2"
+>The 25 best directors</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 25 people
+            <br />created 14&nbsp;Jun&nbsp;2012
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls008017207?ref_=nm_rls_3"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTc1NDkwMTQ2MF5BMl5BanBnXkFtZTcwMzY0ODkyMg@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls008017207?ref_=nm_rls_3"
+>Director</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 29 people
+            <br />created 03&nbsp;Aug&nbsp;2012
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview odd">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls052191662?ref_=nm_rls_4"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ1MTY2MTY2Nl5BMl5BanBnXkFtZTcwMDg1ODYwNA@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls052191662?ref_=nm_rls_4"
+>My (alive) Favourite Directors</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 30 people
+            <br />created 19&nbsp;Oct&nbsp;2013
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls076983179?ref_=nm_rls_5"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTU4OTQzODE3M15BMl5BanBnXkFtZTgwMTk5OTk1MjE@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls076983179?ref_=nm_rls_5"
+>Diretores dinamarqueses</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 32 people
+            <br />created 2&nbsp;weeks&nbsp;ago
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+                <div class="see-more">
+                    <a href="/lists/nm0001885?ref_=nm_rls_sm"
+>See all related lists</a>&nbsp;&raquo;
+                </div>
+            </div>
+        </div>
+
+                    
+
+    <div class="aux-content-widget-2">
+        <h3>Do you have a demo reel?</h3>
+
+        <p>Add it to your IMDbPage</p>
+        <div class="video-browser-widget">
+             <div id="demoReelShoveler">
+
+
+<a href="/video/user/vi3091568921?ref_=nm_demo_1"
+title="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" alt="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" class="video-colorbox" data-video="vi3091568921" data-context="user" data-rid="" widget-context="nameDemoreels" itemprop="url" ><img height="90" width="120" alt="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" title="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMjI0NDMxOTE4MV5BMl5BanBnXkFtZTgwODI5MzczMzE@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZA01:21,103,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,2,-2_.jpg" itemprop='image' viconst="vi3091568921" /></a>
+
+<a href="/video/user/vi4067727897?ref_=nm_demo_2"
+title="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" alt="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" class="video-colorbox" data-video="vi4067727897" data-context="user" data-rid="" widget-context="nameDemoreels" itemprop="url" ><img height="90" width="120" alt="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" title="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMTcyNTgxMDMyNF5BMl5BanBnXkFtZTcwNTkxOTQ0NA@@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZA03:00,103,1,14,36,verdenab,7,255,255,255,1_.jpg" itemprop='image' viconst="vi4067727897" /></a>
+             </div>
+        </div>
+        <div id="pro_demo_reel_link">
+<a href="http://pro.imdb.com/demoreels/list?rf=cons_nm_demoreel&ref_=cons_nm_demoreel"
+>Find out more at IMDb Pro</a> &raquo;
+        </div>
+    </div>
+
+                    
+
+    <div class="aux-content-widget-2">
+        <h3>Connect with IMDb</h3>
+        <div id="facebookWrapper">
+            <iframe
+                scrolling="no"
+                frameborder="0"
+                id="facebookIframe"
+                allowTransparency="true"></iframe>
+        </div>
+        <hr>
+        <iframe allowtransparency="true"
+            frameborder="0"
+            role="presentation"
+            scrolling="no"
+            id="twitterIframe"></iframe>
+    </div>
+
+                    
+
+<div class="aux-content-widget-2 ">
+    <h3>How Much Have You Seen?</h3>
+How much of <a href="/seen/nm0001885/?ref_=nm_se"
+>Lars von Trier's work</a> have you seen?
+</div>
+
+                    
+
+<div class="aux-content-widget-2 poll-widget-rhs ">
+    <style>
+        .aux-content-widget-2.poll-widget-rhs ul li { margin-bottom: 0.5em; clear: left; font-weight: bold;}
+        .aux-content-widget-2.poll-widget-rhs span { margin-bottom: 0.5em; clear: left;}
+        .aux-content-widget-2.poll-widget-rhs img { float: left; padding: 0 5px 5px 0; height: 86px; width: 86px;}
+    </style>
+    <h3>User Polls</h3>
+    <ul>
+        <li>
+<a href="/poll/m6__SzSXmew/?ref_=nm_po_i1"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjEwNjg1OTIwNl5BMl5BanBnXkFtZTcwMjU2NjQxMw@@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/m6__SzSXmew/?ref_=nm_po_q1"
+>Meryl Streep Career Choices</a>
+        <li>
+<a href="/poll/hFuXCIrFlgI/?ref_=nm_po_i2"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTYwMDA3NjUzOF5BMl5BanBnXkFtZTYwNzU1NDI2._V1_SY86_CR15,0,86,86_.jpg" /></a>        <a href="/poll/hFuXCIrFlgI/?ref_=nm_po_q2"
+>Lauren Bacall 1924-2014</a>
+        <li>
+<a href="/poll/NiAdKypjOTw/?ref_=nm_po_i3"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTAxNDAyNjE4OTBeQTJeQWpwZ15BbWU3MDc2NDM3MTg@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/NiAdKypjOTw/?ref_=nm_po_q3"
+>Which director, makes the strangest films, in your opinion?</a>
+    </ul>
+    <div class="see-more"><a href="/poll/?ref_=nm_po_sm"
+>See more polls &raquo;</a></div>
+</div>
+
+                    
+
+	
+	<!-- no content received for slot: btf_rhs2 -->
+	
+
+                    
+
+    </div>
+
+
+
+    <div id="maindetails_center_bottom" class="maindetails_center">
+                    
+            <div class="article highlighted">
+        <span itemprop="awards"><b>Nominated for 1 Oscar.</b></span>
+        <span itemprop="awards">Another 96 wins & 80 nominations.</span>
+    <span class="see-more inline">
+<a href="/name/nm0001885/awards?ref_=nm_awd"
+>See more awards</a>&nbsp;&raquo;    </span>
+            </div> 
+                    
+            <div class="article">
+<h2>Known For</h2>
+<div id="knownfor">
+<div>
+<a href="/title/tt1527186/?ref_=nm_knf_i1"
+> <img
+height="200"
+width="148"
+title="Melancholia"
+alt="Melancholia"
+src="http://ia.media-imdb.com/images/M/MV5BMTk4NjM0MjI3MV5BMl5BanBnXkFtZTcwNjcxMDYzNg@@._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt1527186" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt1527186/?ref_=nm_knf_t1"
+>Melancholia (2011)</a>
+</div>
+<div>
+<a href="/title/tt0276919/?ref_=nm_knf_i2"
+> <img
+height="200"
+width="148"
+title="Dogville"
+alt="Dogville"
+src="http://ia.media-imdb.com/images/M/MV5BMTkwNTg2MTI1NF5BMl5BanBnXkFtZTcwMDM1MzUyMQ@@._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt0276919" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0276919/?ref_=nm_knf_t2"
+>Dogville (2003)</a>
+</div>
+<div>
+<a href="/title/tt0168629/?ref_=nm_knf_i3"
+> <img
+height="200"
+width="148"
+title="Dancer in the Dark"
+alt="Dancer in the Dark"
+src="http://ia.media-imdb.com/images/M/MV5BMTIxNDMwNTQ3NV5BMl5BanBnXkFtZTYwMDU4MzQ5._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt0168629" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0168629/?ref_=nm_knf_t3"
+>Dancer in the Dark (2000)</a>
+</div>
+<div class="last">
+<a href="/title/tt1937390/?ref_=nm_knf_i4"
+> <img
+height="200"
+width="148"
+title="Nymphomaniac: Vol. I"
+alt="Nymphomaniac: Vol. I"
+src="http://ia.media-imdb.com/images/M/MV5BMjA3Njc5MjI5Ml5BMl5BanBnXkFtZTgwNTY3Mjg3MDE@._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt1937390" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt1937390/?ref_=nm_knf_t4"
+>Nymphomaniac: Vol. I (2013)</a>
+</div>
+</div>
+            </div> 
+                    
+            <div class="article">
+<div class="rightcornerlink">
+<span class="filmo-show-hide-all"
+style="display: inline;"
+onclick="showOrHideAll();">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show_mini-603933165._CB306318127_.png" alt="Show" width="14" height="12" class="absmiddle">&nbsp;Show all
+</span>
+<span class="filmo-show-hide-all"
+style="display: none;"
+onclick="showOrHideAll();">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide_mini-3743750714._CB306318255_.png" alt="Hide" width="14" height="12" class="absmiddle">&nbsp;Hide all
+</span>
+&nbsp;<span>|</span>&nbsp;
+<form name="navform" method="get" action="filmosummary" id="filmoform">
+<select name="sort" class="fixed">
+<option value="">Show by...</option>
+<option value="?nmdp=1">Job</option>
+<option value="/filmosearch?sort=year&explore=title_type&role=nm0001885">Year &raquo;</option>
+<option value="/filmosearch?sort=user_rating&explore=title_type&role=nm0001885">Ratings &raquo;</option>
+<option value="/filmosearch?sort=num_votes&explore=title_type&role=nm0001885">Votes &raquo;</option>
+<option value="/filmosearch?sort=moviemeter&explore=genres&role=nm0001885">Genre &raquo;</option>
+<option value="/filmosearch?sort=moviemeter&explore=keywords&role=nm0001885">Keyword &raquo;</option>
+</select>
+</form>
+&nbsp;<span>|</span>&nbsp;
+<a href="/updates?edit=nm0001885/filmography&ref_=nm_flmg_edt"
+> Edit
+</a> </div>
+<h2>Filmography</h2>
+<div id="jumpto">
+Jump to:
+<a href="#writer"
+onclick="handleFilmoJumpto(this);" data-category="writer">Writer</a></a>
+<span class="ghost">|</span> <a href="#director"
+onclick="handleFilmoJumpto(this);" data-category="director">Director</a></a>
+<span class="ghost">|</span> <a href="#producer"
+onclick="handleFilmoJumpto(this);" data-category="producer">Producer</a></a>
+<span class="ghost">|</span> <a href="#actor"
+onclick="handleFilmoJumpto(this);" data-category="actor">Actor</a></a>
+<span class="ghost">|</span> <a href="#cinematographer"
+onclick="handleFilmoJumpto(this);" data-category="cinematographer">Cinematographer</a></a>
+<span class="ghost">|</span> <a href="#editor"
+onclick="handleFilmoJumpto(this);" data-category="editor">Editor</a></a>
+<span class="ghost">|</span> <a href="#miscellaneous"
+onclick="handleFilmoJumpto(this);" data-category="miscellaneous">Miscellaneous Crew</a></a>
+<span class="ghost">|</span> <a href="#camera_department"
+onclick="handleFilmoJumpto(this);" data-category="camera_department">Camera and Electrical Department</a></a>
+<span class="ghost">|</span> <a href="#soundtrack"
+onclick="handleFilmoJumpto(this);" data-category="soundtrack">Soundtrack</a></a>
+<span class="ghost">|</span> <a href="#assistant_director"
+onclick="handleFilmoJumpto(this);" data-category="assistant_director">Second Unit Director or Assistant Director</a></a>
+<span class="ghost">|</span> <a href="#music_department"
+onclick="handleFilmoJumpto(this);" data-category="music_department">Music department</a></a>
+<span class="ghost">|</span> <a href="#thanks"
+onclick="handleFilmoJumpto(this);" data-category="thanks">Thanks</a></a>
+<span class="ghost">|</span> <a href="#self"
+onclick="handleFilmoJumpto(this);" data-category="self">Self</a></a>
+<span class="ghost">|</span> <a href="#archive_footage"
+onclick="handleFilmoJumpto(this);" data-category="archive_footage">Archive footage</a></a>
+</div>
+<div id="filmography">
+<div id="filmo-head-writer" class="head" data-category="writer" onclick="toggleFilmoCategory(this);">
+<span id="hide-writer" class="hide-link"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-writer" class="show-link"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="writer">Writer</a> (37 credits)
+</div>
+<div class="filmo-category-section"
+>
+<div class="filmo-row odd" id="writer-tt4003440">
+<span class="year_column">
+&nbsp;2016
+</span>
+<b><a href="/title/tt4003440/?ref_=nm_flmg_wr_1"
+>The House That Jack Built</a></b>
+(TV Series) (8 episodes) (<a href="/r/legacy-inprod-name/title/tt4003440" class="in_production">announced</a>)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt4615242/?ref_=nm_flmg_wr_1"
+>Episode #1.1</a>
+(2016)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4615260/?ref_=nm_flmg_wr_1"
+>Episode #1.8</a>
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4615258/?ref_=nm_flmg_wr_1"
+>Episode #1.7</a>
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4615254/?ref_=nm_flmg_wr_1"
+>Episode #1.6</a>
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4615252/?ref_=nm_flmg_wr_1"
+>Episode #1.5</a>
+</div>
+<div id="more-episodes-tt4003440-writer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="8"
+onclick="toggleSeeMoreEpisodes(this,'nm0001885','tt4003440','writer',0); return false;">Show all 8 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="writer-tt1937390">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt1937390/?ref_=nm_flmg_wr_2"
+>Nymphomaniac: Vol. I</a></b>
+(written by)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt2382009">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt2382009/?ref_=nm_flmg_wr_3"
+>Nymphomaniac: Vol. II</a></b>
+(written by)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt4372034">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt4372034/?ref_=nm_flmg_wr_4"
+>Selma Jezková</a></b>
+(Video) (based on the screenplay by)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt1527186">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1527186/?ref_=nm_flmg_wr_5"
+>Melancholia</a></b>
+(written by)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt1888523">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1888523/?ref_=nm_flmg_wr_6"
+>Dimension 1991-2024</a></b>
+(Video short)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0870984">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt0870984/?ref_=nm_flmg_wr_7"
+>Antichrist</a></b>
+(written by)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0482358">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0482358/?ref_=nm_flmg_wr_8"
+>De unge år: Erik Nietzsche sagaen del 1</a></b>
+(as Erik Nietzsche)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0469754">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0469754/?ref_=nm_flmg_wr_9"
+>Direktøren for det hele</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0434695">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0434695/?ref_=nm_flmg_wr_10"
+>Klovn</a></b>
+(TV Series) (writer - 1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0620781/?ref_=nm_flmg_wr_10"
+>It's a Jungle Down There</a>
+(2005)
+... (writer)
+</div>
+</div>
+<div class="filmo-row odd" id="writer-tt0342735">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0342735/?ref_=nm_flmg_wr_11"
+>Manderlay</a></b>
+(written by - as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0342272">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0342272/?ref_=nm_flmg_wr_12"
+>Dear Wendy</a></b>
+(written by)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0324864">
+<span class="year_column">
+&nbsp;
+</span>
+<b><a href="/title/tt0324864/?ref_=nm_flmg_wr_13"
+>Kingdom Hospital</a></b>
+(TV Series) (2 episodes, 2004) (original mini-series - 5 episodes, 2004) (based on the mini-series "The Kingdom" written by - 3 episodes, 2004)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1054266/?ref_=nm_flmg_wr_13"
+>Shoulda' Stood in Bed</a>
+(2004)
+... (original mini-series)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1054265/?ref_=nm_flmg_wr_13"
+>Seizure Day</a>
+(2004)
+... (original mini-series)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1054263/?ref_=nm_flmg_wr_13"
+>Heartless</a>
+(2004)
+... (original mini-series)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1054258/?ref_=nm_flmg_wr_13"
+>Black Noise</a>
+(2004)
+... (original mini-series)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1054269/?ref_=nm_flmg_wr_13"
+>The Young and the Headless</a>
+(2004)
+... (original mini-series)
+</div>
+<div id="more-episodes-tt0324864-writer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="10"
+onclick="toggleSeeMoreEpisodes(this,'nm0001885','tt0324864','writer',12); return false;">Show all 10 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="writer-tt0413956">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0413956/?ref_=nm_flmg_wr_14"
+>Dogville: The Pilot</a></b>
+(Video short)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0354575">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0354575/?ref_=nm_flmg_wr_15"
+>De fem benspænd</a></b>
+(Documentary) (idea - uncredited) / (script - segment "Avedøre, Denmark")
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0276919">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0276919/?ref_=nm_flmg_wr_16"
+>Dogville</a></b>
+(written by - as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0168629">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0168629/?ref_=nm_flmg_wr_17"
+>Dancer in the Dark</a></b>
+(written by - as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0242084">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0242084/?ref_=nm_flmg_wr_18"
+>De udstillede</a></b>
+(Documentary)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0154421">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0154421/?ref_=nm_flmg_wr_19"
+>Idioterne</a></b>
+(writer)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0108906">
+<span class="year_column">
+&nbsp;
+</span>
+<b><a href="/title/tt0108906/?ref_=nm_flmg_wr_20"
+>Riget</a></b>
+(TV Mini-Series) (4 episodes, 1997) (writer - 3 episodes, 1994) (screenplay - 1 episode, 1994)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1346596/?ref_=nm_flmg_wr_20"
+>Pandæmonium</a>
+(1997)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1346595/?ref_=nm_flmg_wr_20"
+>Gargantua</a>
+(1997)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1346594/?ref_=nm_flmg_wr_20"
+>Trækfugle</a>
+(1997)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1346807/?ref_=nm_flmg_wr_20"
+>Mors in Tabula</a>
+(1997)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1345216/?ref_=nm_flmg_wr_20"
+>De levende døde</a>
+(1994)
+... (writer)
+</div>
+<div id="more-episodes-tt0108906-writer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="8"
+onclick="toggleSeeMoreEpisodes(this,'nm0001885','tt0108906','writer',19); return false;">Show all 8 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="writer-tt0115751">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0115751/?ref_=nm_flmg_wr_21"
+>Breaking the Waves</a></b>
+(written by - as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0489608">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0489608/?ref_=nm_flmg_wr_22"
+>Marathon</a></b>
+(TV Series) (concept - 6 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1612188/?ref_=nm_flmg_wr_22"
+>Jens Arentzen</a>
+(1996)
+... (concept)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0641791/?ref_=nm_flmg_wr_22"
+>Jens Okking</a>
+(1996)
+... (concept)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0641790/?ref_=nm_flmg_wr_22"
+>Anne Marie Helger</a>
+(1996)
+... (concept)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0641792/?ref_=nm_flmg_wr_22"
+>Pia Kjærsgaard</a>
+(1996)
+... (concept)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0641789/?ref_=nm_flmg_wr_22"
+>Ali Hamann</a>
+(1996)
+... (concept)
+</div>
+<div id="more-episodes-tt0489608-writer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="6"
+onclick="toggleSeeMoreEpisodes(this,'nm0001885','tt0489608','writer',21); return false;">Show all 6 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="writer-tt0332936">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0332936/?ref_=nm_flmg_wr_23"
+>Lærerværelset</a></b>
+(TV Series) (concept - 6 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1011648/?ref_=nm_flmg_wr_23"
+>Episode #1.6</a>
+(1994)
+... (concept)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1011647/?ref_=nm_flmg_wr_23"
+>Episode #1.5</a>
+(1994)
+... (concept)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1011646/?ref_=nm_flmg_wr_23"
+>Episode #1.4</a>
+(1994)
+... (concept)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1011645/?ref_=nm_flmg_wr_23"
+>Episode #1.3</a>
+(1994)
+... (concept)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1011644/?ref_=nm_flmg_wr_23"
+>Episode #1.2</a>
+(1994)
+... (concept)
+</div>
+<div id="more-episodes-tt0332936-writer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="6"
+onclick="toggleSeeMoreEpisodes(this,'nm0001885','tt0332936','writer',22); return false;">Show all 6 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="writer-tt0101829">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0101829/?ref_=nm_flmg_wr_24"
+>Europa</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0095607">
+<span class="year_column">
+&nbsp;1988
+</span>
+<b><a href="/title/tt0095607/?ref_=nm_flmg_wr_25"
+>Medea</a></b>
+(TV Movie) (adaptation)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0092972">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0092972/?ref_=nm_flmg_wr_26"
+>Epidemic</a></b>
+(screenplay - as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0087280">
+<span class="year_column">
+&nbsp;1984
+</span>
+<b><a href="/title/tt0087280/?ref_=nm_flmg_wr_27"
+>The Element of Crime</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0083634">
+<span class="year_column">
+&nbsp;1982
+</span>
+<b><a href="/title/tt0083634/?ref_=nm_flmg_wr_28"
+>Befrielsesbilleder</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0081245">
+<span class="year_column">
+&nbsp;1980/I
+</span>
+<b><a href="/title/tt0081245/?ref_=nm_flmg_wr_29"
+>Nocturne</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0079546">
+<span class="year_column">
+&nbsp;1979
+</span>
+<b><a href="/title/tt0079546/?ref_=nm_flmg_wr_30"
+>Menthe - la bienheureuse</a></b>
+(Short) (writer)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0075020">
+<span class="year_column">
+&nbsp;1977
+</span>
+<b><a href="/title/tt0075020/?ref_=nm_flmg_wr_31"
+>Orchidégartneren</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt1013528">
+<span class="year_column">
+&nbsp;1971
+</span>
+<b><a href="/title/tt1013528/?ref_=nm_flmg_wr_32"
+>En blomst</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0489730">
+<span class="year_column">
+&nbsp;1970
+</span>
+<b><a href="/title/tt0489730/?ref_=nm_flmg_wr_33"
+>Hvorfor flygte fra det du ved du ikke kan flygte fra? Fordi du er en kujon</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt1013697">
+<span class="year_column">
+&nbsp;1969
+</span>
+<b><a href="/title/tt1013697/?ref_=nm_flmg_wr_34"
+>En røvsyg oplevelse</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt1013713">
+<span class="year_column">
+&nbsp;1969
+</span>
+<b><a href="/title/tt1013713/?ref_=nm_flmg_wr_35"
+>Et skakspil</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt1013665">
+<span class="year_column">
+&nbsp;1968
+</span>
+<b><a href="/title/tt1013665/?ref_=nm_flmg_wr_36"
+>Nat, skat</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt1013746">
+<span class="year_column">
+&nbsp;1967
+</span>
+<b><a href="/title/tt1013746/?ref_=nm_flmg_wr_37"
+>Turen til Squashland</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+</div>
+<div id="filmo-head-director" class="head" data-category="director" onclick="toggleFilmoCategory(this);">
+<span id="hide-director" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-director" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="director">Director</a> (35 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="director-tt4003440">
+<span class="year_column">
+&nbsp;2016
+</span>
+<b><a href="/title/tt4003440/?ref_=nm_flmg_dr_1"
+>The House That Jack Built</a></b>
+(TV Series) (<a href="/r/legacy-inprod-name/title/tt4003440" class="in_production">announced</a>)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt1937390">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt1937390/?ref_=nm_flmg_dr_2"
+>Nymphomaniac: Vol. I</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt2382009">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt2382009/?ref_=nm_flmg_dr_3"
+>Nymphomaniac: Vol. II</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt1527186">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1527186/?ref_=nm_flmg_dr_4"
+>Melancholia</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt1888523">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1888523/?ref_=nm_flmg_dr_5"
+>Dimension 1991-2024</a></b>
+(Video short)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0870984">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt0870984/?ref_=nm_flmg_dr_6"
+>Antichrist</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0973844">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0973844/?ref_=nm_flmg_dr_7"
+>Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence</a></b>
+(segment "Occupations")
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0469754">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0469754/?ref_=nm_flmg_dr_8"
+>Direktøren for det hele</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0342735">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0342735/?ref_=nm_flmg_dr_9"
+>Manderlay</a></b>
+(as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0413956">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0413956/?ref_=nm_flmg_dr_10"
+>Dogville: The Pilot</a></b>
+(Video short)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0354575">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0354575/?ref_=nm_flmg_dr_11"
+>De fem benspænd</a></b>
+(Documentary) (segment "Avedøre, Denmark", uncredited)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0276919">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0276919/?ref_=nm_flmg_dr_12"
+>Dogville</a></b>
+(as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0305405">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0305405/?ref_=nm_flmg_dr_13"
+>D-dag - Den færdige film</a></b>
+(TV Movie)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0168629">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0168629/?ref_=nm_flmg_dr_14"
+>Dancer in the Dark</a></b>
+(as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0229322">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0229322/?ref_=nm_flmg_dr_15"
+>D-dag</a></b>
+(TV Movie)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0238144">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0238144/?ref_=nm_flmg_dr_16"
+>D-dag - Lise</a></b>
+(TV Movie)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0154421">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0154421/?ref_=nm_flmg_dr_17"
+>Idioterne</a></b>
+(uncredited)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0108906">
+<span class="year_column">
+&nbsp;1994-1997
+</span>
+<b><a href="/title/tt0108906/?ref_=nm_flmg_dr_18"
+>Riget</a></b>
+(TV Mini-Series) (8 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1346596/?ref_=nm_flmg_dr_18"
+>Pandæmonium</a>
+(1997)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1346595/?ref_=nm_flmg_dr_18"
+>Gargantua</a>
+(1997)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1346594/?ref_=nm_flmg_dr_18"
+>Trækfugle</a>
+(1997)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1346807/?ref_=nm_flmg_dr_18"
+>Mors in Tabula</a>
+(1997)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1345216/?ref_=nm_flmg_dr_18"
+>De levende døde</a>
+(1994)
+</div>
+<div id="more-episodes-tt0108906-director" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="8"
+onclick="toggleSeeMoreEpisodes(this,'nm0001885','tt0108906','director',17); return false;">Show all 8 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="director-tt0115751">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0115751/?ref_=nm_flmg_dr_19"
+>Breaking the Waves</a></b>
+(as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0332936">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0332936/?ref_=nm_flmg_dr_20"
+>Lærerværelset</a></b>
+(TV Series) (6 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1011648/?ref_=nm_flmg_dr_20"
+>Episode #1.6</a>
+(1994)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1011647/?ref_=nm_flmg_dr_20"
+>Episode #1.5</a>
+(1994)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1011646/?ref_=nm_flmg_dr_20"
+>Episode #1.4</a>
+(1994)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1011645/?ref_=nm_flmg_dr_20"
+>Episode #1.3</a>
+(1994)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1011644/?ref_=nm_flmg_dr_20"
+>Episode #1.2</a>
+(1994)
+</div>
+<div id="more-episodes-tt0332936-director" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="6"
+onclick="toggleSeeMoreEpisodes(this,'nm0001885','tt0332936','director',19); return false;">Show all 6 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="director-tt0101829">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0101829/?ref_=nm_flmg_dr_21"
+>Europa</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0095607">
+<span class="year_column">
+&nbsp;1988
+</span>
+<b><a href="/title/tt0095607/?ref_=nm_flmg_dr_22"
+>Medea</a></b>
+(TV Movie)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0092972">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0092972/?ref_=nm_flmg_dr_23"
+>Epidemic</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0087280">
+<span class="year_column">
+&nbsp;1984
+</span>
+<b><a href="/title/tt0087280/?ref_=nm_flmg_dr_24"
+>The Element of Crime</a></b>
+(as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0083634">
+<span class="year_column">
+&nbsp;1982
+</span>
+<b><a href="/title/tt0083634/?ref_=nm_flmg_dr_25"
+>Befrielsesbilleder</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0083077">
+<span class="year_column">
+&nbsp;1981
+</span>
+<b><a href="/title/tt0083077/?ref_=nm_flmg_dr_26"
+>Den sidste detalje</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0081245">
+<span class="year_column">
+&nbsp;1980/I
+</span>
+<b><a href="/title/tt0081245/?ref_=nm_flmg_dr_27"
+>Nocturne</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0079546">
+<span class="year_column">
+&nbsp;1979
+</span>
+<b><a href="/title/tt0079546/?ref_=nm_flmg_dr_28"
+>Menthe - la bienheureuse</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0075020">
+<span class="year_column">
+&nbsp;1977
+</span>
+<b><a href="/title/tt0075020/?ref_=nm_flmg_dr_29"
+>Orchidégartneren</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt1013528">
+<span class="year_column">
+&nbsp;1971
+</span>
+<b><a href="/title/tt1013528/?ref_=nm_flmg_dr_30"
+>En blomst</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0489730">
+<span class="year_column">
+&nbsp;1970
+</span>
+<b><a href="/title/tt0489730/?ref_=nm_flmg_dr_31"
+>Hvorfor flygte fra det du ved du ikke kan flygte fra? Fordi du er en kujon</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt1013697">
+<span class="year_column">
+&nbsp;1969
+</span>
+<b><a href="/title/tt1013697/?ref_=nm_flmg_dr_32"
+>En røvsyg oplevelse</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt1013713">
+<span class="year_column">
+&nbsp;1969
+</span>
+<b><a href="/title/tt1013713/?ref_=nm_flmg_dr_33"
+>Et skakspil</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt1013665">
+<span class="year_column">
+&nbsp;1968
+</span>
+<b><a href="/title/tt1013665/?ref_=nm_flmg_dr_34"
+>Nat, skat</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt1013746">
+<span class="year_column">
+&nbsp;1967
+</span>
+<b><a href="/title/tt1013746/?ref_=nm_flmg_dr_35"
+>Turen til Squashland</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+</div>
+<div id="filmo-head-producer" class="head" data-category="producer" onclick="toggleFilmoCategory(this);">
+<span id="hide-producer" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-producer" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="producer">Producer</a> (13 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="producer-tt3004746">
+<span class="year_column">
+&nbsp;2014/I
+</span>
+<b><a href="/title/tt3004746/?ref_=nm_flmg_prd_1"
+>The 11th Hour</a></b>
+(executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt1276419">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt1276419/?ref_=nm_flmg_prd_2"
+>A Royal Affair</a></b>
+(executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt1337103">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1337103/?ref_=nm_flmg_prd_3"
+>The Erotic Man</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0349080">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0349080/?ref_=nm_flmg_prd_4"
+>All About Anna</a></b>
+(Video) (co-executive producer - uncredited)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0324864">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0324864/?ref_=nm_flmg_prd_5"
+>Kingdom Hospital</a></b>
+(TV Series) (executive producer - 7 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1054266/?ref_=nm_flmg_prd_5"
+>Shoulda' Stood in Bed</a>
+(2004)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1054265/?ref_=nm_flmg_prd_5"
+>Seizure Day</a>
+(2004)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1054263/?ref_=nm_flmg_prd_5"
+>Heartless</a>
+(2004)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1054269/?ref_=nm_flmg_prd_5"
+>The Young and the Headless</a>
+(2004)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1054262/?ref_=nm_flmg_prd_5"
+>Goodbye Kiss</a>
+(2004)
+... (executive producer)
+</div>
+<div id="more-episodes-tt0324864-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="7"
+onclick="toggleSeeMoreEpisodes(this,'nm0001885','tt0324864','producer',4); return false;">Show all 7 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="producer-tt0425624">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0425624/?ref_=nm_flmg_prd_6"
+>Visions of Europe</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0350373">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0350373/?ref_=nm_flmg_prd_7"
+>South</a></b>
+(co-producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0390112">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0390112/?ref_=nm_flmg_prd_8"
+>I kajak til verdens ende</a></b>
+(TV Movie documentary) (executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0243862">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0243862/?ref_=nm_flmg_prd_9"
+>Italiensk for begyndere</a></b>
+(associate producer - uncredited)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0285610">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0285610/?ref_=nm_flmg_prd_10"
+>HotMen CoolBoyz</a></b>
+(Video) (co-executive producer - uncredited)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0190193">
+<span class="year_column">
+&nbsp;
+</span>
+<b><a href="/title/tt0190193/?ref_=nm_flmg_prd_11"
+>Morten Korch - Ved stillebækken</a></b>
+(TV Series) (executive producer - 21 episodes, 1999 - 2000) (creative producer - 5 episodes, 1999) (producer - 2 episodes, 1999)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1588242/?ref_=nm_flmg_prd_11"
+>Brudte løfter</a>
+(2000)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1580753/?ref_=nm_flmg_prd_11"
+>Fruen på Ringgården</a>
+(2000)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1580754/?ref_=nm_flmg_prd_11"
+>Med Tvivl i Sindet</a>
+(2000)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1580751/?ref_=nm_flmg_prd_11"
+>De bedste hensigter</a>
+(2000)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1580752/?ref_=nm_flmg_prd_11"
+>Det fejreste træ</a>
+(2000)
+... (executive producer)
+</div>
+<div id="more-episodes-tt0190193-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="24"
+onclick="toggleSeeMoreEpisodes(this,'nm0001885','tt0190193','producer',10); return false;">Show all 24 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="producer-tt0221479">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0221479/?ref_=nm_flmg_prd_12"
+>Pink Prison</a></b>
+(Video) (co-executive producer - uncredited)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0182928">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0182928/?ref_=nm_flmg_prd_13"
+>Constance</a></b>
+(Video) (co-executive producer - uncredited)
+<br/>
+</div>
+</div>
+<div id="filmo-head-actor" class="head" data-category="actor" onclick="toggleFilmoCategory(this);">
+<span id="hide-actor" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-actor" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="actor">Actor</a> (13 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="actor-tt3534838">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt3534838/?ref_=nm_flmg_act_1"
+>Too Many Cooks</a></b>
+(TV Short)
+<br/>
+Pie
+(credit only)
+</div>
+<div class="filmo-row even" id="actor-tt0482358">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0482358/?ref_=nm_flmg_act_2"
+>De unge år: Erik Nietzsche sagaen del 1</a></b>
+<br/>
+Narrator
+(voice)
+</div>
+<div class="filmo-row odd" id="actor-tt0973844">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0973844/?ref_=nm_flmg_act_3"
+>Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence</a></b>
+<br/>
+The filmmaker (segment "Occupations")
+</div>
+<div class="filmo-row even" id="actor-tt0469754">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0469754/?ref_=nm_flmg_act_4"
+>Direktøren for det hele</a></b>
+<br/>
+Narrator
+(uncredited)
+</div>
+<div class="filmo-row odd" id="actor-tt0154421">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0154421/?ref_=nm_flmg_act_5"
+>Idioterne</a></b>
+<br/>
+Interviewer
+(voice, uncredited)
+</div>
+<div class="filmo-row even" id="actor-tt0101829">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0101829/?ref_=nm_flmg_act_6"
+>Europa</a></b>
+<br/>
+Jew
+</div>
+<div class="filmo-row odd" id="actor-tt0098551">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0098551/?ref_=nm_flmg_act_7"
+>En verden til forskel</a></b>
+<br/>
+Cab Driver
+</div>
+<div class="filmo-row even" id="actor-tt0087280">
+<span class="year_column">
+&nbsp;1984
+</span>
+<b><a href="/title/tt0087280/?ref_=nm_flmg_act_8"
+>The Element of Crime</a></b>
+<br/>
+Schmuck of Ages
+(as Lars Von Trier)
+</div>
+<div class="filmo-row odd" id="actor-tt0080984">
+<span class="year_column">
+&nbsp;1980
+</span>
+<b><a href="/title/tt0080984/?ref_=nm_flmg_act_9"
+>Kaptajn Klyde og hans venner vender tilbage</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="actor-tt0081245">
+<span class="year_column">
+&nbsp;1980/I
+</span>
+<b><a href="/title/tt0081245/?ref_=nm_flmg_act_10"
+>Nocturne</a></b>
+(Short)
+<br/>
+Masked Man Bashing Through Window
+(uncredited)
+</div>
+<div class="filmo-row odd" id="actor-tt0079546">
+<span class="year_column">
+&nbsp;1979
+</span>
+<b><a href="/title/tt0079546/?ref_=nm_flmg_act_11"
+>Menthe - la bienheureuse</a></b>
+(Short)
+<br/>
+The Driver
+</div>
+<div class="filmo-row even" id="actor-tt0075020">
+<span class="year_column">
+&nbsp;1977
+</span>
+<b><a href="/title/tt0075020/?ref_=nm_flmg_act_12"
+>Orchidégartneren</a></b>
+(Short)
+<br/>
+Victor Morse
+</div>
+<div class="filmo-row odd" id="actor-tt0367836">
+<span class="year_column">
+&nbsp;1969
+</span>
+<b><a href="/title/tt0367836/?ref_=nm_flmg_act_13"
+>Hemmelig sommer</a></b>
+(Short)
+<br/>
+Lars
+(as Lars Trier)
+</div>
+</div>
+<div id="filmo-head-cinematographer" class="head" data-category="cinematographer" onclick="toggleFilmoCategory(this);">
+<span id="hide-cinematographer" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-cinematographer" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="cinematographer">Cinematographer</a> (9 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="cinematographer-tt0154421">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0154421/?ref_=nm_flmg_cin_1"
+>Idioterne</a></b>
+(as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="cinematographer-tt0079546">
+<span class="year_column">
+&nbsp;1979
+</span>
+<b><a href="/title/tt0079546/?ref_=nm_flmg_cin_2"
+>Menthe - la bienheureuse</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row odd" id="cinematographer-tt0075020">
+<span class="year_column">
+&nbsp;1977
+</span>
+<b><a href="/title/tt0075020/?ref_=nm_flmg_cin_3"
+>Orchidégartneren</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row even" id="cinematographer-tt1013528">
+<span class="year_column">
+&nbsp;1971
+</span>
+<b><a href="/title/tt1013528/?ref_=nm_flmg_cin_4"
+>En blomst</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="cinematographer-tt0489730">
+<span class="year_column">
+&nbsp;1970
+</span>
+<b><a href="/title/tt0489730/?ref_=nm_flmg_cin_5"
+>Hvorfor flygte fra det du ved du ikke kan flygte fra? Fordi du er en kujon</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="cinematographer-tt1013697">
+<span class="year_column">
+&nbsp;1969
+</span>
+<b><a href="/title/tt1013697/?ref_=nm_flmg_cin_6"
+>En røvsyg oplevelse</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="cinematographer-tt1013713">
+<span class="year_column">
+&nbsp;1969
+</span>
+<b><a href="/title/tt1013713/?ref_=nm_flmg_cin_7"
+>Et skakspil</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="cinematographer-tt1013665">
+<span class="year_column">
+&nbsp;1968
+</span>
+<b><a href="/title/tt1013665/?ref_=nm_flmg_cin_8"
+>Nat, skat</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="cinematographer-tt1013746">
+<span class="year_column">
+&nbsp;1967
+</span>
+<b><a href="/title/tt1013746/?ref_=nm_flmg_cin_9"
+>Turen til Squashland</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+</div>
+<div id="filmo-head-editor" class="head" data-category="editor" onclick="toggleFilmoCategory(this);">
+<span id="hide-editor" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-editor" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="editor">Editor</a> (9 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="editor-tt0092972">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0092972/?ref_=nm_flmg_edt_1"
+>Epidemic</a></b>
+(as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="editor-tt0079546">
+<span class="year_column">
+&nbsp;1979
+</span>
+<b><a href="/title/tt0079546/?ref_=nm_flmg_edt_2"
+>Menthe - la bienheureuse</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row odd" id="editor-tt0075020">
+<span class="year_column">
+&nbsp;1977
+</span>
+<b><a href="/title/tt0075020/?ref_=nm_flmg_edt_3"
+>Orchidégartneren</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row even" id="editor-tt1013528">
+<span class="year_column">
+&nbsp;1971
+</span>
+<b><a href="/title/tt1013528/?ref_=nm_flmg_edt_4"
+>En blomst</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="editor-tt0489730">
+<span class="year_column">
+&nbsp;1970
+</span>
+<b><a href="/title/tt0489730/?ref_=nm_flmg_edt_5"
+>Hvorfor flygte fra det du ved du ikke kan flygte fra? Fordi du er en kujon</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="editor-tt1013697">
+<span class="year_column">
+&nbsp;1969
+</span>
+<b><a href="/title/tt1013697/?ref_=nm_flmg_edt_6"
+>En røvsyg oplevelse</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="editor-tt1013713">
+<span class="year_column">
+&nbsp;1969
+</span>
+<b><a href="/title/tt1013713/?ref_=nm_flmg_edt_7"
+>Et skakspil</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="editor-tt1013665">
+<span class="year_column">
+&nbsp;1968
+</span>
+<b><a href="/title/tt1013665/?ref_=nm_flmg_edt_8"
+>Nat, skat</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="editor-tt1013746">
+<span class="year_column">
+&nbsp;1967
+</span>
+<b><a href="/title/tt1013746/?ref_=nm_flmg_edt_9"
+>Turen til Squashland</a></b>
+(Short) (as Lars Trier)
+<br/>
+</div>
+</div>
+<div id="filmo-head-miscellaneous" class="head" data-category="miscellaneous" onclick="toggleFilmoCategory(this);">
+<span id="hide-miscellaneous" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-miscellaneous" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="miscellaneous">Miscellaneous Crew</a> (5 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="miscellaneous-tt1276419">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt1276419/?ref_=nm_flmg_msc_1"
+>A Royal Affair</a></b>
+(script supervisor)
+<br/>
+</div>
+<div class="filmo-row even" id="miscellaneous-tt1873572">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1873572/?ref_=nm_flmg_msc_2"
+>Les amours perdues</a></b>
+(Short) (consultant)
+<br/>
+</div>
+<div class="filmo-row odd" id="miscellaneous-tt0329767">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0329767/?ref_=nm_flmg_msc_3"
+>Wilbur Wants to Kill Himself</a></b>
+(script consultant)
+<br/>
+</div>
+<div class="filmo-row even" id="miscellaneous-tt0101829">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0101829/?ref_=nm_flmg_msc_4"
+>Europa</a></b>
+(continuity) / (shooting script)
+<br/>
+</div>
+<div class="filmo-row odd" id="miscellaneous-tt0087280">
+<span class="year_column">
+&nbsp;1984
+</span>
+<b><a href="/title/tt0087280/?ref_=nm_flmg_msc_5"
+>The Element of Crime</a></b>
+(shooting script)
+<br/>
+</div>
+</div>
+<div id="filmo-head-camera_department" class="head" data-category="camera_department" onclick="toggleFilmoCategory(this);">
+<span id="hide-camera_department" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-camera_department" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="camera_department">Camera and Electrical Department</a> (5 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="camera_department-tt0342735">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0342735/?ref_=nm_flmg_cam_1"
+>Manderlay</a></b>
+(camera operator - as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="camera_department-tt0276919">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0276919/?ref_=nm_flmg_cam_2"
+>Dogville</a></b>
+(camera operator - as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="camera_department-tt0168629">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0168629/?ref_=nm_flmg_cam_3"
+>Dancer in the Dark</a></b>
+(camera operator - as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row even" id="camera_department-tt0092972">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0092972/?ref_=nm_flmg_cam_4"
+>Epidemic</a></b>
+(camera operator: 16 mm - as Lars Von Trier)
+<br/>
+</div>
+<div class="filmo-row odd" id="camera_department-tt0087280">
+<span class="year_column">
+&nbsp;1984
+</span>
+<b><a href="/title/tt0087280/?ref_=nm_flmg_cam_5"
+>The Element of Crime</a></b>
+(camera operator: second unit - as Lars Von Trier)
+<br/>
+</div>
+</div>
+<div id="filmo-head-soundtrack" class="head" data-category="soundtrack" onclick="toggleFilmoCategory(this);">
+<span id="hide-soundtrack" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-soundtrack" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="soundtrack">Soundtrack</a> (4 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="soundtrack-tt0280387">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0280387/?ref_=_1"
+>The 73rd Annual Academy Awards</a></b>
+(TV Special) (writer: "I've Seen It All")
+<br/>
+</div>
+<div class="filmo-row even" id="soundtrack-tt0168629">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0168629/?ref_=_2"
+>Dancer in the Dark</a></b>
+(writer: "CVALDA", "I'VE SEEN IT ALL", "SMITH & WESSON", "IN THE MUSICALS, PART 1", "IN THE MUSICALS, PART 2", "107 STEPS", "NEXT TO LAST SONG", "NEW WORLD (OVERTURE)")
+<br/>
+</div>
+<div class="filmo-row odd" id="soundtrack-tt0101829">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0101829/?ref_=_3"
+>Europa</a></b>
+(writer: "Europa Aria")
+<br/>
+</div>
+<div class="filmo-row even" id="soundtrack-tt0092972">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0092972/?ref_=_4"
+>Epidemic</a></b>
+(lyrics: "Epidemic We All Fall Down" - as Lars Von Trier)
+<br/>
+</div>
+</div>
+<div id="filmo-head-assistant_director" class="head" data-category="assistant_director" onclick="toggleFilmoCategory(this);">
+<span id="hide-assistant_director" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-assistant_director" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="assistant_director">Second Unit Director or Assistant Director</a> (3 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="assistant_director-tt0237130">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0237130/?ref_=nm_flmg_asst_1"
+>D-dag - Boris</a></b>
+(TV Movie) (assistant director)
+<br/>
+</div>
+<div class="filmo-row even" id="assistant_director-tt0238142">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0238142/?ref_=nm_flmg_asst_2"
+>D-dag - Carl</a></b>
+(TV Movie) (assistant director)
+<br/>
+</div>
+<div class="filmo-row odd" id="assistant_director-tt0238145">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0238145/?ref_=nm_flmg_asst_3"
+>D-dag - Niels-Henning</a></b>
+(TV Movie) (assistant director)
+<br/>
+</div>
+</div>
+<div id="filmo-head-music_department" class="head" data-category="music_department" onclick="toggleFilmoCategory(this);">
+<span id="hide-music_department" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-music_department" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="music_department">Music department</a> (1 credit)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="music_department-tt0168629">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0168629/?ref_=nm_flmg_msdp_1"
+>Dancer in the Dark</a></b>
+(composer: lyrics - as Lars Von Trier)
+<br/>
+</div>
+</div>
+<div id="filmo-head-thanks" class="head" data-category="thanks" onclick="toggleFilmoCategory(this);">
+<span id="hide-thanks" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-thanks" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="thanks">Thanks</a> (11 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="thanks-tt1773818">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1773818/?ref_=nm_flmg_tk_1"
+>Vogn 347</a></b>
+(Short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt1566589">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1566589/?ref_=nm_flmg_tk_2"
+>Genau</a></b>
+(inspired by)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt1239290">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1239290/?ref_=nm_flmg_tk_3"
+>Kvinden der drømte om en mand</a></b>
+(thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt1095001">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1095001/?ref_=nm_flmg_tk_4"
+>Explicit Ills</a></b>
+(special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0489704">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0489704/?ref_=nm_flmg_tk_5"
+>Europa: The Faecal Location</a></b>
+(Video documentary short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0357608">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0357608/?ref_=nm_flmg_tk_6"
+>Dogville Confessions</a></b>
+(Documentary) (thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0352418">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0352418/?ref_=nm_flmg_tk_7"
+>Huutajat - Screaming Men</a></b>
+(Documentary) (thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0130156">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0130156/?ref_=nm_flmg_tk_8"
+>Olsen-bandens sidste stik</a></b>
+(very special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0136964">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0136964/?ref_=nm_flmg_tk_9"
+>Love Fools</a></b>
+(thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0120572">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0120572/?ref_=nm_flmg_tk_10"
+>Kvinnan i det låsta rummet</a></b>
+(TV Mini-Series) (thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0138883">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0138883/?ref_=nm_flmg_tk_11"
+>Tranceformer - A Portrait of Lars von Trier</a></b>
+(Documentary) (special thanks)
+<br/>
+</div>
+</div>
+<div id="filmo-head-self" class="head" data-category="self" onclick="toggleFilmoCategory(this);">
+<span id="hide-self" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-self" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="self">Self</a> (74 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="self-tt4152950">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt4152950/?ref_=nm_flmg_slf_1"
+>Arteholic</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt3103454">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3103454/?ref_=nm_flmg_slf_2"
+>Trespassing Bergman</a></b>
+(Documentary)
+<br/>
+Himself - Interviewee
+</div>
+<div class="filmo-row odd" id="self-tt2014338">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2014338/?ref_=nm_flmg_slf_3"
+>Side by Side</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt2151733">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2151733/?ref_=nm_flmg_slf_4"
+>MENTALLUSIONS: Radical Eclectic Films of Benjamin Meade</a></b>
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt2044056">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt2044056/?ref_=nm_flmg_slf_5"
+>The Story of Film: An Odyssey</a></b>
+(TV Mini-Series documentary)
+<br/>
+Himself - Interviewee
+<div class="filmo-episodes">
+- <a href="/title/tt2122167/?ref_=nm_flmg_slf_5"
+>Episode #1.13</a>
+(2011)
+... Himself - Interviewee
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2087541/?ref_=nm_flmg_slf_5"
+>Episode #1.7</a>
+(2011)
+... Himself - Interviewee
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2060326/?ref_=nm_flmg_slf_5"
+>Episode #1.2</a>
+(2011)
+... Himself - Interviewee
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0390699">
+<span class="year_column">
+&nbsp;2009-2011
+</span>
+<b><a href="/title/tt0390699/?ref_=nm_flmg_slf_6"
+>Días de cine</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2102655/?ref_=nm_flmg_slf_6"
+>Episode dated 3 November 2011</a>
+(2011)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1442071/?ref_=nm_flmg_slf_6"
+>Episode dated 21 May 2009</a>
+(2009)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0393000">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt0393000/?ref_=nm_flmg_slf_7"
+>Store danskere</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2065588/?ref_=nm_flmg_slf_7"
+>Hans Scherfig</a>
+(2011)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0111920">
+<span class="year_column">
+&nbsp;2000-2011
+</span>
+<b><a href="/title/tt0111920/?ref_=nm_flmg_slf_8"
+>Cinema 3</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1937732/?ref_=nm_flmg_slf_8"
+>Episode dated 19 May 2011</a>
+(2011)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1450167/?ref_=nm_flmg_slf_8"
+>Episode dated 23 May 2009</a>
+(2009)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1856859/?ref_=nm_flmg_slf_8"
+>Episode dated 23 May 2003</a>
+(2003)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1655724/?ref_=nm_flmg_slf_8"
+>Episode dated 2 June 2000</a>
+(2000)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1354875/?ref_=nm_flmg_slf_8"
+>Episode dated 26 May 2000</a>
+(2000)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0930831">
+<span class="year_column">
+&nbsp;2003-2011
+</span>
+<b><a href="/title/tt0930831/?ref_=nm_flmg_slf_9"
+>Gomorron</a></b>
+(TV Series)
+<br/>
+Himself - Från Cannes
+/ Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1936609/?ref_=nm_flmg_slf_9"
+>Episode dated 19 May 2011</a>
+(2011)
+... Himself - Från Cannes
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1076603/?ref_=nm_flmg_slf_9"
+>Om filmen 'Dogville'</a>
+(2003)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt2372393">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt2372393/?ref_=nm_flmg_slf_10"
+>TV Festival Du Cannes 2011</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1825667">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1825667/?ref_=nm_flmg_slf_11"
+>Bag i Klovn - The Movie</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1651079">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1651079/?ref_=nm_flmg_slf_12"
+>Gilles Jacob: CIitizen Cannes</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+(uncredited)
+</div>
+<div class="filmo-row odd" id="self-tt1649264">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1649264/?ref_=nm_flmg_slf_13"
+>...Men filmen är min älskarinna</a></b>
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1558726">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1558726/?ref_=nm_flmg_slf_14"
+>Antichrist: Confessions About Anxiety</a></b>
+(Video short)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row odd" id="self-tt1555744">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1555744/?ref_=nm_flmg_slf_15"
+>Antichrist: The Evil of Women</a></b>
+(Video short)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row even" id="self-tt1565942">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1565942/?ref_=nm_flmg_slf_16"
+>Eden: The Production Design of Antichrist</a></b>
+(Video short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1568901">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1568901/?ref_=nm_flmg_slf_17"
+>The Sound and Music of Antichrist</a></b>
+(Video short)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row even" id="self-tt1565993">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1565993/?ref_=nm_flmg_slf_18"
+>The Three Beggars: The Animals of Antichrist</a></b>
+(Video short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1566947">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1566947/?ref_=nm_flmg_slf_19"
+>The Visual Style of Antichrist</a></b>
+(Video short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0421288">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt0421288/?ref_=nm_flmg_slf_20"
+>At the Movies</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3006266/?ref_=nm_flmg_slf_20"
+>Cannes Film Festival 2009</a>
+(2009)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt2363405">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt2363405/?ref_=nm_flmg_slf_21"
+>TV Festival Du Cannes 2009</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1310630">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1310630/?ref_=nm_flmg_slf_22"
+>The 2008 European Film Awards</a></b>
+(TV Special)
+<br/>
+Himself - World Cinema Achievement Award Recipient
+</div>
+<div class="filmo-row odd" id="self-tt1189373">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1189373/?ref_=nm_flmg_slf_23"
+>Automavison - Det nye regelsæt</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1553418">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1553418/?ref_=nm_flmg_slf_24"
+>Filmbyen, la nouvelle Mecque du cinéma?</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0991148">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0991148/?ref_=nm_flmg_slf_25"
+>Bucht der Milliardäre</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt3758632">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt3758632/?ref_=nm_flmg_slf_26"
+>Etre présent</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0466395">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0466395/?ref_=nm_flmg_slf_27"
+>The Road to Manderlay</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0492873">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0492873/?ref_=nm_flmg_slf_28"
+>The Cannes Experience: Manderlay 2005</a></b>
+(Video documentary short)
+<br/>
+Himself
+/ Director
+</div>
+<div class="filmo-row odd" id="self-tt1592737">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt1592737/?ref_=nm_flmg_slf_29"
+>Den idiotiske filtersætning</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0809921">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0809921/?ref_=nm_flmg_slf_30"
+>Det danske dogmeri</a></b>
+(Video documentary)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row odd" id="self-tt1592580">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt1592580/?ref_=nm_flmg_slf_31"
+>Tilbageblik på Idioterne</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0491630">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0491630/?ref_=nm_flmg_slf_32"
+>A Conversation with Lars von Trier</a></b>
+(Documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0434695">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0434695/?ref_=nm_flmg_slf_33"
+>Klovn</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0620782/?ref_=nm_flmg_slf_33"
+>Kgl. hofnar</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0489681">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0489681/?ref_=nm_flmg_slf_34"
+>A Conversation with Lars von Trier About the Europe Trilogy</a></b>
+(Video documentary short)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row odd" id="self-tt0241090">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0241090/?ref_=nm_flmg_slf_35"
+>Caiga quien caiga</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0535273/?ref_=nm_flmg_slf_35"
+>Episode dated 20 May 2005</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0375285">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0375285/?ref_=nm_flmg_slf_36"
+>Comme au cinéma</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0545050/?ref_=nm_flmg_slf_36"
+>Episode dated 17 May 2005</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0460090">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0460090/?ref_=nm_flmg_slf_37"
+>Lettre à un jeune cinéaste</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1034243/?ref_=nm_flmg_slf_37"
+>Lars von Trier</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt2547156">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt2547156/?ref_=nm_flmg_slf_38"
+>Sunshine Airlines</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2557198/?ref_=nm_flmg_slf_38"
+>Kopenhagen</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0447658">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0447658/?ref_=nm_flmg_slf_39"
+>Letters to Dear Wendy</a></b>
+(TV Special documentary)
+<br/>
+Himself - Screenwriter
+</div>
+<div class="filmo-row even" id="self-tt0370365">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0370365/?ref_=nm_flmg_slf_40"
+>American Short</a></b>
+(Documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0354575">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0354575/?ref_=nm_flmg_slf_41"
+>De fem benspænd</a></b>
+(Documentary)
+<br/>
+Himself
+/ Obstructor (segment "The Conversations")
+</div>
+<div class="filmo-row even" id="self-tt0357608">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0357608/?ref_=nm_flmg_slf_42"
+>Dogville Confessions</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0369030">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0369030/?ref_=nm_flmg_slf_43"
+>Trier, Kidman og Cannes</a></b>
+(TV Special documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0330583">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0330583/?ref_=nm_flmg_slf_44"
+>De lutrede</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0289787">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0289787/?ref_=nm_flmg_slf_45"
+>Wag the Dogma</a></b>
+(Short documentary)
+<br/>
+</div>
+<div class="filmo-row even" id="self-tt0343329">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0343329/?ref_=nm_flmg_slf_46"
+>The 2001 IFP/West Independent Spirit Awards</a></b>
+(TV Special)
+<br/>
+Himself
+(as Lars Von Trier)
+</div>
+<div class="filmo-row odd" id="self-tt0360286">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0360286/?ref_=nm_flmg_slf_47"
+>Mens vi venter på kometen</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0646403/?ref_=nm_flmg_slf_47"
+>Episode #1.5</a>
+(2001)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0370237">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0370237/?ref_=nm_flmg_slf_48"
+>100 Cameras</a></b>
+(Video documentary short)
+<br/>
+Himself - Writer & Director
+(as Lars Von Trier)
+</div>
+<div class="filmo-row odd" id="self-tt0277428">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0277428/?ref_=nm_flmg_slf_49"
+>Von Trier's 100 øjne</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0276354">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0276354/?ref_=nm_flmg_slf_50"
+>The Name of This Film Is Dogme95</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0765522">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0765522/?ref_=nm_flmg_slf_51"
+>Reflets dans un coeur d'or</a></b>
+(Documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0242084">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0242084/?ref_=nm_flmg_slf_52"
+>De udstillede</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0238143">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0238143/?ref_=nm_flmg_slf_53"
+>D-dag - Instruktørene</a></b>
+(TV Movie documentary)
+<br/>
+Himself (directing)
+</div>
+<div class="filmo-row even" id="self-tt3120890">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt3120890/?ref_=nm_flmg_slf_54"
+>FreeDogme</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0218262">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0218262/?ref_=nm_flmg_slf_55"
+>Foot on the Moon</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0248138">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0248138/?ref_=nm_flmg_slf_56"
+>Kopisten</a></b>
+(Short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0226159">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0226159/?ref_=nm_flmg_slf_57"
+>Morten Korch - Solskin kan man altid finde</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0367416">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0367416/?ref_=nm_flmg_slf_58"
+>Store Klaus og lille Lars</a></b>
+(TV Series documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0179544">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0179544/?ref_=nm_flmg_slf_59"
+>De ydmygede</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0336612">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0336612/?ref_=nm_flmg_slf_60"
+>I Lars von Triers rige</a></b>
+(TV Short documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0194097">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0194097/?ref_=nm_flmg_slf_61"
+>Lars from 1-10</a></b>
+(Documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0489731">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0489731/?ref_=nm_flmg_slf_62"
+>Im Laboratorium des Doktor von Trier: Zurück zur Magie des Kinos</a></b>
+(TV Special documentary)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row odd" id="self-tt0138883">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0138883/?ref_=nm_flmg_slf_63"
+>Tranceformer - A Portrait of Lars von Trier</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0108906">
+<span class="year_column">
+&nbsp;1994-1997
+</span>
+<b><a href="/title/tt0108906/?ref_=nm_flmg_slf_64"
+>Riget</a></b>
+(TV Mini-Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1346596/?ref_=nm_flmg_slf_64"
+>Pandæmonium</a>
+(1997)
+... Himself
+(uncredited)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1346595/?ref_=nm_flmg_slf_64"
+>Gargantua</a>
+(1997)
+... Himself
+(uncredited)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1346594/?ref_=nm_flmg_slf_64"
+>Trækfugle</a>
+(1997)
+... Himself
+(uncredited)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1346807/?ref_=nm_flmg_slf_64"
+>Mors in Tabula</a>
+(1997)
+... Himself
+(uncredited)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1345216/?ref_=nm_flmg_slf_64"
+>De levende døde</a>
+(1994)
+... Himself
+(uncredited)
+</div>
+<div id="more-episodes-tt0108906-self" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="8"
+onclick="toggleSeeMoreEpisodes(this,'nm0001885','tt0108906','self',63); return false;">Show all 8 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0757158">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0757158/?ref_=nm_flmg_slf_65"
+>Bagom Riget II og Lars von Trier: Instruktøren holder fridag</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0473817">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0473817/?ref_=nm_flmg_slf_66"
+>Bodilfesten 1997</a></b>
+(TV Special)
+<br/>
+Himself - Winner (Best Picture) (pre-recorded message)
+</div>
+<div class="filmo-row odd" id="self-tt0314190">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0314190/?ref_=nm_flmg_slf_67"
+>I Am Curious, Film</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0470804">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0470804/?ref_=nm_flmg_slf_68"
+>I Lars von Triers rige - en mand og hans tv-serie</a></b>
+(TV Movie documentary)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row odd" id="self-tt0238781">
+<span class="year_column">
+&nbsp;1993
+</span>
+<b><a href="/title/tt0238781/?ref_=nm_flmg_slf_69"
+>Eurotrash</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2518506/?ref_=nm_flmg_slf_69"
+>Episode #11.9</a>
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0489803">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0489803/?ref_=nm_flmg_slf_70"
+>Portræt af: Lars von Trier</a></b>
+(TV Special documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0489516">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0489516/?ref_=nm_flmg_slf_71"
+>The Making of 'Europa'</a></b>
+(TV Movie documentary)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row even" id="self-tt0489578">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0489578/?ref_=nm_flmg_slf_72"
+>Triers element</a></b>
+(TV Special documentary)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row odd" id="self-tt0092972">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0092972/?ref_=nm_flmg_slf_73"
+>Epidemic</a></b>
+<br/>
+Himself
+/ <a href="/character/ch0042988/?ref_=nm_flmg_slf_73"
+>Dr. Mesmer</a>
+(as Lars Von Trier)
+</div>
+<div class="filmo-row even" id="self-tt0489472">
+<span class="year_column">
+&nbsp;1984
+</span>
+<b><a href="/title/tt0489472/?ref_=nm_flmg_slf_74"
+>Ennenstadt Europa - Om Lars von Trier og 'Forbrydelsens element'</a></b>
+(TV Movie documentary)
+<br/>
+Himself - Film Director
+</div>
+</div>
+<div id="filmo-head-archive_footage" class="head" data-category="archive_footage" onclick="toggleFilmoCategory(this);">
+<span id="hide-archive_footage" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-archive_footage" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="archive_footage">Archive footage</a> (15 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="archive_footage-tt2611358">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt2611358/?ref_=nm_flmg_arf_1"
+>The Man Behind the Throne</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="archive_footage-tt2301295">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2301295/?ref_=nm_flmg_arf_2"
+>Zulu Awards '12 - Det store show</a></b>
+(TV Movie)
+<br/>
+Himself - Nominee: What We Talked About in 2011
+</div>
+<div class="filmo-row odd" id="archive_footage-tt2200957">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2200957/?ref_=nm_flmg_arf_3"
+>2011 Samsung AACTA Awards</a></b>
+(TV Special)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row even" id="archive_footage-tt0262152">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt0262152/?ref_=nm_flmg_arf_4"
+>Breakfast</a></b>
+(TV Series)
+<br/>
+Himself - Director
+<div class="filmo-episodes">
+- <a href="/title/tt1937634/?ref_=nm_flmg_arf_4"
+>Episode dated 20 May 2011</a>
+(2011)
+... Himself - Director
+</div>
+</div>
+<div class="filmo-row odd" id="archive_footage-tt1563702">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1563702/?ref_=nm_flmg_arf_5"
+>Antichrist: Chaos Reigns at the Cannes Filmfestival 2009</a></b>
+(Video short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="archive_footage-tt1563701">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1563701/?ref_=nm_flmg_arf_6"
+>Antichrist: Behind the Test</a></b>
+(Video documentary short)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row odd" id="archive_footage-tt0470644">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0470644/?ref_=nm_flmg_arf_7"
+>Cinema mil</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0541453/?ref_=nm_flmg_arf_7"
+>Episode #1.3</a>
+(2005)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0541449/?ref_=nm_flmg_arf_7"
+>Episode #1.1</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="archive_footage-tt0466357">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0466357/?ref_=nm_flmg_arf_8"
+>Anecdotes from 'Europa'</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="archive_footage-tt0489704">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0489704/?ref_=nm_flmg_arf_9"
+>Europa: The Faecal Location</a></b>
+(Video documentary short)
+<br/>
+Himself
+(uncredited)
+</div>
+<div class="filmo-row even" id="archive_footage-tt0489711">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0489711/?ref_=nm_flmg_arf_10"
+>From Dreyer to von Trier: An Interview with Cinematographer Henning Bendtsen</a></b>
+(Video documentary short)
+<br/>
+Himself
+(uncredited)
+</div>
+<div class="filmo-row odd" id="archive_footage-tt0490442">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0490442/?ref_=nm_flmg_arf_11"
+>Lars von Trier Anecdotes</a></b>
+(TV Special documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="archive_footage-tt0434462">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0434462/?ref_=nm_flmg_arf_12"
+>Épreuves d'artistes</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="archive_footage-tt0388560">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0388560/?ref_=nm_flmg_arf_13"
+>Året der gik 2003</a></b>
+(TV Special)
+<br/>
+Himself - Film Director
+</div>
+<div class="filmo-row even" id="archive_footage-tt0486490">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0486490/?ref_=nm_flmg_arf_14"
+>TV 2 003 - Året i ord og billeder</a></b>
+(TV Special documentary)
+<br/>
+Himself
+(uncredited)
+</div>
+<div class="filmo-row odd" id="archive_footage-tt0324776">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0324776/?ref_=nm_flmg_arf_15"
+>Digtere, divaer og dogmebrødre</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0560455/?ref_=nm_flmg_arf_15"
+>2000</a>
+(2001)
+... Himself
+</div>
+</div>
+</div>
+</div>            </div> 
+                    
+    
+        <div class="article">
+        
+        <h2>Related Videos</h2>
+    <div class="mediastrip_big">
+                <span class="video_slate" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T25,718M24S" />
+
+<a href="/video/hulu/vi3029314841?ref_=nm_rvd_vi_1"
+title="Pursuit of Truth: Adult Survivors of Child Sexual Abuse Seeking Justice -- We review the horror-thriller, OCULUS and take a look at part two of Lars von Trier's sexual odyssey, NYMPHOMANIAC: VOL II. Next we chat with LUKE MORAN, writer/director/producer of BOYS OF ABU GHRAIB. And we check out the biblical epic NOAH." alt="Pursuit of Truth: Adult Survivors of Child Sexual Abuse Seeking Justice -- We review the horror-thriller, OCULUS and take a look at part two of Lars von Trier's sexual odyssey, NYMPHOMANIAC: VOL II. Next we chat with LUKE MORAN, writer/director/producer of BOYS OF ABU GHRAIB. And we check out the biblical epic NOAH." class=" " data-video="vi3029314841" data-context="hulu" data-rid="0WE9CF3GH703C9MY1P81" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="Pursuit of Truth: Adult Survivors of Child Sexual Abuse Seeking Justice -- We review the horror-thriller, OCULUS and take a look at part two of Lars von Trier's sexual odyssey, NYMPHOMANIAC: VOL II. Next we chat with LUKE MORAN, writer/director/producer of BOYS OF ABU GHRAIB. And we check out the biblical epic NOAH." title="Pursuit of Truth: Adult Survivors of Child Sexual Abuse Seeking Justice -- We review the horror-thriller, OCULUS and take a look at part two of Lars von Trier's sexual odyssey, NYMPHOMANIAC: VOL II. Next we chat with LUKE MORAN, writer/director/producer of BOYS OF ABU GHRAIB. And we check out the biblical epic NOAH."src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BNTg1NDAwOTUxN15BMl5BanBnXkFtZTgwMDgxODI4NDE@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-goldbutton-big,BottomRight,-1,-1_ZAFull%2520Episode,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA25718:24,164,1,14,36,verdenab,7,255,255,255,1_ZAPursuit%2520of%2520Truth:%2520Adult%2520Surviv...,4,136,14,196,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi3029314841" /></a>            </span>
+                <span class="video_slate" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T60S" />
+
+<a href="/video/imdb/vi3796871449?ref_=nm_rvd_vi_2"
+title="Nymphomaniac: Vol. I -- Watch the latest chapter of Nymphomaniac. " alt="Nymphomaniac: Vol. I -- Watch the latest chapter of Nymphomaniac. " class="video-colorbox" data-video="vi3796871449" data-context="imdb" data-rid="0WE9CF3GH703C9MY1P81" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="Nymphomaniac: Vol. I -- Watch the latest chapter of Nymphomaniac. " title="Nymphomaniac: Vol. I -- Watch the latest chapter of Nymphomaniac. "src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMTUzNzU1MDc1MV5BMl5BanBnXkFtZTgwODI5MzIyMzE@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAClip,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA01:00,164,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,4,-2_ZANymphomaniac:%2520Vol.%2520I,24,136,14,176,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi3796871449" /></a>            </span>
+                <span class="video_slate_last" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T508M48S" />
+
+<a href="/video/hulu/vi3517426969?ref_=nm_rvd_vi_3"
+title="Pursuit of Truth: Adult Survivors of Child Sexual Abuse Seeking Justice -- We review the horror-thriller, OCULUS and take a look at part two of Lars von Trier's sexual odyssey, NYMPHOMANIAC: VOL II. Next we chat with LUKE MORAN, writer/director/producer of BOYS OF ABU GHRAIB. And we check out the biblical epic NOAH." alt="Pursuit of Truth: Adult Survivors of Child Sexual Abuse Seeking Justice -- We review the horror-thriller, OCULUS and take a look at part two of Lars von Trier's sexual odyssey, NYMPHOMANIAC: VOL II. Next we chat with LUKE MORAN, writer/director/producer of BOYS OF ABU GHRAIB. And we check out the biblical epic NOAH." class=" " data-video="vi3517426969" data-context="hulu" data-rid="0WE9CF3GH703C9MY1P81" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="Pursuit of Truth: Adult Survivors of Child Sexual Abuse Seeking Justice -- We review the horror-thriller, OCULUS and take a look at part two of Lars von Trier's sexual odyssey, NYMPHOMANIAC: VOL II. Next we chat with LUKE MORAN, writer/director/producer of BOYS OF ABU GHRAIB. And we check out the biblical epic NOAH." title="Pursuit of Truth: Adult Survivors of Child Sexual Abuse Seeking Justice -- We review the horror-thriller, OCULUS and take a look at part two of Lars von Trier's sexual odyssey, NYMPHOMANIAC: VOL II. Next we chat with LUKE MORAN, writer/director/producer of BOYS OF ABU GHRAIB. And we check out the biblical epic NOAH."src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMTgyNTYyNDE4MF5BMl5BanBnXkFtZTgwMTgxODI4NDE@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-bluebutton-big,BottomRight,-1,-1_ZANews,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA508:48,164,1,14,36,verdenab,7,255,255,255,1_ZAPursuit%2520of%2520Truth:%2520Adult%2520Surviv...,4,136,14,196,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi3517426969" /></a>            </span>
+    </div>
+
+                <div class="see-more">
+<a href="/name/nm0001885/videogallery?ref_=nm_rvd_vi_sm"
+>See all 22 videos</a>&nbsp;&raquo;
+                </div>
+        </div>
+    
+    </@csm.csm_widget />
+                    
+            <div class="article">
+        <span class="rightcornerlink">
+<a href="/updates?edit=nm0001885/details&ref_=nm_pdt_edt"
+> Edit
+</a>        </span>
+    <h2>Personal Details</h2>
+        <div id="details-other-works" class="see-more inline canwrap">
+                <h4 class="inline">Other Works:</h4>
+Directed a number of TV commercials for Ekstra Bladet (Danish tabloid paper), starring <a href="/name/nm0433495?ref_=nm_pdt_wrk1">Ernst-Hugo Järegård</a>.                    <span class="see-more inline">
+                        <a href="/name/nm0001885/otherworks?ref_=nm_pdt_wrk_sm"
+>See more</a> 
+                    </span>
+                    &raquo;
+        </div>
+
+            <hr/>
+        <div id="details-publicity-listings" class="see-more inline canwrap">
+            <h4 class="inline">Publicity Listings:</h4>
+    8 Biographical Movies <span class="ghost">|</span>
+    3 Print Biographies <span class="ghost">|</span>
+    10 Interviews <span class="ghost">|</span>
+    14 Articles <span class="ghost">|</span>
+    2 Pictorials <span class="ghost">|</span>
+            <span class="see-more inline">
+                <a href="/name/nm0001885/publicity?ref_=nm_pdt_pub_sm"
+>See more</a>
+            </span>&raquo;
+        </div>
+    
+    
+            <hr/>
+        <div id="details-akas" class="see-more inline canwrap">
+            <h4 class="inline">Alternate Names:</h4>
+            Erik Nietzsche <span>|</span> Lars Trier <span>|</span> Lars Von Trier
+        </div>
+    
+            <hr/>
+        <div id="details-height" class="see-more inline canwrap">
+            <h4 class="inline">Height:</h4>
+5'&nbsp;7"&nbsp;(1.7&nbsp;m)        </div>
+            </div> 
+                    
+            <div class="article">
+        <span class="rightcornerlink">
+<a href="/updates?edit=nm0001885/fun-facts&ref_=nm_dyk_edt"
+> Edit
+</a>        </span>
+    <h2>Did You Know?</h2>
+        <div id="dyk-personal-quote" class="see-more inline canwrap">
+                <h4 class="inline">Personal Quote:</h4>
+A big part of our lives has to do with America. In our country it is overwhelming. I feel there could just as well be an American military presence in Denmark. We are a nation under a very bad influence, because I think Bush is an asshole and doing a lot of really stupid things. America is sitting on the world and therefore I am making films about it. I'd say 60% of the things I have experienced ...                    <span class="see-more inline">
+                        <a href="/name/nm0001885/bio?ref_=nm_dyk_qt_sm#quotes"
+>See more</a> 
+                    </span>
+                    &raquo;
+        </div>
+            <hr/>
+        <div id="dyk-trivia" class="see-more inline canwrap">
+                <h4 class="inline">Trivia:</h4>
+Many famous directors and actors have shown their appreciation of von Trier's work. <a href="/name/nm0000233?ref_=nm_dyk_trv1">Quentin Tarantino</a> mentions Von Trier's <a href="/title/tt0276919?ref_=nm_dyk_trv2">Dogville</a> (2003) as his idea of the best manuscript ever written, <a href="/name/nm0000759?ref_=nm_dyk_trv3">Paul Thomas Anderson</a> said he would "carry Lars von Trier's luggage anywhere", <a href="/name/nm0000217?ref_=nm_dyk_trv4">Martin Scorsese</a> has <a href="/title/tt0115751?ref_=nm_dyk_trv5">Breaking the Waves</a> (1996) listed on his top 10 films of the 90s and <a href="/name/nm0000136?ref_=nm_dyk_trv6">Johnny Depp</a> recently said this in a Danish ...                    <span class="see-more inline">
+                        <a href="/name/nm0001885/bio?ref_=nm_dyk_trv_sm#trivia"
+>See more</a>
+                    </span>
+                    &raquo;
+        </div>
+    
+            <hr/>
+        <div id="dyk-trademark" class="see-more inline canwrap">
+
+                <h4 class="inline">Trademark:</h4>
+Often casts <a href="/name/nm0001745?ref_=nm_dyk_tm1">Stellan Skarsgård</a>.                    <span class="see-more inline">
+                        <a href="/name/nm0001885/bio?ref_=nm_dyk_tm_sm#trademark"
+>See more</a>
+                    </span>
+                    &raquo;
+        </div>
+    
+            <hr/>
+        <div id="dyk-star-sign" class="see-more inline canwrap">
+            <h4 class="inline">Star Sign:</h4>
+            <a href="/starsign/taurus?ref_=nm_dyk_sign"
+>Taurus</a>
+        </div>
+            </div> 
+                    
+
+    <div class="article" id="boardsTeaser">
+        <h2>Message Boards</h2>
+            Recent Posts
+            <table class="boards">
+                    <tr class="odd">
+                        <td>
+                            <a href="/name/nm0001885/board/nest/223958771?ref_=nm_bd_1"
+>What next?</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur2452976/?ref_=nm_bd_1"
+>joaquimhock-1</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/name/nm0001885/board/nest/227229545?ref_=nm_bd_2"
+>Actors/actresses you'd like to see him work with?</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur11080362/?ref_=nm_bd_2"
+>mattboy61992</a>
+                        </td>
+                    </tr>
+                    <tr class="odd">
+                        <td>
+                            <a href="/name/nm0001885/board/nest/185849735?ref_=nm_bd_3"
+>Who should be Lars' next leading actress?</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur5193598/?ref_=nm_bd_3"
+>AngryKid108</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/name/nm0001885/board/nest/182983621?ref_=nm_bd_4"
+>'the Holocaust is the worst crime against humanity ever' declares LvT</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur1983274/?ref_=nm_bd_4"
+>joaquimhock</a>
+                        </td>
+                    </tr>
+                    <tr class="odd">
+                        <td>
+                            <a href="/name/nm0001885/board/nest/182881380?ref_=nm_bd_5"
+>he apologised for his nazi comments</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur1983274/?ref_=nm_bd_5"
+>joaquimhock</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/name/nm0001885/board/nest/237029680?ref_=nm_bd_6"
+>Best Of Lars von Trier</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur20124827/?ref_=nm_bd_6"
+>shamik_ghosh-1</a>
+                        </td>
+                    </tr>
+            </table>
+        <div class="see-more">
+            <a href="/name/nm0001885/board/?ref_=nm_bd_sm"
+>Discuss Lars von Trier</a> on the IMDb message boards &raquo;
+        </div>
+    </div>
+                    
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_NameContributeWidget_started');
+    }
+  </script>
+
+    <div class="article contribute">
+        <div class="rightcornerlink">
+<a href="/help/?adding/&ref_=nm_cn_hlp"
+>Getting Started</a>
+            <span>|</span>
+<a href="/czone/?ref_=nm_cn_cz"
+>Contributor Zone</a>&nbsp;&raquo;</div>
+        <h2>Contribute to This Page</h2>
+
+            <div class="button-box">
+                <form method="post" action="/updates?ref_=nm_cn_edt">
+                    <input type="hidden" name="auto" value="legacy/name/nm0001885/">
+                        <button class="btn primary large" rel="login" type="submit">Edit page</button>
+                </form>
+            </div>
+        
+
+        <div class="button-box">
+            <a href="http://pro.imdb.com/widget/resume_redirect/?rf=cons_nm_contr_res&ref_=cons_nm_contr_res"
+class="btn large" >Add resume</a>
+        </div>
+    </div>
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_NameContributeWidget_finished');
+    }
+  </script>
+                    
+    </div>
+</div> 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+
+                   <br class="clear" />
+                </div>
+
+
+  <div id="footer" class="ft">
+    <hr width="100%" size=1>
+        <div id="rvi-div">
+            <div class="recently-viewed">&nbsp;</div>
+            <br class="clear">
+            <hr width="100%" size="1">
+        </div>
+	
+	<!-- no content received for slot: bottom_ad -->
+	
+    <p class="footer" align="center">
+    
+          <a href="/?ref_=ft_hm"
+>Home</a>
+        | <a href="/search?ref_=ft_sr"
+>Search</a>
+        | <a href="/a2z?ref_=ft_si"
+>Site Index</a>
+        | <a href="/movies-in-theaters/?ref_=ft_inth"
+>In Theaters</a>
+        | <a href="/movies-coming-soon/?ref_=ft_cs"
+>Coming Soon</a>
+        | <a href="/chart/?ref_=ft_cht"
+>Top Movies</a>
+        | <a href="/chart/top?ref_=ft_250"
+>Top 250</a>
+        | <a href="/sections/tv/?ref_=ft_tv"
+>TV</a>
+        | <a href="/news/?ref_=ft_nw"
+>News</a>
+        | <a href="/boards/?ref_=ft_mb"
+>Message Boards</a>
+        | <a href="/pressroom/?ref_=ft_pr"
+>Press Room</a>
+        <br>
+
+        <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=ft_reg"
+>Register</a>
+        |     <a href="/offsite/?page-action=ft_ad&token=BCYmrjjS3NBjlmPdjPaNjicIYvTO5l8_70UAB3v007aAMMKjIEZb5_gzqFBoerjRY7UwqYRpCcPZ%0D%0ATN5rTqYHeYaU5g7oNGRQ5mlHKXmEs94dgkJUCJPJfSl8BqB8VH94UYxlhFdPm4yecMBpm8CwoV9d%0D%0AkCJn_rvvVPuJCKFd7eGTD-nWzFqgIthX2YPakHhaMj8t-9Xvj7LPZfJ23jB_n2yQswqcpM5re1oJ%0D%0Aeq59SLnVV5FrhDXEo9WFMXuLx_qzr7l1%0D%0A" >Advertising</a>
+
+        | <a href="/helpdesk/contact?ref_=ft_con"
+>Contact Us</a>
+        | <a href="/jobs?ref_=ft_jb"
+>Jobs</a>
+        | <a href="http://pro.imdb.com/signup/index.html?rf=cons_ft_hm&ref_=cons_ft_hm"
+>IMDbPro</a>
+        |     <a href="/offsite/?page-action=ft-mojo&token=BCYl_Dfdankh0-l_sC-cnRVUjsBVOkYnXDSzpxH_1P3OW8YebXdk9LcLhNheVP7Ss1hWM43oJnAo%0D%0AWZPbiY3-wCCX7LJrCYuQ-EU5ruLw2Y7clkqPQeFlDBZpZbSdbx-W3KlFZyeZhxv9tLP2lHoQBPHF%0D%0Axr9sPHvgKJnbyL4URAetLq-aj4fbMoALIKW1yb4kdQx7%0D%0A" >Box Office Mojo</a>
+
+        |     <a href="/offsite/?page-action=ft-wab&token=BCYiGcorUa7Q8gXSn2TWQTnnyWVaPYPOWlvuC8U-jy3jbB93jZ65M6f_4FJz8BO80327BOy1B07-%0D%0AX8GLcfzcLvMSZ8ewM8JFzBe_BrcQgNnd9VcWiuB6dpYuOXnvBA59hLJssH94AabwIX-T8foyO3tk%0D%0AF3FS7H8UlQ_jJht_WmKWFzAFDy-CLqWNORzhu77zELaE%0D%0A" >Withoutabox</a>
+
+        <br /><br />
+        IMDb Mobile:
+          <a href="/apps/?ref_=ft_apps"
+>Apps</a>
+        | <a href="http://m.imdb.com?ref_=ft_mdot"
+>Mobile site</a>
+        | IMDb Social:
+              <a href="/offsite/?page-action=ft-fb&token=BCYhuoTY6XNbsggEdOnkrYTlDJtC4KXert8aY9KcflMk3J6nwCvNAlKHg3SpxCj48T1iCe3XagCY%0D%0AGUvZO-FouwByZE3CxHpTZx-Ls-4-LJr1KFK1uHnc6WmBV63wpDlCBaV4fEjW21ghM3Rro4e80xgh%0D%0Ao2sb7P9MJnD727uV8iIOaoCI8Yxc9CIaRsURJ8YhhwWu%0D%0A" >Facebook</a>
+
+        |     <a href="/offsite/?page-action=ft-twt&token=BCYndin9mYcN642QuiAW00_BgyZG6s2vd7RvzyQ6NvmrsxiKQqylxSCbKJ1lefEp-nXEbfvmcXYy%0D%0AKRkrGkJFSrz6HFzyFCrMsK7_OIrqyN5G1VDgyB5vbGmcQcSoER92UHaFC8MHIzk_M_wK6WeyVqK5%0D%0AFgrH-hzl5b3T6n2UXsceYuc%0D%0A" >Twitter</a>
+
+       <br /><br />
+    </p>
+  
+    <p class="footer" align="center">
+        <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/show_article?conditions';"
+href="/help/show_article?conditions"
+>Copyright &copy;</a> 1990-2015 
+        <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/';"
+href="/help/"
+>IMDb.com, Inc.</a>
+        <br>
+          <a href="/help/show_article?conditions&ref_=ft_cou"
+>Conditions of Use</a>
+        | <a href="/privacy?ref_=ft_pvc"
+>Privacy Policy</a>
+        |     <a href="/offsite/?page-action=ft-iba&token=BCYqJXthXKa0H5TWn1cpv-vNBfj8U6u9BEn6TceEFdYJLG2RwG0UHEPkf822OjssEVpWhWiH24yD%0D%0AcsvPpaPpwxLBSIPSk_spyumQiatJZnlEL77_FyQiJahnCXaA2L6PRfzqQzeE-T_sGgjc-CIh7ors%0D%0A3ssR52RfscXLfQpQ89y-9F512nYRoqirA3AZpn4luz3v%0D%0A" >Interest-Based Ads</a>
+
+        <br>
+        An <span id="amazon_logo" class="footer_logo" align="middle"></span> company.
+    </p>
+  
+
+      
+      
+  <table class="footer" id="amazon-affiliates">
+    <tr>
+      <td colspan="8">
+        Amazon Affiliates
+      </td>
+    </tr>
+    <tr>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-aiv&token=BCYnXvZCjoHo9yudhDXmsILAIWOQBR2lvRieREKtPJRYSuwN7p4SgOegGXtOxJZWAJ12PB_OiEph%0D%0AqZXMq5MTT5MClayyOT0FPwhoTTU-BqHicAJQy3IBasIQnSQhC8JM-eq3vG9ilycUABvxVnjN304r%0D%0ACkOOzWUk8zFnCr39iCrjp_QAMA__QTSZBp3cnEKHFi2S0yWCAy1hBGU28YlkN6IBV_UeKZsrESBb%0D%0AzAKqd7P4BfU%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Instant Video</span><br>
+          <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-piv&token=BCYvzDoIownlvCLdRpdiZXh520UbhMJqilx12j6cU2G_Hy998KkE2byVDfSQutEo2Bgj87971sL7%0D%0Aj_RH5afvze_u-L1oMB3Vp0lmCRYbDmyXBdHLuBZABW_4itJddT-5IOE39ukYbR6Xd9981KbcJGpD%0D%0A_bqgaN_ytNweh3UAiXW9pQwJlXUjrX90wzl8bhvM1vUTqIjiahBoJBzCqH_gKPmtJR8k4GIDGnY3%0D%0ARCaFg-VvTr4%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Prime Instant Video</span><br>
+          <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-de&token=BCYnaZIPK_zok6qPM0Z0XrAi5LNuHlGj7j2I6BgInCsj5DCzxTGZoJEg3_zr_weUcOaT6P4aTzF4%0D%0Ajti-rQ9KXLsNbCV9ALv2TTsxVEtbnLoyjy1Rvg-lteWQv4S1wjj6pYGf5mVHfOgwIp0gaI2rXXiT%0D%0AS7c-wFIYrYezDil9P7uaQ76x06okGFztrb2edop1XEd6vqJx_614Cbb51zcozv76p4JQP647Idg8%0D%0Az6zKNSya7rA%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-it&token=BCYki7SI1wyUfp9SfYViSEgOnuIoXABsxDA1_78pmmpTOSBdo7LDtQFbZ6Sd917OGGLcfvzpi_jk%0D%0AZ3uAxgiwe5OhpJpvcLnw_3Quv9qXXYSf4heJs1tVFeCV5lNgPnwh6DHZ_O8tKHszrugDGtqth8Af%0D%0ALAAyVrd64gIh_xmGphDSk6R9lnIe35Rr5961QRENcf63DUcwg95vLskMZspfENpoHOMvaUQ64l6k%0D%0Ak3WLIV-qCkg%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-fr&token=BCYgIu2yr9fTu5DjK_DZqD4OSYTl8b6nowjM8ReBSzfEWe2NwFcKkawA3SxJpD901gYCxgZcTdqG%0D%0A-EFc_iSucq2Czp_RmZiv_I5O1COwnhdI2GqrcP77B3SncugvAPLidnh1Zo46kZyyKOjibHxTdGa8%0D%0AU1cQPiPbc03s1dwsDK-LdU0Hpo8jFBglw6SutW_Rsel-6XnN6gXZgWfZQo06khXWPpc8fnsmerXt%0D%0A_bclYyvhwbI%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon France</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-in&token=BCYsNXUX5ACVu1lM-U8qoZakHhuUaQUhkievo0VCYUqd5qcGsTkFBk22myl_jHfF9Rnzuiqgcus0%0D%0Al97HqbKslwOdTJBcnDMjSkzl693Si9hkU-YiwmURhEfGZ5pxQsa4nXgXb6ImD4ig0J9n8uzCl6_M%0D%0ArRwWqOOcerXYKsGJKhhjmhzuZjcjmjURk1yXHr8TqHkmNrR6sFJlDngYlAxezkPfPvyhXl87ePm-%0D%0Al2T_oVnNyHjCaBKIsoOxco4JK5_vrr0_%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon India</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-dpr&token=BCYtuTadT2vhLbEGXLHAD6A3qIttMOYEyHjdZQgCGE-_VQy1mwkbPbpKhuGYcoTP1rhhwusS8jnp%0D%0AwFlNIdmbZm_ZFIKzQ1RHBQaNS-x6t4vuWH7LBWDP5NFj_5jUjqUJVT1QK4BX8HpJ5Ch4VnwAjHKP%0D%0Azy1LhTZhAA5Vd41SrQxXMdvlF7jKa3F_WTckMobDcRLK%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">DPReview</span><br>
+          <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-aud&token=BCYlEY-uxu_7OutP0WjqXOs1Vt-sZ5BP8hXtvSBW7Nv5q3-FA2Av4a0o9aC266GlUz3UDmGKRrv3%0D%0Aiwv0IXd1116JbUZp8efz3x5z1lGxx7BxaOXVVM_xybOcuyWUi-_j8jIrKHMM5ysumkgxSRIUVfQ6%0D%0AXKQoIu2x8Xro135zRaGFJlbqibSqosAXxGs_e5VuAUMs%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Audible</span><br>
+          <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span>
+</a>
+    </td>
+    </tr>
+  </table>
+  </div>
+            </div>
+        </div>
+
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/name-2693302406._CB305150263_.js"></script>
+
+<script type="text/imdblogin-js" id="login">
+jQuery(document).ready(function(){
+    window.imdb.login_lightbox("https://secure.imdb.com", "http://www.imdb.com/name/nm0001885/");
+});
+
+</script>
+
+        <script type="text/javascript">
+                jQuery(
+                         function() {
+        $("#demoReelShoveler").shoveler({
+            'buttons' : {
+                'left' : {
+                    'text' : '',
+                },
+                'right' : {
+                    'text' : '',
+                }
+            },
+            'height' : 'auto',
+            'itemsPerShovel' : 2,
+            'paginate' : false,
+            'useExternalCSS' : true,
+            'width' : '100%'
+        });
+    }
+
+                );
+                jQuery(
+                             function() {
+            var facebookTheme = (window.custom && window.custom.full_page &&
+                    window.custom.full_page.theme) ?
+                window.custom.full_page.theme : "light",
+            url = "//www.facebook.com/plugins/likebox.php?href=facebook.com%2Fimdb&width=300&height=190&connections=4&header=false&stream=false&colorscheme=" + facebookTheme,
+            like = document.getElementById('facebookIframe'),
+            twitterIframe = document.getElementById('twitterIframe');
+            if (like) {
+                like.src = url;
+            }
+            if (twitterIframe) {
+                twitterIframe.src = "http://i.media-imdb.com/images/social/twitter.html?10#imdb";
+            }
+         }
+
+                );
+                jQuery(
+                             function() {
+           var isAdvertisingThemed = !!(window.custom && window.custom.full_page && window.custom.full_page.theme),
+               url = "http://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0001885%2F&colorscheme=light",
+               like = document.getElementById('iframe_like');
+
+           if (!isAdvertisingThemed && like) {
+              like.src = url;
+              like.onload = function () { generic.monitoring.stop_timing('facebook_like_iframe', '', false); };
+           } else if (isAdvertisingThemed) {
+              $('.social_networking_like').closest('.aux-content-widget-2').hide();
+           }
+        }
+
+                );
+                jQuery(
+                     function() { $('#maindetails_sidebar_bottom').watchlistRibbon('.ribbonize'); }
+                );
+        </script>
+
+<div id="servertime" time="80"/>
+
+
+
+<script>
+    if (typeof uet == 'function') {
+      uet("be");
+    }
+</script>
+    </body>
+</html>
+

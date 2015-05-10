@@ -1,0 +1,2325 @@
+
+
+
+<!DOCTYPE html>
+<html
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+
+        
+    
+            <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
+            <script type="text/javascript">
+                var ue_mid = "A1EVAM02EL8SFB"; 
+                var ue_sn = "www.imdb.com";  
+                var ue_furl = "fls-na.amazon.com";
+                var ue_sid = "000-0000000-0000000";
+                var ue_id = "0061F0JAEAXJWE1YHJ71";
+                (function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-051542d0cfa6f645f8266601739de597._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);
+                if (!('CS' in window)) { window.CS = {}; }
+                    window.CS.loginSecureHost = "https://secure.imdb.com";
+            </script>
+ 
+
+        
+        <script type="text/javascript">var IMDbTimer={starttime: new Date().getTime(),pt:'java'};</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        <title>Tatsuyuki Nagai - IMDb</title>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+            <link rel="canonical" href="http://www.imdb.com/name/nm2171473/" />
+            <meta property="og:url" content="http://www.imdb.com/name/nm2171473/" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        <link rel="icon" type="image/ico" href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._CB379387995_.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._CB379390718_.ico" />
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-4151659188._CB361295786_.png" rel="apple-touch-icon"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-76x76-53536248._CB361295462_.png" rel="apple-touch-icon" sizes="76x76"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-120x120-2442878471._CB361295428_.png" rel="apple-touch-icon" sizes="120x120"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-152x152-1475823641._CB361295368_.png" rel="apple-touch-icon" sizes="152x152"> 
+        <link rel="search" type="application/opensearchdescription+xml" href="http://ia.media-imdb.com/images/G/01/imdb/images/imdbsearch-3349468880._CB379388505_.xml" title="IMDb" />
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+    
+        <link rel='image_src' href="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB306318125_.png">
+        <meta property='og:image' content="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB306318125_.png" />
+    
+        <meta property='og:type' content="actor" />
+    <meta property='fb:app_id' content='115109575169727' />
+    
+    <meta property='og:title' content="Tatsuyuki Nagai" />
+    <meta property='og:site_name' content='IMDb' />
+    <meta name="title" content="Tatsuyuki Nagai - IMDb" />
+        <meta name="description" content="Tatsuyuki Nagai, Director: Toradora!" />
+        <meta property="og:description" content="Tatsuyuki Nagai, Director: Toradora!" />
+        <meta name="keywords" content="Biography, Photos, Awards, News, Message Boards" />
+        <meta name="request_id" content="0061F0JAEAXJWE1YHJ71" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<!-- h=ics-1d-c3-2xl-i-b6ec3c4b.us-east-1 -->
+
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/name-232419406._CB305190861_.css" />
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-flat-6662145._CB305190902_.css" />
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-mega-1801187020._CB325753108_.css" />
+        <noscript>
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/wheel/nojs-2627072490._CB343672767_.css">
+        </noscript>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <script  type="text/javascript">
+            // ensures js doesn't die if ads service fails.  
+            // Note that we need to define the js here, since ad js is being rendered inline after this.
+            (function(f) {
+                // Fallback javascript, when the ad Service call fails.  
+                
+                if((window.csm === undefined || window.generic === undefined || window.consoleLog === undefined)) {
+                    if (console !== undefined && console.log !== undefined) {
+                        console.log("one or more of window.csm, window.generic or window.consoleLog has been stubbed...");
+                    }
+                }
+                
+                window.csm = window.csm || { measure:f, record:f, duration:f, listen:f, metrics:{} };
+                window.generic = window.generic || { monitoring: { start_timing: f, stop_timing: f } };
+                window.consoleLog = window.consoleLog || f;
+            })(function() {});
+        </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_head_delivery_finished');
+    }
+  </script>
+        </head>
+    <body id="styleguide-v2" class="fixed">
+<script>
+    if (typeof uet == 'function') {
+      uet("bb");
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_body_delivery_started');
+    }
+  </script>
+        <div id="wrapper">
+            <div id="root" class="redesign">
+<script>
+    if (typeof uet == 'function') {
+      uet("ns");
+    }
+</script>
+<div id="nb20" class="navbarSprite">
+<div id="supertab">	
+	<!-- no content received for slot: top_ad -->
+	
+</div>
+  <div id="navbar" class="navbarSprite">
+<noscript>
+  <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-no-js-4175877511._CB379390803_.css" />
+</noscript>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-ie-470687728._CB379390980_.css"><![endif]-->
+<span id="home_img_holder">
+<a href="/?ref_=nv_home"
+title="Home" class="navbarSprite" id="home_img" ></a>  <span class="alt_logo">
+    <a href="/?ref_=nv_home"
+title="Home" >IMDb</a>
+  </span>
+</span>
+<form
+onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
+ method="get"
+ action="/find"
+ class="nav-searchbar-inner"
+ id="navbar-form"
+
+>
+  <div id="nb_search">
+    <noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+    <button id="navbar-submit-button" class="primary btn" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+    <input type="hidden" name="ref_" value="nv_sr_fn" />
+    <input type="text" autocomplete="off" value="" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more...">
+    <div class="quicksearch_dropdown_wrapper">
+      <select name="s" id="quicksearch" class="quicksearch_dropdown navbarSprite"
+              onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+        <option value="all" >All</option>
+        <option value="tt" >Titles</option>
+        <option value="ep" >TV Episodes</option>
+        <option value="nm" >Names</option>
+        <option value="co" >Companies</option>
+        <option value="kw" >Keywords</option>
+        <option value="ch" >Characters</option>
+        <option value="qu" >Quotes</option>
+        <option value="bi" >Bios</option>
+        <option value="pl" >Plots</option>
+      </select>
+    </div>
+    <div id="navbar-suggestionsearch"></div>
+  </div>
+</form>
+<div id="megaMenu">
+    <ul id="consumer_main_nav" class="main_nav">
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navTitleMenu">
+            <p class="navCategory">
+                <a href="/movies-in-theaters/?ref_=nv_tp_inth_1"
+>Movies</a>,
+                <a href="/tv/?ref_=nv_tp_tvhm_2"
+>TV</a><br />
+                & <a href="/showtimes/?ref_=nv_tp_sh_3"
+>Showtimes</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu1" class="sub_nav">
+                <div id="titleAd"></div>
+                <div class="subNavListContainer">
+                    <h5>MOVIES</h5>
+                    <ul>
+                        <li><a href="/movies-in-theaters/?ref_=nv_mv_inth_1"
+>In Theaters</a></li>
+                        <li><a href="/showtimes/?ref_=nv_mv_sh_2"
+>Showtimes & Tickets</a></li>
+                        <li><a href="/trailers/?ref_=nv_mv_tr_3"
+>Latest Trailers</a></li>
+                        <li><a href="/movies-coming-soon/?ref_=nv_mv_cs_4"
+>Coming Soon</a></li>
+                        <li><a href="/calendar/?ref_=nv_mv_cal_5"
+>Release Calendar</a></li>
+                    </ul>
+                    <h5>CHARTS & TRENDS</h5>
+                    <ul>
+                        <li><a href="/search/title?count=100&title_type=feature,tv_series,tv_movie&explore=title_type,genres,year,countries&ref_=nv_ch_mm_1"
+>Popular Movies & TV</a></li>
+                        <li><a href="/chart/?ref_=nv_ch_cht_2"
+>Box Office</a></li>
+                        <li><a href="/search/title?count=100&groups=oscar_best_picture_winners&sort=year,desc&ref_=nv_ch_osc_3"
+>Oscar Winners</a></li>
+                        <li><a href="/chart/top?ref_=nv_ch_250_4"
+>Top 250</a></li>
+                        <li><a href="/genre/?ref_=nv_ch_gr_5"
+>Most Popular by Genre</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>TV & VIDEO</h5>
+                    <ul>
+                        <li><a href="/tv/?ref_=nv_tvv_hm_1"
+>TV Home</a></li>
+                        <li><a href="/tvgrid/?ref_=nv_tvv_ls_2"
+>On Tonight</a></li>
+                        <li><a href="/watchnow/?ref_=nv_tvv_wn_3"
+>Watch Now on Amazon</a></li>
+                        <li><a href="/sections/dvd/?ref_=nv_tvv_dvd_4"
+>DVD & Blu-Ray</a></li>
+                        <li><a href="/tv/blog?ref_=nv_tvv_blog_5"
+>TV Blog</a></li>
+                    </ul>
+                    <h5>SPECIAL FEATURES</h5>
+                    <ul>
+                        <li><a href="/academymuseum/?ref_=nv_sf_am_1"
+>Academy Museum</a></li>
+                        <li><a href="/imdbpicks/?ref_=nv_sf_pks_2"
+>IMDb Picks</a></li>
+                        <li><a href="/best-of/?ref_=nv_sf_bo_3"
+>Best of 2014</a></li>
+                        <li><a href="/x-ray/?ref_=nv_sf_xray_4"
+>X-Ray for Movies & TV</a></li>
+                        <li><a href="/whattowatch/?ref_=nv_sf_wtw_5"
+>What to Watch</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNameMenu">
+            <p class="navCategory">
+                <a href="/search/name?gender=male,female&ref_=nv_tp_cel_1"
+>Celebs</a>,
+                <a href="/awards-central/?ref_=nv_tp_awrd_2"
+>Events</a><br />
+                & <a href="/media/index/rg1176148480?ref_=nv_tp_ph_3"
+>Photos</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu2" class="sub_nav">
+                <div id="nameAd"></div>
+                <div class="subNavListContainer">
+                    <h5>CELEBS</h5>
+                    <ul>
+                            <li><a href="/search/name?birth_monthday=05-02&refine=birth_monthday&ref_=nv_cel_brn_1"
+>Born Today</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_cel_nw_2"
+>Celebrity News</a></li>
+                        <li><a href="/search/name?gender=male,female&ref_=nv_cel_m_3"
+>Most Popular Celebs</a></li>
+                    </ul>
+                    <h5>PHOTOS</h5>
+                    <ul>
+                        <li><a href="/media/index/rg1176148480?ref_=nv_ph_ls_1"
+>Latest Stills</a></li>
+                        <li><a href="/media/index/rg1528338944?ref_=nv_ph_lp_2"
+>Latest Posters</a></li>
+                        <li><a href="/media/index/rg2465176320?ref_=nv_ph_lv_3"
+>Photos We Love</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>EVENTS</h5>
+                    <ul>
+                        <li><a href="/awards-central/?ref_=nv_ev_awrd_1"
+>Awards Central</a></li>
+                        <li><a href="/sundance/?ref_=nv_ev_sun_2"
+>Sundance</a></li>
+                        <li><a href="/sxsw/?ref_=nv_ev_sxsw_3"
+>SXSW Film Festival</a></li>
+                        <li><a href="/tribeca/?ref_=nv_ev_tri_4"
+>Tribeca</a></li>
+                        <li><a href="/cannes/?ref_=nv_ev_can_5"
+>Cannes</a></li>
+                        <li><a href="/comic-con/?ref_=nv_ev_comic_6"
+>Comic-Con</a></li>
+                        <li><a href="/emmys/?ref_=nv_ev_rte_7"
+>Road to the Emmys</a></li>
+                        <li><a href="/venice/?ref_=nv_ev_venice_8"
+>Venice Film Festival</a></li>
+                        <li><a href="/toronto/?ref_=nv_ev_tff_9"
+>Toronto Film Festival</a></li>
+                        <li><a href="/awards-central/?ref_=nv_ev_all_10"
+>More Popular Events</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNewsMenu">
+            <p class="navCategory">
+                <a href="/news/top?ref_=nv_tp_nw_1"
+>News</a> &<br />
+                <a href="/boards/?ref_=nv_tp_bd_2"
+>Community</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu3" class="sub_nav">
+                <div id="latestHeadlines">
+                    <div class="subNavListContainer">
+                        <h5>LATEST HEADLINES</h5>
+    <ul>
+                <li itemprop="headline">
+<a href="/news/ni58553971/?ref_=nv_nw_tn_1"
+> 'Star Wars' Standalone Film Loses Director Josh Trank
+</a><br />
+                        <span class="time">6 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni58552953/?ref_=nv_nw_tn_2"
+> Avengers: Age Of Ultron Opening Night Box Office Scores $27.6 Million
+</a><br />
+                        <span class="time">14 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni58552924/?ref_=nv_nw_tn_3"
+> Fear The Walking Dead Casts Orange Is the New Black’s Elizabeth Rodriguez
+</a><br />
+                        <span class="time">14 hours ago</span>
+                </li>
+    </ul>
+                    </div>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>NEWS</h5>
+                    <ul>
+                        <li><a href="/news/top?ref_=nv_nw_tp_1"
+>Top News</a></li>
+                        <li><a href="/news/movie?ref_=nv_nw_mv_2"
+>Movie News</a></li>
+                        <li><a href="/news/tv?ref_=nv_nw_tv_3"
+>TV News</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_nw_cel_4"
+>Celebrity News</a></li>
+                        <li><a href="/news/indie?ref_=nv_nw_ind_5"
+>Indie News</a></li>
+                    </ul>
+                    <h5>COMMUNITY</h5>
+                    <ul>
+                        <li><a href="/boards/?ref_=nv_cm_bd_1"
+>Message Boards</a></li>
+                        <li><a href="/czone/?ref_=nv_cm_cz_2"
+>Contributor Zone</a></li>
+                        <li><a href="/games/guess?ref_=nv_cm_qz_3"
+>Quiz Game</a></li>
+                        <li><a href="/poll/?ref_=nv_cm_pl_4"
+>Polls</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navWatchlistMenu">
+<p class="navCategory singleLine watchlist">
+    <a href="/list/watchlist?ref_=nv_wl_all_0"
+>Watchlist</a>
+</p>
+<span class="downArrow"></span>
+<div id="navMenu4" class="sub_nav">
+    <h5>
+            YOUR WATCHLIST
+    </h5> 
+    <ul id="navWatchlist">
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.watchlistTeaserData = [
+                {
+                        href : "/list/watchlist",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot1_logged_out-1670046337._CB306318084_.jpg"
+                },
+                {
+                    href : "/search/title?count=100&title_type=feature,tv_series",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot2_popular-4090757197._CB306318127_.jpg"
+                },
+                {
+                    href : "/chart/top",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot3_top250-575799966._CB306318332_.jpg"
+                }
+    ];
+    </script>
+</div>
+        </li>
+        <li class="spacer"></li>
+    </ul>
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.navbarAdSlots = {
+    titleAd : {
+    },
+    nameAd : {
+    }
+}
+</script>
+</div>
+<div id="nb_extra">
+    <ul id="nb_extra_nav" class="main_nav">
+        <li class="css_nav_item" id="navProMenu">
+            <p class="navCategory">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+> <img alt="IMDbPro Menu" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_nb-720143162._CB306318304_.png" />
+</a>            </p>
+            <span class="downArrow"></span>
+            <div id="navMenuPro" class="sub_nav">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+id="proLink" > <div id="proAd">
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.proMenuTeaser = {
+imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu_user-2082544740._CB306318138_.jpg"
+};
+</script>
+</div>
+<div class="subNavListContainer">
+<img alt="Go to IMDbPro" title="Go to IMDbPro" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_menu-2185879182._CB306318245_.png" />
+<h5>GET INFORMED</h5>
+<p>Industry information at your fingertips</p>
+<h5>GET CONNECTED</h5>
+<p>Over 200,000 Hollywood insiders</p>
+<h5>GET DISCOVERED</h5>
+<p>Enhance your IMDb Page</p>
+<p><strong>Go to IMDbPro &raquo;</strong></p>
+</div>
+</a>            </div>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/apps/?ref_=nb_app"
+>IMDb Apps</a>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/help/?ref_=nb_hlp"
+>Help</a>
+        </li>
+    </ul>
+</div>
+<div id="nb_personal">
+    <ul id="consumer_user_nav" class="main_nav">
+
+        <li class="css_nav_menu" id="navUserMenu">
+            <p class="navCategory singleLine">
+                <a href="/register/login?ref_=nv_usr_lgin_1"
+rel="login" id="nblogin" >Login</a>
+            </p>
+            <span class="downArrow"></span>
+            <div class="sub_nav">
+                <div class="subNavListContainer">
+                    <br />
+                    <ul>
+                        <li>
+                            <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=nv_usr_reg_2"
+>Register</a>
+                        </li>
+                        <li>
+                            <a href="/register/login?ref_=nv_usr_lgin_3"
+rel="login" id="nblogin" >Login</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
+  </div>
+</div>
+	
+	<!-- no content received for slot: navstrip -->
+	
+	
+	<!-- no content received for slot: injected_navstrip -->
+	
+<script>
+    if (typeof uet == 'function') {
+      uet("ne");
+    }
+</script>
+                    <div id="pagecontent" itemscope itemtype="http://schema.org/Person">
+	
+	<!-- no content received for slot: injected_billboard -->
+	
+
+<div id="content-2-wide" class="redesign">
+
+    <div class="maindetails_center" id="maindetails_center_top">
+
+                    
+                    
+        
+
+            <div class="article name-overview">
+
+    
+    <div id="name-overview-widget">
+        <table cellspacing="0" cellpadding="0" border="0" id="name-overview-widget-layout">
+            <tbody>
+                <tr>
+                    <td rowspan="2" id="img_primary">
+                        <div class="image">
+                        </div> 
+                    </td>
+                    
+                    <td id="overview-top">
+                            <div class="no-pic-wrapper">
+<a href="/r/nm_chgphoto/name/nm2171473"
+> <img class="no-pic-image"
+width="52px"
+height="70px"
+alt="No photo available. Represent Tatsuyuki Nagai? Add or change photos at IMDbPro"
+title="No photo available. Represent Tatsuyuki Nagai? Add or change photos at IMDbPro"
+src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/medium/name-2135195744._CB379389549_.png" /></a>
+                                <div class="no-pic-text-column">
+
+
+
+
+        
+
+            <div id="prometer_container">
+                <div id="prometer" class="meter-collapsed down">
+                    <div id="meterHeaderBox">
+                        <div class="meterToggleOnHover">STARmeter</div>
+<a href="http://pro.imdb.com/name/nm2171473?rf=cons_nm_meter&ref_=cons_nm_meter"
+id="meterRank" >SEE RANK</a>
+                    </div>
+                    <div id="meterChangeRow" class="meterToggleOnHover">
+                            <span>Down</span>
+                        <span id="meterChange">71,673</span>
+                        <span>this week</span>
+                    </div>
+                    <div id="meterSeeMoreRow" class="meterToggleOnHover">
+<a href="http://pro.imdb.com/name/nm2171473?rf=cons_nm_meter&ref_=cons_nm_meter"
+>View rank on IMDbPro</a>
+                        <span>&raquo;</span>
+                    </div>
+                </div>
+            </div>
+                        
+    <h1 class="header"> <span class="itemprop" itemprop="name">Tatsuyuki Nagai</span> 
+        
+        
+    </h1>
+    
+        <div class="infobar" id="name-job-categories">
+            
+            
+<a href="#director"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Director</span></a>                 <span class="ghost">|</span> 
+            
+            
+<a href="#art_department"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Art Department</span></a>                 <span class="ghost">|</span> 
+            
+            
+<a href="#animation_department"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Animation Department</span></a>            
+        </div>
+    
+        </div>
+        </div>
+                                </div>
+                            </div>
+                        
+<div class="txt-block" id="name-bio-text">
+            Contribute to IMDb. Add a bio, trivia, and more.<br />
+            <a href="/updates?auto=legacy/name/nm2171473/&ref_=nm_ov_edt"
+>Update information for Tatsuyuki Nagai</a> &raquo;
+</div>
+
+                        
+
+                        
+                        
+                   </td>
+                <tr>
+                   <td id="overview-middle">
+        <div id="name-pro-info" class="pro-list">
+            <span class="pro-list-title"><a href="http://pro.imdb.com/name/nm2171473?rf=cons_nm_more&ref_=cons_nm_more"
+>More at IMDbPro</a> &raquo;</span>
+            
+            
+<a href="http://pro.imdb.com/name/nm2171473?rf=cons_nm_photo&ref_=cons_nm_photo"
+><img class="absmiddle" width="13" height="13" src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/profile-152317997._CB379391798_.png" alt="Add or change photos on IMDbPro"/ ></a>                <strong>Represent Tatsuyuki Nagai?</strong> <a href="http://pro.imdb.com/name/nm2171473?rf=cons_nm_photo&ref_=cons_nm_photo"
+>Add or change photos</a>
+        </div>
+                        
+                   </td>
+                </tr>
+            </tbody>
+        </table>
+        
+    
+        <div class="mediastrip_container">
+            
+            <div class="see-more">
+                
+        
+<a href="/name/nm2171473/videogallery?ref_=nm_phs_vi"
+>11 videos</a>                
+<span class="ghost">|</span>        
+<a href="/name/nm2171473/news?ref_=nm_phs_nw"
+>1 news article</a> &raquo;            </div>
+        </div>
+        
+    </div>
+
+            </div> 
+
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_main');
+    }
+  </script>
+                    
+<script>
+    if (typeof uet == 'function') {
+      uet("cf");
+    }
+</script>
+    </div> 
+    <div id="maindetails_sidebar_bottom" class="maindetails_sidebar" data-caller-name="name-main">
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_sidebar');
+    }
+  </script>
+
+	
+	<!-- no content received for slot: top_rhs -->
+	
+
+                    
+                    
+
+    
+    
+    <div class="aux-content-widget-3 links subnav" div="quicklinks">
+
+            <h3>Quick Links</h3>
+
+
+        <div id="maindetails_quicklinks">
+                <div class="split_0">    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/bio?ref_=nm_ql_1"
+class="link ghost" >Biography</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/awards?ref_=nm_ql_2"
+class="link ghost" >Awards</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/board/?ref_=nm_ql_3"
+class="link ghost" >Message Boards</a>
+                    </span>
+                </li>
+    </ul>
+</div>
+                <div class="split_1">    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/mediaindex?ref_=nm_ql_4"
+class="link ghost" >Photo Gallery</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/?nmdp=1&ref_=nm_ql_5#filmography"
+class="link" >Filmography <span class="ghost quicklink_modifier">(by Job)</span></a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/videogallery?ref_=nm_ql_6"
+class="link" >Trailers and Videos</a>
+                    </span>
+                </li>
+    </ul>
+</div>
+        </div>
+        <hr/>
+
+        <div id="full_subnav">
+
+
+        <h4>Filmography</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=year&explore=title_type&role=nm2171473&ref_=nm_ql_flmg_1"
+class="link" ><span class="ghost">by</span> Year</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/?nmdp=1&ref_=nm_ql_flmg_2#filmography"
+class="link" ><span class="ghost">by</span> Job</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=user_rating&explore=title_type&role=nm2171473&ref_=nm_ql_flmg_3"
+class="link" ><span class="ghost">by</span> Ratings</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=num_votes&explore=title_type&role=nm2171473&ref_=nm_ql_flmg_4"
+class="link" ><span class="ghost">by</span> Votes</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=moviemeter&explore=genres&role=nm2171473&ref_=nm_ql_flmg_5"
+class="link" ><span class="ghost">by</span> Genre</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=moviemeter&explore=keywords&role=nm2171473&ref_=nm_ql_flmg_6"
+class="link" ><span class="ghost">by</span> Keyword</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Personal Details</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/bio?ref_=nm_ql_pdtls_1"
+class="link ghost" >Biography</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/otherworks?ref_=nm_ql_pdtls_2"
+class="link ghost" >Other Works</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/publicity?ref_=nm_ql_pdtls_3"
+class="link ghost" >Publicity Listings</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/officialsites?ref_=nm_ql_pdtls_4"
+class="link ghost" >Official Sites</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/agent?ref_=nm_ql_pdtls_5"
+class="link ghost" >Contact Info <span class="ghost quicklink_modifier">(IMDbPro)</span></a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Did You Know?</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/bio?ref_=nm_ql_dyk_1#quotes"
+class="link ghost" >Personal Quotes</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/bio?ref_=nm_ql_dyk_2#trivia"
+class="link ghost" >Trivia </a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/bio?ref_=nm_ql_dyk_3#trademark"
+class="link ghost" >Trademark</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Photo & Video</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/mediaindex?ref_=nm_ql_pv_1"
+class="link ghost" >Photo Gallery</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/videogallery?ref_=nm_ql_pv_2"
+class="link" >Trailers and Videos</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Opinion</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/awards?ref_=nm_ql_op_1"
+class="link ghost" >Awards</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/board/?ref_=nm_ql_op_2"
+class="link ghost" >Message Boards</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Related Items</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/workedwith?ref_=nm_ql_rel_1"
+class="link" >Credited With</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/nowshowing?ref_=nm_ql_rel_2"
+class="link ghost" >TV Schedule</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/news?ref_=nm_ql_rel_3"
+class="link" >NewsDesk</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm2171473/externalsites?ref_=nm_ql_rel_4"
+class="link ghost" >External Sites</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Professional Services</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/widget/resume_redirect/?ref_=nm_ql_pro_1"
+class="link" >Promote yourself with a resume</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/name/nm2171473?ref_=nm_ql_pro_2"
+class="link" >Add or change photos</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/name/nm2171473?ref_=nm_ql_pro_3"
+class="link" >Get more at IMDbPro</a>
+                    </span>
+                </li>
+    </ul>
+            <hr/>
+        </div>
+
+        <div class="show_more"><span class="titlePageSprite arrows show"></span>Explore More</div>
+        <div class="show_less"><span class="titlePageSprite arrows hide"></span>Show Less</div>
+    </div>
+
+                    
+        <div class="aux-content-widget-2">
+        <span class="ab_widget"
+        >
+            <div class="ab_ninja ">
+<span class="ninja_header"> <span class="oneline"> <a href="/imdbpicks/?ref_=nm_pks_hd" > <h3>IMDb Picks: May</h3> </a> </span> </span> <p class="blurb">Visit our IMDb Picks section to see our recommendations of movies and TV shows coming out in May, sponsored by COVERGIRL.</p> <div class="ninja_image_pack"> <div class="ninja_center"> <div class="ninja_image first_image last_image" style="width:100%;height:auto;" > <div style="width:100%;height:auto;margin:0 auto;"> <div class="widget_image"> <div class="image"> <a href="/imdbpicks/?ref_=nm_pks_i_1" > <img itemprop="image" class="pri_image" title="Still of Britt Robertson in Tomorrowland (2015)" alt="Still of Britt Robertson in Tomorrowland (2015)" src="http://ia.media-imdb.com/images/M/MV5BMTc5NjY1ODkwOV5BMl5BanBnXkFtZTgwMTE3ODE4MzE@._V1._CR1,67,931,491_SY491_CR138,0,654,491_AL_.jpg" data-src-x2="http://ia.media-imdb.com/images/M/MV5BMTc5NjY1ODkwOV5BMl5BanBnXkFtZTgwMTE3ODE4MzE@._V1._CR1,67,931,491_SY491_CR138,0,654,491_AL_.jpg" /> </a> <div class="widget_caption caption_overlay"> <div class="primary"> <div class="onoverflow"> <a href="/imdbpicks/?ref_=nm_pks_cap_pri_1" > Tomorrowland </a> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div> <p class="seemore position_bottom"> <a href="/imdbpicks/?ref_=nm_pks_sm" >Visit the IMDb Picks section</a> </p> </div>    </div>
+
+        </span>
+        </div>
+
+
+                    
+
+  <div class="aux-content-widget-2" id="social-share-widget"> 
+    
+    <div class="social">
+      <div class="social_networking"> 
+       <span><strong>Share</strong> this page:</span>
+  <a onclick="window.open(&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm2171473%2F&quot;, 'newWindow', 'width=626, height=436'); return false;" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm2171473%2F" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
+  <a onclick="window.open(&quot;http://twitter.com/intent/tweet?text=Tatsuyuki%20Nagai%20-%20http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm2171473%2F&quot;, 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/intent/tweet?text=Tatsuyuki%20Nagai%20-%20http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm2171473%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
+  <a onclick="$('div.social input[name=share-link]').show().select(); return false;" title="Share the page" class="share_icon share_url_link" href="http://www.imdb.com/name/nm2171473/"></a>
+      </div>
+      <input type="text" name="share-link" value="http://www.imdb.com/name/nm2171473/" readonly>
+    </div>
+  <script type="text/javascript">generic.monitoring.start_timing("facebook_like_iframe");</script>
+  <div class="social_networking_like">
+    <iframe
+      id="iframe_like"
+      name="fbLikeIFrame_0"
+      class="social-iframe"
+      scrolling="no"
+      frameborder="0"
+      allowTransparency="allowTransparency"
+      ref="http://www.imdb.com/name/nm2171473/"
+      width=280
+      height=65></iframe>
+  </div>
+  </div>
+
+                    
+
+	
+	<!-- no content received for slot: rhs_cornerstone -->
+	
+
+                    
+
+
+      <div class="aux-content-widget-2" >
+        <h3>Related News</h3>
+
+        
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm2171473/news?ref_=nm_nwr_1#ni54894394"
+>Waiting In The Summer DVD Review</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  1 June 2013 4:00 AM, EDT
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0000101?ref_=nm_nwr_1"
+>The Hollywood News</a>
+                                </span>
+                        </small>
+                    </div>
+       
+
+      </div>
+
+                    
+
+        <div class="aux-content-widget-2">
+                <h3>On Amazon Instant Video</h3>
+    <div id="on-aiv-list">
+
+                
+                
+                        <div class="on-aiv-row">
+                            <div class="on-aiv-button" style="font-family:Verdana,Arial,sans-serif;font-size:11px;">
+    <a href="/offsite/?page-action=watch-aiv&token=BCYqvZFnm5q5ze96P12mrS4Y04wNRy7YrJ0E9JV-I4MCWKFrkMyemO6zrNjOIG0DkWVk8a0nnqKe%0D%0AXyKgV7czbBtiJvQjA7_7bqVbOGdtAPHaz06N47Vvqi8axLaB-Y2rT1Fnl907PSs0lCCLX37M5VkG%0D%0AVA7IOLHXtuBLZwP2TG0hTCmFMwDHjzg139-iwg0DmG8Arr0PptZpUsVn76SCgLQqZ4Neq0pVnS8E%0D%0A6nqtBvud2WRmu2lwmr_l_mKD0agPHAIFejjGcvmnf-K-QAQloJCF1w%0D%0A&ref_=nm_aiv_1"
+rel="nofollow" itemprop='url'>Watch Now</a>
+                            </div>
+                            <div class="on-aiv-title">
+                                <a href="/title/tt1279024?ref_=nm_aiv_t1"
+>Toradora!</a>
+                            </div>
+                        </div>
+                
+                
+                
+                        <div class="on-aiv-row">
+                            <div class="on-aiv-button" style="font-family:Verdana,Arial,sans-serif;font-size:11px;">
+    <a href="/offsite/?page-action=watch-aiv&token=BCYhKR15W87-sK59F_SMm_tClN49QI4z_QyrHEx8ylvC0l-D2JwmWwEscB9MGCT3k54ywgfvt5PT%0D%0Ar0Pr5_UA2Zle3D7sir1fHngwBH5GMd1tRXr_L8DUBQW-c9Nu5aFSVaWl9CbZeefdV-LH1mXo_Gk9%0D%0A_wdMWVvzLdOsfduQOGZ4ikLZCelNCaKcay_MyC9aFoTglnITgCsXLzBEmffNTq2A4uCnO9KiVOxi%0D%0A2A8C61447JXpPmau5M23MgkbcYhTG0Z0ZhYuBrZn1-bCN6TwxJ8PTQ%0D%0A&ref_=nm_aiv_2"
+rel="nofollow" itemprop='url'>Watch Now</a>
+                            </div>
+                            <div class="on-aiv-title">
+                                <a href="/title/tt1515996?ref_=nm_aiv_t2"
+>To aru kagaku no rêrugan</a>
+                            </div>
+                        </div>
+    </div>
+                <div class="see-more">
+                    <a href="/offsite/?page-action=watch-aiv&token=BCYtCi4aC4LkbimpohVWM-fRDMjSUyr1ZDXRgL9lb-82hK9Y7Mbv2ADXCwsKjdHm5LiUpGdzifzW%0D%0ASGSv9p6I_d8PJ0FCcXtm58YNb-40NBFTL7R6FjInKoO3eXUnORmV0UP5J_RFrp-la-IA41uS4Mex%0D%0ArdLi84uBNcA5Uzu8t0oFWeYPcc7T_0WPDdOnQtbwhl6xoYwAnMK8S8uUwzhKZGPvWP9kFHja0Ffi%0D%0ASEUGIvMkBikIusUOKJI27ii4r7S3T_tDVRz3mQYIJu1DKLqRQJ9VtuUWRdtIcmwjd9nppQJJnV0%0D%0A&ref_=nm_aiv_sm"
+>See more on Amazon Instant Video</a> &raquo;
+                </div>
+        </div>
+
+
+                    
+
+
+                    
+
+
+                    
+
+    <div class="aux-content-widget-2">
+        <h3>Do you have a demo reel?</h3>
+
+        <p>Add it to your IMDbPage</p>
+        <div class="video-browser-widget">
+             <div id="demoReelShoveler">
+
+
+<a href="/video/user/vi3091568921?ref_=nm_demo_1"
+title="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" alt="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" class="video-colorbox" data-video="vi3091568921" data-context="user" data-rid="" widget-context="nameDemoreels" itemprop="url" ><img height="90" width="120" alt="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" title="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMjI0NDMxOTE4MV5BMl5BanBnXkFtZTgwODI5MzczMzE@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZA01:21,103,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,2,-2_.jpg" itemprop='image' viconst="vi3091568921" /></a>
+
+<a href="/video/user/vi4067727897?ref_=nm_demo_2"
+title="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" alt="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" class="video-colorbox" data-video="vi4067727897" data-context="user" data-rid="" widget-context="nameDemoreels" itemprop="url" ><img height="90" width="120" alt="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" title="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMTcyNTgxMDMyNF5BMl5BanBnXkFtZTcwNTkxOTQ0NA@@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZA03:00,103,1,14,36,verdenab,7,255,255,255,1_.jpg" itemprop='image' viconst="vi4067727897" /></a>
+             </div>
+        </div>
+        <div id="pro_demo_reel_link">
+<a href="http://pro.imdb.com/demoreels/list?rf=cons_nm_demoreel&ref_=cons_nm_demoreel"
+>Find out more at IMDb Pro</a> &raquo;
+        </div>
+    </div>
+
+                    
+
+    <div class="aux-content-widget-2">
+        <h3>Connect with IMDb</h3>
+        <div id="facebookWrapper">
+            <iframe
+                scrolling="no"
+                frameborder="0"
+                id="facebookIframe"
+                allowTransparency="true"></iframe>
+        </div>
+        <hr>
+        <iframe allowtransparency="true"
+            frameborder="0"
+            role="presentation"
+            scrolling="no"
+            id="twitterIframe"></iframe>
+    </div>
+
+                    
+
+<div class="aux-content-widget-2 ">
+    <h3>How Much Have You Seen?</h3>
+How much of <a href="/seen/nm2171473/?ref_=nm_se"
+>Tatsuyuki Nagai's work</a> have you seen?
+</div>
+
+                    
+
+
+                    
+
+	
+	<!-- no content received for slot: btf_rhs2 -->
+	
+
+                    
+
+    </div>
+
+
+
+    <div id="maindetails_center_bottom" class="maindetails_center">
+                    
+                    
+            <div class="article">
+<h2>Known For</h2>
+<div id="knownfor">
+<div>
+<a href="/title/tt1279024/?ref_=nm_knf_i1"
+> <img
+height="200"
+width="148"
+title="Toradora!"
+alt="Toradora!"
+src="http://ia.media-imdb.com/images/M/MV5BMjI5ODY5Njk5MV5BMl5BanBnXkFtZTgwOTI0MjcwMzE@._V1_SY194_CR176,0,148,194_AL_.jpg"
+class="wtw-option" data-tconst="tt1279024" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt1279024/?ref_=nm_knf_t1"
+>Toradora! (2008)</a>
+</div>
+<div>
+<a href="/title/tt1515996/?ref_=nm_knf_i2"
+> <img
+height="200"
+width="148"
+title="To aru kagaku no rêrugan"
+alt="To aru kagaku no rêrugan"
+src="http://ia.media-imdb.com/images/M/MV5BMjE5NjcwOTI2N15BMl5BanBnXkFtZTgwMTE0MDgwMzE@._V1_SY200_CR59,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt1515996" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt1515996/?ref_=nm_knf_t2"
+>To aru kagaku no rêrugan (2009)</a>
+</div>
+<div>
+<a href="/title/tt2323836/?ref_=nm_knf_i3"
+> <img
+height="200"
+width="148"
+title="Anohana the Movie: The Flower We Saw That Day"
+alt="Anohana the Movie: The Flower We Saw That Day"
+src="http://ia.media-imdb.com/images/M/MV5BNTc1NzEwOTU0MV5BMl5BanBnXkFtZTgwNTMxMzY5MDE@._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt2323836" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt2323836/?ref_=nm_knf_t3"
+>Anohana the Movie: The Flower We Saw That Day (2013)</a>
+</div>
+<div class="last">
+<a href="/title/tt2187287/?ref_=nm_knf_i4"
+> <img
+height="200"
+width="148"
+title="Ano natsu de matteru"
+alt="Ano natsu de matteru"
+src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/medium/tv-3264496829._CB379390658_.png"
+class="wtw-option" data-tconst="tt2187287" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt2187287/?ref_=nm_knf_t4"
+>Ano natsu de matteru (2012)</a>
+</div>
+</div>
+            </div> 
+                    
+            <div class="article">
+<div class="rightcornerlink">
+<span class="filmo-show-hide-all"
+style="display: inline;"
+onclick="showOrHideAll();">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show_mini-603933165._CB306318127_.png" alt="Show" width="14" height="12" class="absmiddle">&nbsp;Show all
+</span>
+<span class="filmo-show-hide-all"
+style="display: none;"
+onclick="showOrHideAll();">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide_mini-3743750714._CB306318255_.png" alt="Hide" width="14" height="12" class="absmiddle">&nbsp;Hide all
+</span>
+&nbsp;<span>|</span>&nbsp;
+<form name="navform" method="get" action="filmosummary" id="filmoform">
+<select name="sort" class="fixed">
+<option value="">Show by...</option>
+<option value="?nmdp=1">Job</option>
+<option value="/filmosearch?sort=year&explore=title_type&role=nm2171473">Year &raquo;</option>
+<option value="/filmosearch?sort=user_rating&explore=title_type&role=nm2171473">Ratings &raquo;</option>
+<option value="/filmosearch?sort=num_votes&explore=title_type&role=nm2171473">Votes &raquo;</option>
+<option value="/filmosearch?sort=moviemeter&explore=genres&role=nm2171473">Genre &raquo;</option>
+<option value="/filmosearch?sort=moviemeter&explore=keywords&role=nm2171473">Keyword &raquo;</option>
+</select>
+</form>
+&nbsp;<span>|</span>&nbsp;
+<a href="/updates?edit=nm2171473/filmography&ref_=nm_flmg_edt"
+> Edit
+</a> </div>
+<h2>Filmography</h2>
+<div id="jumpto">
+Jump to:
+<a href="#director"
+onclick="handleFilmoJumpto(this);" data-category="director">Director</a></a>
+<span class="ghost">|</span> <a href="#art_department"
+onclick="handleFilmoJumpto(this);" data-category="art_department">Art department</a></a>
+<span class="ghost">|</span> <a href="#animation_department"
+onclick="handleFilmoJumpto(this);" data-category="animation_department">Animation department</a></a>
+<span class="ghost">|</span> <a href="#assistant_director"
+onclick="handleFilmoJumpto(this);" data-category="assistant_director">Second Unit Director or Assistant Director</a></a>
+</div>
+<div id="filmography">
+<div id="filmo-head-director" class="head" data-category="director" onclick="toggleFilmoCategory(this);">
+<span id="hide-director" class="hide-link"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-director" class="show-link"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="director">Director</a> (19 credits)
+</div>
+<div class="filmo-category-section"
+>
+<div class="filmo-row odd" id="director-tt4489416">
+<span class="year_column">
+&nbsp;2015
+</span>
+<b><a href="/title/tt4489416/?ref_=nm_flmg_dr_1"
+>Kokoro ga Sakebitagatterun Da</a></b>
+(<a href="/r/legacy-inprod-name/title/tt4489416" class="in_production">post-production</a>)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt3615010">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt3615010/?ref_=nm_flmg_dr_2"
+>Ano Natsu de Matteru Special</a></b>
+(TV Series)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt4458182">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt4458182/?ref_=nm_flmg_dr_3"
+>Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta</a></b>
+(TV Movie)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt2323836">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt2323836/?ref_=nm_flmg_dr_4"
+>Anohana the Movie: The Flower We Saw That Day</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt2187287">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2187287/?ref_=nm_flmg_dr_5"
+>Ano natsu de matteru</a></b>
+(TV Series) (series director - 12 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2709630/?ref_=nm_flmg_dr_5"
+>Ano natsu de matteru</a>
+(2012)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2709616/?ref_=nm_flmg_dr_5"
+>Ikanaide, senpai</a>
+(2012)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2709602/?ref_=nm_flmg_dr_5"
+>Senpai to bokura no</a>
+(2012)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2709600/?ref_=nm_flmg_dr_5"
+>Senpai</a>
+(2012)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2709590/?ref_=nm_flmg_dr_5"
+>Senpai ga Pinch</a>
+(2012)
+... (series director)
+</div>
+<div id="more-episodes-tt2187287-director" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="12"
+onclick="toggleSeeMoreEpisodes(this,'nm2171473','tt2187287','director',4); return false;">Show all 12 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="director-tt1913273">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1913273/?ref_=nm_flmg_dr_6"
+>Anohana: The Flower We Saw That Day</a></b>
+(TV Series) (series director - 11 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2011435/?ref_=nm_flmg_dr_6"
+>Ano Natsu ni Saku Hana</a>
+(2011)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2011437/?ref_=nm_flmg_dr_6"
+>Hanabi</a>
+(2011)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2012701/?ref_=nm_flmg_dr_6"
+>Minna to Menma</a>
+(2011)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2011438/?ref_=nm_flmg_dr_6"
+>I Wonder</a>
+(2011)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2011439/?ref_=nm_flmg_dr_6"
+>The Real Wish</a>
+(2011)
+... (series director)
+</div>
+<div id="more-episodes-tt1913273-director" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="11"
+onclick="toggleSeeMoreEpisodes(this,'nm2171473','tt1913273','director',5); return false;">Show all 11 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="director-tt1808356">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1808356/?ref_=nm_flmg_dr_7"
+>OVA To aru kagaku no rêrugan: Misaka-san wa ima chuumoku no mato desukara</a></b>
+(Video short)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt1515996">
+<span class="year_column">
+&nbsp;2009-2010
+</span>
+<b><a href="/title/tt1515996/?ref_=nm_flmg_dr_8"
+>To aru kagaku no rêrugan</a></b>
+(TV Series) (series director - 24 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1631259/?ref_=nm_flmg_dr_8"
+>Dear My Friends</a>
+(2010)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1631260/?ref_=nm_flmg_dr_8"
+>Ima, anata no me niwa nani ga mieteimasuka?</a>
+(2010)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1631261/?ref_=nm_flmg_dr_8"
+>Kami naranu mi nite tenjou no ishi ni tadoritsuku mono</a>
+(2010)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1631262/?ref_=nm_flmg_dr_8"
+>Koe</a>
+(2010)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1631263/?ref_=nm_flmg_dr_8"
+>Porutâgaisuto</a>
+(2010)
+... (series director)
+</div>
+<div id="more-episodes-tt1515996-director" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="24"
+onclick="toggleSeeMoreEpisodes(this,'nm2171473','tt1515996','director',7); return false;">Show all 24 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="director-tt1305695">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1305695/?ref_=nm_flmg_dr_9"
+>Kaitô tenshi Tsuin enjeru: Gekan</a></b>
+(Video short)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt1279024">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1279024/?ref_=nm_flmg_dr_10"
+>Toradora!</a></b>
+(TV Series)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt1305696">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1305696/?ref_=nm_flmg_dr_11"
+>Kaitô tenshi Tsuin enjeru: Jôkan</a></b>
+(Video short)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt1144841">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1144841/?ref_=nm_flmg_dr_12"
+>Kimikisu: Pyua rûju</a></b>
+(TV Series) (12 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2364018/?ref_=nm_flmg_dr_12"
+>...And Meet Again</a>
+(2008)
+... (ending sequence)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2364012/?ref_=nm_flmg_dr_12"
+>Miss You</a>
+(2008)
+... (ending sequence)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2364008/?ref_=nm_flmg_dr_12"
+>Time Goes By</a>
+(2008)
+... (ending sequence)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2363998/?ref_=nm_flmg_dr_12"
+>Cutting Memory</a>
+(2008)
+... (ending sequence)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2363984/?ref_=nm_flmg_dr_12"
+>Uncontrollable</a>
+(2008)
+... (ending sequence)
+</div>
+<div id="more-episodes-tt1144841-director" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="12"
+onclick="toggleSeeMoreEpisodes(this,'nm2171473','tt1144841','director',11); return false;">Show all 12 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="director-tt1161688">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1161688/?ref_=nm_flmg_dr_13"
+>Shigofumi</a></b>
+(TV Series) (3 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1174567/?ref_=nm_flmg_dr_13"
+>Mezame</a>
+(2008)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1174570/?ref_=nm_flmg_dr_13"
+>Kirameki</a>
+(2008)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1171103/?ref_=nm_flmg_dr_13"
+>Roketto</a>
+(2008)
+</div>
+</div>
+<div class="filmo-row even" id="director-tt1345978">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1345978/?ref_=nm_flmg_dr_14"
+>Aidorumasutâ: Xenoglossia</a></b>
+(TV Series) (series director - 26 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt3418208/?ref_=nm_flmg_dr_14"
+>Tsuki to pengin</a>
+(2007)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3418204/?ref_=nm_flmg_dr_14"
+>Haru no yuki</a>
+(2007)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3418202/?ref_=nm_flmg_dr_14"
+>Fukkô koyomi hyakuhachi-nen</a>
+(2007)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3418200/?ref_=nm_flmg_dr_14"
+>RUN!</a>
+(2007)
+... (series director)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3418198/?ref_=nm_flmg_dr_14"
+>Kagi to batto</a>
+(2007)
+... (series director)
+</div>
+<div id="more-episodes-tt1345978-director" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="26"
+onclick="toggleSeeMoreEpisodes(this,'nm2171473','tt1345978','director',13); return false;">Show all 26 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="director-tt0872304">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0872304/?ref_=nm_flmg_dr_15"
+>Hachimitsu to kurôbâ II</a></b>
+(TV Series) (12 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0948085/?ref_=nm_flmg_dr_15"
+>Hachimitsu to clover to</a>
+(2006)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0948081/?ref_=nm_flmg_dr_15"
+>Anata no Jinsei wo, watashi ni kudasai</a>
+(2006)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0948084/?ref_=nm_flmg_dr_15"
+>Chiisai koro, ichido dake kami-sama wo mita</a>
+(2006)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0948087/?ref_=nm_flmg_dr_15"
+>Jibun no muryoku wo kami shimeru</a>
+(2006)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0947926/?ref_=nm_flmg_dr_15"
+>Boku-tachi ha, nani mo shiranakatta</a>
+(2006)
+</div>
+<div id="more-episodes-tt0872304-director" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="12"
+onclick="toggleSeeMoreEpisodes(this,'nm2171473','tt0872304','director',14); return false;">Show all 12 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="director-tt0478838">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0478838/?ref_=nm_flmg_dr_16"
+>Honey and Clover</a></b>
+(TV Series) (1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0995764/?ref_=nm_flmg_dr_16"
+>Chapter 12</a>
+(2005)
+</div>
+</div>
+<div class="filmo-row odd" id="director-tt0824043">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0824043/?ref_=nm_flmg_dr_17"
+>Mai-HiME</a></b>
+(TV Series) (1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0936212/?ref_=nm_flmg_dr_17"
+>Kaze no i-ta-zu-ra</a>
+(2004)
+</div>
+</div>
+<div class="filmo-row even" id="director-tt0400690">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0400690/?ref_=nm_flmg_dr_18"
+>Ninja Scroll: The Series</a></b>
+(TV Series) (1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1755450/?ref_=nm_flmg_dr_18"
+>Amayodori</a>
+(2003)
+</div>
+</div>
+<div class="filmo-row odd" id="director-tt0872175">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0872175/?ref_=nm_flmg_dr_19"
+>G-on Riders</a></b>
+(TV Series) (1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2337968/?ref_=nm_flmg_dr_19"
+>Glass 6: Shugyô desu yo</a>
+(2002)
+</div>
+</div>
+</div>
+<div id="filmo-head-art_department" class="head" data-category="art_department" onclick="toggleFilmoCategory(this);">
+<span id="hide-art_department" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-art_department" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="art_department">Art department</a> (13 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="art_department-tt2250192">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2250192/?ref_=nm_flmg_ardp_1"
+>Sword Art Online</a></b>
+(TV Series) (storyboard artist - 1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2508628/?ref_=nm_flmg_ardp_1"
+>Grand Quest</a>
+(2012)
+... (storyboard artist)
+</div>
+</div>
+<div class="filmo-row even" id="art_department-tt2187287">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2187287/?ref_=nm_flmg_ardp_2"
+>Ano natsu de matteru</a></b>
+(TV Series) (storyboard artist - 2 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2709630/?ref_=nm_flmg_ardp_2"
+>Ano natsu de matteru</a>
+(2012)
+... (storyboard artist)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2709520/?ref_=nm_flmg_ardp_2"
+>Komarimasu, senpai</a>
+(2012)
+... (storyboard artist)
+</div>
+</div>
+<div class="filmo-row odd" id="art_department-tt1515996">
+<span class="year_column">
+&nbsp;2009-2010
+</span>
+<b><a href="/title/tt1515996/?ref_=nm_flmg_ardp_3"
+>To aru kagaku no rêrugan</a></b>
+(TV Series) (storyboard artist - 15 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1631259/?ref_=nm_flmg_ardp_3"
+>Dear My Friends</a>
+(2010)
+... (storyboard artist)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1576331/?ref_=nm_flmg_ardp_3"
+>Tokubetsu koushuu</a>
+(2010)
+... (storyboard artist: ending staff)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1576330/?ref_=nm_flmg_ardp_3"
+>Bikini wa shisen ga jouge ni wakaremasukedo wanpîsu wa karada no rain ga demasukara hosoikata shika niawanaindesuyo</a>
+(2009)
+... (storyboard artist: ending staff)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1576329/?ref_=nm_flmg_ardp_3"
+>AIM bâsuto</a>
+(2009)
+... (storyboard artist: ending staff)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1562830/?ref_=nm_flmg_ardp_3"
+>Kiyama sensei</a>
+(2009)
+... (storyboard artist: ending staff)
+</div>
+<div id="more-episodes-tt1515996-art_department" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="15"
+onclick="toggleSeeMoreEpisodes(this,'nm2171473','tt1515996','art_department',2); return false;">Show all 15 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="art_department-tt1490066">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1490066/?ref_=nm_flmg_ardp_4"
+>Sweet Blue Flowers</a></b>
+(TV Series) (storyboard artist - 1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1493967/?ref_=nm_flmg_ardp_4"
+>Spring Storm</a>
+(2009)
+... (storyboard artist)
+</div>
+</div>
+<div class="filmo-row odd" id="art_department-tt1279024">
+<span class="year_column">
+&nbsp;2008-2009
+</span>
+<b><a href="/title/tt1279024/?ref_=nm_flmg_ardp_5"
+>Toradora!</a></b>
+(TV Series) (storyboard artist - 4 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1390354/?ref_=nm_flmg_ardp_5"
+>Toradora!</a>
+(2009)
+... (storyboard artist)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1369400/?ref_=nm_flmg_ardp_5"
+>Seiyasai</a>
+(2009)
+... (storyboard artist)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1336562/?ref_=nm_flmg_ardp_5"
+>Shiawase no tenori taigâ</a>
+(2009)
+... (storyboard artist)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1301092/?ref_=nm_flmg_ardp_5"
+>Tora to ryû</a>
+(2008)
+... (storyboard artist)
+</div>
+</div>
+<div class="filmo-row even" id="art_department-tt1305695">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1305695/?ref_=nm_flmg_ardp_6"
+>Kaitô tenshi Tsuin enjeru: Gekan</a></b>
+(Video short) (storyboard artist)
+<br/>
+</div>
+<div class="filmo-row odd" id="art_department-tt1305696">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1305696/?ref_=nm_flmg_ardp_7"
+>Kaitô tenshi Tsuin enjeru: Jôkan</a></b>
+(Video short) (storyboard artist)
+<br/>
+</div>
+<div class="filmo-row even" id="art_department-tt1144841">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1144841/?ref_=nm_flmg_ardp_8"
+>Kimikisu: Pyua rûju</a></b>
+(TV Series) (storyboard artist - 12 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2364018/?ref_=nm_flmg_ardp_8"
+>...And Meet Again</a>
+(2008)
+... (storyboard artist: opening sequence)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2364012/?ref_=nm_flmg_ardp_8"
+>Miss You</a>
+(2008)
+... (storyboard artist: opening sequence)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2364008/?ref_=nm_flmg_ardp_8"
+>Time Goes By</a>
+(2008)
+... (storyboard artist: opening sequence)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2363998/?ref_=nm_flmg_ardp_8"
+>Cutting Memory</a>
+(2008)
+... (storyboard artist: opening sequence)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2363984/?ref_=nm_flmg_ardp_8"
+>Uncontrollable</a>
+(2008)
+... (storyboard artist: opening sequence)
+</div>
+<div id="more-episodes-tt1144841-art_department" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="12"
+onclick="toggleSeeMoreEpisodes(this,'nm2171473','tt1144841','art_department',7); return false;">Show all 12 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="art_department-tt1345978">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1345978/?ref_=nm_flmg_ardp_9"
+>Aidorumasutâ: Xenoglossia</a></b>
+(TV Series) (storyboard artist - 5 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt3418208/?ref_=nm_flmg_ardp_9"
+>Tsuki to pengin</a>
+(2007)
+... (storyboard artist)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3418198/?ref_=nm_flmg_ardp_9"
+>Kagi to batto</a>
+(2007)
+... (storyboard artist)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3418184/?ref_=nm_flmg_ardp_9"
+>Maigo no usagi</a>
+(2007)
+... (storyboard artist)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3418182/?ref_=nm_flmg_ardp_9"
+>Airodu to aidoru</a>
+(2007)
+... (storyboard artist)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3418068/?ref_=nm_flmg_ardp_9"
+>Jôkyô pengin</a>
+(2007)
+... (storyboard artist)
+</div>
+</div>
+<div class="filmo-row even" id="art_department-tt0994694">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0994694/?ref_=nm_flmg_ardp_10"
+>Yomigaeru sora: Rescue Wings</a></b>
+(TV Series) (storyboard artist - 1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0999843/?ref_=nm_flmg_ardp_10"
+>Taisetsu na hito</a>
+(2007)
+... (storyboard artist)
+</div>
+</div>
+<div class="filmo-row odd" id="art_department-tt0824043">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0824043/?ref_=nm_flmg_ardp_11"
+>Mai-HiME</a></b>
+(TV Series) (storyboard artist - 1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0936212/?ref_=nm_flmg_ardp_11"
+>Kaze no i-ta-zu-ra</a>
+(2004)
+... (storyboard artist)
+</div>
+</div>
+<div class="filmo-row even" id="art_department-tt0486171">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0486171/?ref_=nm_flmg_ardp_12"
+>Ikki tôsen</a></b>
+(TV Series) (storyboard artist - 1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1193854/?ref_=nm_flmg_ardp_12"
+>Go</a>
+(2003)
+... (storyboard artist)
+</div>
+</div>
+<div class="filmo-row odd" id="art_department-tt0872175">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0872175/?ref_=nm_flmg_ardp_13"
+>G-on Riders</a></b>
+(TV Series) (storyboard artist - 1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2337968/?ref_=nm_flmg_ardp_13"
+>Glass 6: Shugyô desu yo</a>
+(2002)
+... (storyboard artist)
+</div>
+</div>
+</div>
+<div id="filmo-head-animation_department" class="head" data-category="animation_department" onclick="toggleFilmoCategory(this);">
+<span id="hide-animation_department" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-animation_department" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="animation_department">Animation department</a> (1 credit)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="animation_department-tt1515996">
+<span class="year_column">
+&nbsp;2009-2010
+</span>
+<b><a href="/title/tt1515996/?ref_=nm_flmg_anm_1"
+>To aru kagaku no rêrugan</a></b>
+(TV Series) (director - 13 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1576331/?ref_=nm_flmg_anm_1"
+>Tokubetsu koushuu</a>
+(2010)
+... (director: ending staff)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1576330/?ref_=nm_flmg_anm_1"
+>Bikini wa shisen ga jouge ni wakaremasukedo wanpîsu wa karada no rain ga demasukara hosoikata shika niawanaindesuyo</a>
+(2009)
+... (director: ending staff)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1576329/?ref_=nm_flmg_anm_1"
+>AIM bâsuto</a>
+(2009)
+... (director: ending staff)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1562830/?ref_=nm_flmg_anm_1"
+>Kiyama sensei</a>
+(2009)
+... (director: ending staff)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1558552/?ref_=nm_flmg_anm_1"
+>Sairento majoriti</a>
+(2009)
+... (director: ending staff)
+</div>
+<div id="more-episodes-tt1515996-animation_department" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="13"
+onclick="toggleSeeMoreEpisodes(this,'nm2171473','tt1515996','animation_department',0); return false;">Show all 13 episodes</a>
+</div>
+</div>
+</div>
+<div id="filmo-head-assistant_director" class="head" data-category="assistant_director" onclick="toggleFilmoCategory(this);">
+<span id="hide-assistant_director" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-assistant_director" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="assistant_director">Second Unit Director or Assistant Director</a> (1 credit)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="assistant_director-tt0322645">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0322645/?ref_=nm_flmg_asst_1"
+>Inuyasha the Movie: Affections Touching Across Time</a></b>
+(assistant director)
+<br/>
+</div>
+</div>
+</div>            </div> 
+                    
+    
+        <div class="article">
+        
+        <h2>Related Videos</h2>
+    <div class="mediastrip_big">
+                <span class="video_slate" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T24,690M24S" />
+
+<a href="/video/hulu/vi2189272601?ref_=nm_rvd_vi_1"
+title="Ano hi mita hana no namae o bokutachi wa mada shiranai. -- One day, Jintan (Jinta Yadomi), a teenage shut-in, suddenly finds himself face-to-face with his childhood friend, Menma (Meiko Honma). After struggling with Menma's request to have her (unknown) wish granted, Jintan..." alt="Ano hi mita hana no namae o bokutachi wa mada shiranai. -- One day, Jintan (Jinta Yadomi), a teenage shut-in, suddenly finds himself face-to-face with his childhood friend, Menma (Meiko Honma). After struggling with Menma's request to have her (unknown) wish granted, Jintan..." class=" " data-video="vi2189272601" data-context="hulu" data-rid="0061F0JAEAXJWE1YHJ71" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="Ano hi mita hana no namae o bokutachi wa mada shiranai. -- One day, Jintan (Jinta Yadomi), a teenage shut-in, suddenly finds himself face-to-face with his childhood friend, Menma (Meiko Honma). After struggling with Menma's request to have her (unknown) wish granted, Jintan..." title="Ano hi mita hana no namae o bokutachi wa mada shiranai. -- One day, Jintan (Jinta Yadomi), a teenage shut-in, suddenly finds himself face-to-face with his childhood friend, Menma (Meiko Honma). After struggling with Menma's request to have her (unknown) wish granted, Jintan..."src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMjEzMTc0NDE1OV5BMl5BanBnXkFtZTgwODAwNzc5NDE@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-goldbutton-big,BottomRight,-1,-1_ZAFull%2520Episode,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA24690:24,164,1,14,36,verdenab,7,255,255,255,1_ZAAno%2520hi%2520mita%2520hana%2520no%2520namae%2520o%2520bo...%2520(S1.E1),4,136,14,196,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi2189272601" /></a>            </span>
+                <span class="video_slate" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T23,069M36S" />
+
+<a href="/video/hulu/vi2172495385?ref_=nm_rvd_vi_2"
+title="Ano hi mita hana no namae o bokutachi wa mada shiranai. -- After running into Poppo (Tetsudo Hisakawa) for the first time in years, Jintan explains how Menma appeared before him and how she has some kind of wish she wants granted. Poppo believes every word he says, and suggests that Jintan..." alt="Ano hi mita hana no namae o bokutachi wa mada shiranai. -- After running into Poppo (Tetsudo Hisakawa) for the first time in years, Jintan explains how Menma appeared before him and how she has some kind of wish she wants granted. Poppo believes every word he says, and suggests that Jintan..." class=" " data-video="vi2172495385" data-context="hulu" data-rid="0061F0JAEAXJWE1YHJ71" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="Ano hi mita hana no namae o bokutachi wa mada shiranai. -- After running into Poppo (Tetsudo Hisakawa) for the first time in years, Jintan explains how Menma appeared before him and how she has some kind of wish she wants granted. Poppo believes every word he says, and suggests that Jintan..." title="Ano hi mita hana no namae o bokutachi wa mada shiranai. -- After running into Poppo (Tetsudo Hisakawa) for the first time in years, Jintan explains how Menma appeared before him and how she has some kind of wish she wants granted. Poppo believes every word he says, and suggests that Jintan..."src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMzk3MjcxODI1Ml5BMl5BanBnXkFtZTgwNzAwNzc5NDE@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-goldbutton-big,BottomRight,-1,-1_ZAFull%2520Episode,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA23069:36,164,1,14,36,verdenab,7,255,255,255,1_ZAAno%2520hi%2520mita%2520hana%2520no%2520namae%2520o%2520bo...%2520(S1.E9),4,136,14,196,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi2172495385" /></a>            </span>
+                <span class="video_slate_last" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T23,069M36S" />
+
+<a href="/video/hulu/vi2155718169?ref_=nm_rvd_vi_3"
+title="Ano hi mita hana no namae o bokutachi wa mada shiranai. -- Thinking that Menma's wish may be for him to begin going to school again, Jintan decides to give it a shot. This also happens to fulfill a promise he made to Anaru..." alt="Ano hi mita hana no namae o bokutachi wa mada shiranai. -- Thinking that Menma's wish may be for him to begin going to school again, Jintan decides to give it a shot. This also happens to fulfill a promise he made to Anaru..." class=" " data-video="vi2155718169" data-context="hulu" data-rid="0061F0JAEAXJWE1YHJ71" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="Ano hi mita hana no namae o bokutachi wa mada shiranai. -- Thinking that Menma's wish may be for him to begin going to school again, Jintan decides to give it a shot. This also happens to fulfill a promise he made to Anaru..." title="Ano hi mita hana no namae o bokutachi wa mada shiranai. -- Thinking that Menma's wish may be for him to begin going to school again, Jintan decides to give it a shot. This also happens to fulfill a promise he made to Anaru..."src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMTc3NzI5OTQwNV5BMl5BanBnXkFtZTgwNjAwNzc5NDE@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-goldbutton-big,BottomRight,-1,-1_ZAFull%2520Episode,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA23069:36,164,1,14,36,verdenab,7,255,255,255,1_ZAAno%2520hi%2520mita%2520hana%2520no%2520namae%2520o%2520bo...%2520(S1.E3),4,136,14,196,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi2155718169" /></a>            </span>
+    </div>
+
+                <div class="see-more">
+<a href="/name/nm2171473/videogallery?ref_=nm_rvd_vi_sm"
+>See all 11 videos</a>&nbsp;&raquo;
+                </div>
+        </div>
+    
+    </@csm.csm_widget />
+                    
+                    
+                    
+
+    <div class="article" id="boardsTeaser">
+        <h2>Message Boards</h2>
+        <div class="see-more">
+            <a href="/name/nm2171473/board/?ref_=nm_bd_sm"
+>Discuss Tatsuyuki Nagai</a> on the IMDb message boards &raquo;
+        </div>
+    </div>
+                    
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_NameContributeWidget_started');
+    }
+  </script>
+
+    <div class="article contribute">
+        <div class="rightcornerlink">
+<a href="/help/?adding/&ref_=nm_cn_hlp"
+>Getting Started</a>
+            <span>|</span>
+<a href="/czone/?ref_=nm_cn_cz"
+>Contributor Zone</a>&nbsp;&raquo;</div>
+        <h2>Contribute to This Page</h2>
+
+            <div class="button-box">
+                <form method="post" action="/updates?ref_=nm_cn_edt">
+                    <input type="hidden" name="auto" value="legacy/name/nm2171473/">
+                        <button class="btn primary large" rel="login" type="submit">Edit page</button>
+                </form>
+            </div>
+        
+
+        <div class="button-box">
+            <a href="http://pro.imdb.com/widget/resume_redirect/?rf=cons_nm_contr_res&ref_=cons_nm_contr_res"
+class="btn large" >Add resume</a>
+        </div>
+    </div>
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_NameContributeWidget_finished');
+    }
+  </script>
+                    
+    </div>
+</div> 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+
+                   <br class="clear" />
+                </div>
+
+
+  <div id="footer" class="ft">
+    <hr width="100%" size=1>
+        <div id="rvi-div">
+            <div class="recently-viewed">&nbsp;</div>
+            <br class="clear">
+            <hr width="100%" size="1">
+        </div>
+	
+	<!-- no content received for slot: bottom_ad -->
+	
+    <p class="footer" align="center">
+    
+          <a href="/?ref_=ft_hm"
+>Home</a>
+        | <a href="/search?ref_=ft_sr"
+>Search</a>
+        | <a href="/a2z?ref_=ft_si"
+>Site Index</a>
+        | <a href="/movies-in-theaters/?ref_=ft_inth"
+>In Theaters</a>
+        | <a href="/movies-coming-soon/?ref_=ft_cs"
+>Coming Soon</a>
+        | <a href="/chart/?ref_=ft_cht"
+>Top Movies</a>
+        | <a href="/chart/top?ref_=ft_250"
+>Top 250</a>
+        | <a href="/sections/tv/?ref_=ft_tv"
+>TV</a>
+        | <a href="/news/?ref_=ft_nw"
+>News</a>
+        | <a href="/boards/?ref_=ft_mb"
+>Message Boards</a>
+        | <a href="/pressroom/?ref_=ft_pr"
+>Press Room</a>
+        <br>
+
+        <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=ft_reg"
+>Register</a>
+        |     <a href="/offsite/?page-action=ft_ad&token=BCYqCulXGUJOIG3iYwcpoeM3B2lyvFN4xcG5CrTTnk6p2QjeojbCHf4zTvA1eooWXOdFn-DGhkpJ%0D%0AyfyriPdIgP4oUTZJ-tCQvQFaYdm4_LUg7iOcJ1EramAdhLR5OTjXBY3q0y7W4IdHuJuhAYAuIuA1%0D%0Adj8h9qEXh6EGNinW6cYO2lk3FhimUhwRcMekFudl-2PLu3wybcMoNoPFvTvHuoL6Wlalo_P-t8hE%0D%0AGdmylnj2gYop-K2DFBfaWPCCQkM7dG75%0D%0A" >Advertising</a>
+
+        | <a href="/helpdesk/contact?ref_=ft_con"
+>Contact Us</a>
+        | <a href="/jobs?ref_=ft_jb"
+>Jobs</a>
+        | <a href="http://pro.imdb.com/signup/index.html?rf=cons_ft_hm&ref_=cons_ft_hm"
+>IMDbPro</a>
+        |     <a href="/offsite/?page-action=ft-mojo&token=BCYj4Z7DucPsBzVMFTiFHCdhgPufpA0iCMfJTDKiZBJwHFqCjMsnm4Mnwsfh_JOJ1zErQXtbXnxC%0D%0A84VzSlD8XDtum4lwDna0tbKY4KrU3772vX_gBijdxtsqoEVKToL1k3YJMpUi9BSo-xwAtGmOBinx%0D%0AoeUXWZsByqTXlP3F1q1pB-06PptfTy3SXRupQQxWRD_7%0D%0A" >Box Office Mojo</a>
+
+        |     <a href="/offsite/?page-action=ft-wab&token=BCYmK1tPfKc6OCiEX40fxF63nOQgo8GdBfKmRI0EA1stLF_TpAIob7PT6pJjc1KIWYH9veQW7vr1%0D%0A0aX3T2F9u5zVyJVRp80Rj1erBDanyY3MUnkscWsWwcoJ_264ryjsB1ZydFA92ijhpfdEiomj8REw%0D%0AnXrPABDyezr3_Sti02IR5JvwraNU5UPzP7qLJQrTZyO7%0D%0A" >Withoutabox</a>
+
+        <br /><br />
+        IMDb Mobile:
+          <a href="/apps/?ref_=ft_apps"
+>Apps</a>
+        | <a href="http://m.imdb.com?ref_=ft_mdot"
+>Mobile site</a>
+        | IMDb Social:
+              <a href="/offsite/?page-action=ft-fb&token=BCYniAKEuLyNURkD2LFkadKHzWRF4K8JfR_Jqm1X0mH_u6mu9fgJeEcqpKT3nvbK6CL836VzySSA%0D%0AFd-R2QsYHiK5fD7YClvfSNJZc2lmP_uNw6xYmoRSi7x1_yxEv_R2IdBx-VYnOGMOGwknZH1GnE_Q%0D%0AvUacUqxCtUwd7fKUyeqPIWYYXgZBfaS7YMjtGBOBXRGb%0D%0A" >Facebook</a>
+
+        |     <a href="/offsite/?page-action=ft-twt&token=BCYuNke0g2S16EdMZpcQwI8gXgMm72kfDFFJlLRNBg3e0PW6uMlcOhWXZz6aukxTPTKlIUZaFNSj%0D%0ArBX6DpcU6CiSGw7Oaxbb4jvBXg_8BmD_eGkvMeBj95EciS-lRGVGcq0XEgk-1_Gj1H_te3g_xFpB%0D%0AzuyP8wntwi42K5VK_tdlTAI%0D%0A" >Twitter</a>
+
+       <br /><br />
+    </p>
+  
+    <p class="footer" align="center">
+        <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/show_article?conditions';"
+href="/help/show_article?conditions"
+>Copyright &copy;</a> 1990-2015 
+        <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/';"
+href="/help/"
+>IMDb.com, Inc.</a>
+        <br>
+          <a href="/help/show_article?conditions&ref_=ft_cou"
+>Conditions of Use</a>
+        | <a href="/privacy?ref_=ft_pvc"
+>Privacy Policy</a>
+        |     <a href="/offsite/?page-action=ft-iba&token=BCYuWAoGRrDoR1mMh2YMt8THgG2ri01SPwUfZbSiqGAqyqrMgu_IosN3KyOsTYJd_vnS9Q3TFLs8%0D%0Ak8crWM_Z6hzwS5beZO_5WCpbSJm_UjoNyjbYQIrQ-WOCXr6a2aVjQZjkBDA76xRNMJkhuRbEUZBY%0D%0AcOjSAD9VayAbyvXtTYOrTqr1gFX0YB5ibI48RO9BFIPy%0D%0A" >Interest-Based Ads</a>
+
+        <br>
+        An <span id="amazon_logo" class="footer_logo" align="middle"></span> company.
+    </p>
+  
+
+      
+      
+  <table class="footer" id="amazon-affiliates">
+    <tr>
+      <td colspan="8">
+        Amazon Affiliates
+      </td>
+    </tr>
+    <tr>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-aiv&token=BCYg8UCM0nAeA1vwPs19nocdh2R_xidMl8NC_AXVVarkiDm7m_voxj88uIX9StE8Zw5wGin5dEwU%0D%0A-aIGT53Al3-b43Xwgt0ca6-_e0Llw_Rce9p6uejYJ_ToTyIV8BIVl01bnrNFaRXuhX1FNz5mxPFS%0D%0A1E02piGfOMrLAb8vPCXfpa7F5Oqp4ub6w8kBLg9Q_i4yjdWKULNnRxS_5fuNlSy7-NgyWzoCMTg7%0D%0Ait3f2M3Jeag%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Instant Video</span><br>
+          <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-piv&token=BCYqaUkD0-ANXH5AtXTc0fHHtPLFsz58HWag8YHdLBzI_YhhCgndyofrQunAUjkdp3mnelLVnj0L%0D%0AJTGn2BgRYGFtJVrG54T10N7i64iSq-_8cyA0xoEvROzf8-0vC12wbp3Zq8pigu0zmwiDQ8JyDoDT%0D%0A6_yFjdyLCnUHuBD_RtJCVr-DRoE9NcT2iu6fooN6XRhwx36CkzTCz__e7MTjUUJ0bbShJv-HCPaS%0D%0AjA_oZNszeWs%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Prime Instant Video</span><br>
+          <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-de&token=BCYo7LdAk2xxXbfsupNf58bVMegwQfkl8LGHsww0N9sr2j-b_eA5eJ2YuE7bfhzNPZU_LUAcvdy7%0D%0ALksOV8t39KJgy66yvY11RUttMVdJU4YB4eMUJ_iVLSR4qi_iMyW1varvKDxebU9sqFQ4KEdyRIPD%0D%0ALwzvZbL2DZQ2mov90llFMVDPYn1Cmvae600CJYKLmPqr6lN4XujgBeDRvTV3mt5JmY--1vv3Vfqz%0D%0A8szemm-OBps%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-it&token=BCYnwLaa5QGIHhiFAMiX79HdobJdticcNKv2man-yigRg9UbMG6fBZludK0Q0Fs4DVDpZxuu0bzW%0D%0ADwzjKkcyEsofZSF7xkLPpN6evYFbl4pnM6c0S-JUgErZOfFSP4ot617tQzd7z4ciqb-DxI5hSaDn%0D%0AXVbVA_bqMfI_ZhJRnY1e0eKvTmiGrDyeNEo1kCjr6EuS7bDqZP9PPxzC5ecme82WTkvbsIvBZN13%0D%0AD8BpMgtbXQY%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-fr&token=BCYqHs3pfuWT_N30M0QhNKyKsCGKm3qOa4uOcgrhPBpE8STILpiGub5cSVFADDmYoNZe2QIs-iBf%0D%0AcIrgX0Ao_n3BNhxA2FqkgkBoPNvHyZTl8SsjQjvwG994yuIFiKYCBRxmGZFf68gCRhCsTm94auAB%0D%0AqEbR8DIyV50VNhh8gFwWK6IjvIYQWcYZSX-b-UYDhevmqMSHTSKajSikQKOkpPiaTGULB0BQnOT1%0D%0AFpQ0gEr4N70%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon France</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-in&token=BCYufFhiHI6YZ2I-sLhCyEPmQt2ohSChG31MSDMg9c-Psm8L702THIX2_T8a5GNBZ0Sp_kVVx1Z6%0D%0AXaBDfDHDF6ggu4g9vvXrJvI739FjkjItwaqOTi0lfFgnZboUY7-V0KCi6xww_NW1MzWOAWEBv3up%0D%0ApXnjNLyrPvBHvFr926ILDV2vklbwnIIjwzUOQkJl_EiUsdkSHV9CXx24ttvOr04UfCPRtPRWK2By%0D%0AGdAvBQ4ZCWohEJH8HJXzKjzmfv2iwa6p%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon India</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-dpr&token=BCYnQHDwTzoRxe76nTm-e_cozap7Uo9rTyttfxxnvRJ8ZkVd9EcsowOvIZHgbcljUBUE3Vb7dZAX%0D%0AMbBbx3a5CYygcY4kXZFpdcKE61VzXW1jhP3I773DxmEhklsqTD9AIQqblWIYFQsiRnn3y2IZMB68%0D%0AWrUagWJ3fXgGtjqY-qipUeakEOBgMYpsT_xGR_tXzfUK%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">DPReview</span><br>
+          <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-aud&token=BCYuqbRgsmHDg_4SjqD4Ncyyp_5H-otKOUYmIP50mnb-FCXI9S7eZsue4wdhFzHG4RxI_XoBK3EF%0D%0AgbPVXec7l-75b0hOVOso0Y8k2yZU67qiptYh7Df2LHxvXb4SDL2GyEFnAXA0lNJzSCZqp87AxNs1%0D%0A2mX9kApPy_RJrIJtpXj752nt8XLPwBl-QkPpSkuSnXN3%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Audible</span><br>
+          <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span>
+</a>
+    </td>
+    </tr>
+  </table>
+  </div>
+            </div>
+        </div>
+
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/name-2693302406._CB305150263_.js"></script>
+
+<script type="text/imdblogin-js" id="login">
+jQuery(document).ready(function(){
+    window.imdb.login_lightbox("https://secure.imdb.com", "http://www.imdb.com/name/nm2171473/");
+});
+
+</script>
+
+        <script type="text/javascript">
+                jQuery(
+                         function() {
+        $("#demoReelShoveler").shoveler({
+            'buttons' : {
+                'left' : {
+                    'text' : '',
+                },
+                'right' : {
+                    'text' : '',
+                }
+            },
+            'height' : 'auto',
+            'itemsPerShovel' : 2,
+            'paginate' : false,
+            'useExternalCSS' : true,
+            'width' : '100%'
+        });
+    }
+
+                );
+                jQuery(
+                             function() {
+            var facebookTheme = (window.custom && window.custom.full_page &&
+                    window.custom.full_page.theme) ?
+                window.custom.full_page.theme : "light",
+            url = "//www.facebook.com/plugins/likebox.php?href=facebook.com%2Fimdb&width=300&height=190&connections=4&header=false&stream=false&colorscheme=" + facebookTheme,
+            like = document.getElementById('facebookIframe'),
+            twitterIframe = document.getElementById('twitterIframe');
+            if (like) {
+                like.src = url;
+            }
+            if (twitterIframe) {
+                twitterIframe.src = "http://i.media-imdb.com/images/social/twitter.html?10#imdb";
+            }
+         }
+
+                );
+                jQuery(
+                             function() {
+           var isAdvertisingThemed = !!(window.custom && window.custom.full_page && window.custom.full_page.theme),
+               url = "http://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm2171473%2F&colorscheme=light",
+               like = document.getElementById('iframe_like');
+
+           if (!isAdvertisingThemed && like) {
+              like.src = url;
+              like.onload = function () { generic.monitoring.stop_timing('facebook_like_iframe', '', false); };
+           } else if (isAdvertisingThemed) {
+              $('.social_networking_like').closest('.aux-content-widget-2').hide();
+           }
+        }
+
+                );
+                jQuery(
+                     function() { $('#maindetails_sidebar_bottom').watchlistRibbon('.ribbonize'); }
+                );
+        </script>
+
+<div id="servertime" time="126"/>
+
+
+
+<script>
+    if (typeof uet == 'function') {
+      uet("be");
+    }
+</script>
+    </body>
+</html>
+

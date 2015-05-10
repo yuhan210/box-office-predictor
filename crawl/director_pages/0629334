@@ -1,0 +1,3782 @@
+
+
+
+<!DOCTYPE html>
+<html
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+
+        
+    
+            <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
+            <script type="text/javascript">
+                var ue_mid = "A1EVAM02EL8SFB"; 
+                var ue_sn = "www.imdb.com";  
+                var ue_furl = "fls-na.amazon.com";
+                var ue_sid = "000-0000000-0000000";
+                var ue_id = "0R7QFJW1MZMY9GMZJG65";
+                (function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-051542d0cfa6f645f8266601739de597._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);
+                if (!('CS' in window)) { window.CS = {}; }
+                    window.CS.loginSecureHost = "https://secure.imdb.com";
+            </script>
+ 
+
+        
+        <script type="text/javascript">var IMDbTimer={starttime: new Date().getTime(),pt:'java'};</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        <title>McG - IMDb</title>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+            <link rel="canonical" href="http://www.imdb.com/name/nm0629334/" />
+            <meta property="og:url" content="http://www.imdb.com/name/nm0629334/" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        <link rel="icon" type="image/ico" href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._CB379387995_.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._CB379390718_.ico" />
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-4151659188._CB361295786_.png" rel="apple-touch-icon"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-76x76-53536248._CB361295462_.png" rel="apple-touch-icon" sizes="76x76"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-120x120-2442878471._CB361295428_.png" rel="apple-touch-icon" sizes="120x120"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-152x152-1475823641._CB361295368_.png" rel="apple-touch-icon" sizes="152x152"> 
+        <link rel="search" type="application/opensearchdescription+xml" href="http://ia.media-imdb.com/images/G/01/imdb/images/imdbsearch-3349468880._CB379388505_.xml" title="IMDb" />
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+    
+        <link rel='image_src' href="http://ia.media-imdb.com/images/M/MV5BMTI1MTg2MTM1MF5BMl5BanBnXkFtZTcwMDIxNDY1Mg@@._V1_.jpg">
+        <meta property='og:image' content="http://ia.media-imdb.com/images/M/MV5BMTI1MTg2MTM1MF5BMl5BanBnXkFtZTcwMDIxNDY1Mg@@._V1_.jpg" />
+    
+        <meta property='og:type' content="actor" />
+    <meta property='fb:app_id' content='115109575169727' />
+    
+    <meta property='og:title' content="McG" />
+    <meta property='og:site_name' content='IMDb' />
+    <meta name="title" content="McG - IMDb" />
+        <meta name="description" content="McG, Producer: Supernatural. McG was born on August 9, 1968 in Kalamazoo, Michigan, USA as Joseph McGinty Nichol. He is known for his work on Supernatural (2005), Chuck (2007) and The O.C. (2003)." />
+        <meta property="og:description" content="McG, Producer: Supernatural. McG was born on August 9, 1968 in Kalamazoo, Michigan, USA as Joseph McGinty Nichol. He is known for his work on Supernatural (2005), Chuck (2007) and The O.C. (2003)." />
+        <meta name="keywords" content="Biography, Photos, Awards, News, Message Boards" />
+        <meta name="request_id" content="0R7QFJW1MZMY9GMZJG65" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<!-- h=ics-1e-c3-2xl-i-f344b725.us-east-1 -->
+
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/name-232419406._CB305190861_.css" />
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-flat-6662145._CB305190902_.css" />
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-mega-1801187020._CB325753108_.css" />
+        <noscript>
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/wheel/nojs-2627072490._CB343672767_.css">
+        </noscript>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <script  type="text/javascript">
+            // ensures js doesn't die if ads service fails.  
+            // Note that we need to define the js here, since ad js is being rendered inline after this.
+            (function(f) {
+                // Fallback javascript, when the ad Service call fails.  
+                
+                if((window.csm === undefined || window.generic === undefined || window.consoleLog === undefined)) {
+                    if (console !== undefined && console.log !== undefined) {
+                        console.log("one or more of window.csm, window.generic or window.consoleLog has been stubbed...");
+                    }
+                }
+                
+                window.csm = window.csm || { measure:f, record:f, duration:f, listen:f, metrics:{} };
+                window.generic = window.generic || { monitoring: { start_timing: f, stop_timing: f } };
+                window.consoleLog = window.consoleLog || f;
+            })(function() {});
+        </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_head_delivery_finished');
+    }
+  </script>
+        </head>
+    <body id="styleguide-v2" class="fixed">
+<script>
+    if (typeof uet == 'function') {
+      uet("bb");
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_body_delivery_started');
+    }
+  </script>
+        <div id="wrapper">
+            <div id="root" class="redesign">
+<script>
+    if (typeof uet == 'function') {
+      uet("ns");
+    }
+</script>
+<div id="nb20" class="navbarSprite">
+<div id="supertab">	
+	<!-- no content received for slot: top_ad -->
+	
+</div>
+  <div id="navbar" class="navbarSprite">
+<noscript>
+  <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-no-js-4175877511._CB379390803_.css" />
+</noscript>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-ie-470687728._CB379390980_.css"><![endif]-->
+<span id="home_img_holder">
+<a href="/?ref_=nv_home"
+title="Home" class="navbarSprite" id="home_img" ></a>  <span class="alt_logo">
+    <a href="/?ref_=nv_home"
+title="Home" >IMDb</a>
+  </span>
+</span>
+<form
+onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
+ method="get"
+ action="/find"
+ class="nav-searchbar-inner"
+ id="navbar-form"
+
+>
+  <div id="nb_search">
+    <noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+    <button id="navbar-submit-button" class="primary btn" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+    <input type="hidden" name="ref_" value="nv_sr_fn" />
+    <input type="text" autocomplete="off" value="" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more...">
+    <div class="quicksearch_dropdown_wrapper">
+      <select name="s" id="quicksearch" class="quicksearch_dropdown navbarSprite"
+              onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+        <option value="all" >All</option>
+        <option value="tt" >Titles</option>
+        <option value="ep" >TV Episodes</option>
+        <option value="nm" >Names</option>
+        <option value="co" >Companies</option>
+        <option value="kw" >Keywords</option>
+        <option value="ch" >Characters</option>
+        <option value="qu" >Quotes</option>
+        <option value="bi" >Bios</option>
+        <option value="pl" >Plots</option>
+      </select>
+    </div>
+    <div id="navbar-suggestionsearch"></div>
+  </div>
+</form>
+<div id="megaMenu">
+    <ul id="consumer_main_nav" class="main_nav">
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navTitleMenu">
+            <p class="navCategory">
+                <a href="/movies-in-theaters/?ref_=nv_tp_inth_1"
+>Movies</a>,
+                <a href="/tv/?ref_=nv_tp_tvhm_2"
+>TV</a><br />
+                & <a href="/showtimes/?ref_=nv_tp_sh_3"
+>Showtimes</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu1" class="sub_nav">
+                <div id="titleAd"></div>
+                <div class="subNavListContainer">
+                    <h5>MOVIES</h5>
+                    <ul>
+                        <li><a href="/movies-in-theaters/?ref_=nv_mv_inth_1"
+>In Theaters</a></li>
+                        <li><a href="/showtimes/?ref_=nv_mv_sh_2"
+>Showtimes & Tickets</a></li>
+                        <li><a href="/trailers/?ref_=nv_mv_tr_3"
+>Latest Trailers</a></li>
+                        <li><a href="/movies-coming-soon/?ref_=nv_mv_cs_4"
+>Coming Soon</a></li>
+                        <li><a href="/calendar/?ref_=nv_mv_cal_5"
+>Release Calendar</a></li>
+                    </ul>
+                    <h5>CHARTS & TRENDS</h5>
+                    <ul>
+                        <li><a href="/search/title?count=100&title_type=feature,tv_series,tv_movie&explore=title_type,genres,year,countries&ref_=nv_ch_mm_1"
+>Popular Movies & TV</a></li>
+                        <li><a href="/chart/?ref_=nv_ch_cht_2"
+>Box Office</a></li>
+                        <li><a href="/search/title?count=100&groups=oscar_best_picture_winners&sort=year,desc&ref_=nv_ch_osc_3"
+>Oscar Winners</a></li>
+                        <li><a href="/chart/top?ref_=nv_ch_250_4"
+>Top 250</a></li>
+                        <li><a href="/genre/?ref_=nv_ch_gr_5"
+>Most Popular by Genre</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>TV & VIDEO</h5>
+                    <ul>
+                        <li><a href="/tv/?ref_=nv_tvv_hm_1"
+>TV Home</a></li>
+                        <li><a href="/tvgrid/?ref_=nv_tvv_ls_2"
+>On Tonight</a></li>
+                        <li><a href="/watchnow/?ref_=nv_tvv_wn_3"
+>Watch Now on Amazon</a></li>
+                        <li><a href="/sections/dvd/?ref_=nv_tvv_dvd_4"
+>DVD & Blu-Ray</a></li>
+                        <li><a href="/tv/blog?ref_=nv_tvv_blog_5"
+>TV Blog</a></li>
+                    </ul>
+                    <h5>SPECIAL FEATURES</h5>
+                    <ul>
+                        <li><a href="/academymuseum/?ref_=nv_sf_am_1"
+>Academy Museum</a></li>
+                        <li><a href="/imdbpicks/?ref_=nv_sf_pks_2"
+>IMDb Picks</a></li>
+                        <li><a href="/best-of/?ref_=nv_sf_bo_3"
+>Best of 2014</a></li>
+                        <li><a href="/x-ray/?ref_=nv_sf_xray_4"
+>X-Ray for Movies & TV</a></li>
+                        <li><a href="/whattowatch/?ref_=nv_sf_wtw_5"
+>What to Watch</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNameMenu">
+            <p class="navCategory">
+                <a href="/search/name?gender=male,female&ref_=nv_tp_cel_1"
+>Celebs</a>,
+                <a href="/awards-central/?ref_=nv_tp_awrd_2"
+>Events</a><br />
+                & <a href="/media/index/rg1176148480?ref_=nv_tp_ph_3"
+>Photos</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu2" class="sub_nav">
+                <div id="nameAd"></div>
+                <div class="subNavListContainer">
+                    <h5>CELEBS</h5>
+                    <ul>
+                            <li><a href="/search/name?birth_monthday=05-02&refine=birth_monthday&ref_=nv_cel_brn_1"
+>Born Today</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_cel_nw_2"
+>Celebrity News</a></li>
+                        <li><a href="/search/name?gender=male,female&ref_=nv_cel_m_3"
+>Most Popular Celebs</a></li>
+                    </ul>
+                    <h5>PHOTOS</h5>
+                    <ul>
+                        <li><a href="/media/index/rg1176148480?ref_=nv_ph_ls_1"
+>Latest Stills</a></li>
+                        <li><a href="/media/index/rg1528338944?ref_=nv_ph_lp_2"
+>Latest Posters</a></li>
+                        <li><a href="/media/index/rg2465176320?ref_=nv_ph_lv_3"
+>Photos We Love</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>EVENTS</h5>
+                    <ul>
+                        <li><a href="/awards-central/?ref_=nv_ev_awrd_1"
+>Awards Central</a></li>
+                        <li><a href="/sundance/?ref_=nv_ev_sun_2"
+>Sundance</a></li>
+                        <li><a href="/sxsw/?ref_=nv_ev_sxsw_3"
+>SXSW Film Festival</a></li>
+                        <li><a href="/tribeca/?ref_=nv_ev_tri_4"
+>Tribeca</a></li>
+                        <li><a href="/cannes/?ref_=nv_ev_can_5"
+>Cannes</a></li>
+                        <li><a href="/comic-con/?ref_=nv_ev_comic_6"
+>Comic-Con</a></li>
+                        <li><a href="/emmys/?ref_=nv_ev_rte_7"
+>Road to the Emmys</a></li>
+                        <li><a href="/venice/?ref_=nv_ev_venice_8"
+>Venice Film Festival</a></li>
+                        <li><a href="/toronto/?ref_=nv_ev_tff_9"
+>Toronto Film Festival</a></li>
+                        <li><a href="/awards-central/?ref_=nv_ev_all_10"
+>More Popular Events</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNewsMenu">
+            <p class="navCategory">
+                <a href="/news/top?ref_=nv_tp_nw_1"
+>News</a> &<br />
+                <a href="/boards/?ref_=nv_tp_bd_2"
+>Community</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu3" class="sub_nav">
+                <div id="latestHeadlines">
+                    <div class="subNavListContainer">
+                        <h5>LATEST HEADLINES</h5>
+    <ul>
+                <li itemprop="headline">
+<a href="/news/ni58553971/?ref_=nv_nw_tn_1"
+> 'Star Wars' Standalone Film Loses Director Josh Trank
+</a><br />
+                        <span class="time">4 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni58552953/?ref_=nv_nw_tn_2"
+> Avengers: Age Of Ultron Opening Night Box Office Scores $27.6 Million
+</a><br />
+                        <span class="time">12 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni58552924/?ref_=nv_nw_tn_3"
+> Fear The Walking Dead Casts Orange Is the New Black’s Elizabeth Rodriguez
+</a><br />
+                        <span class="time">13 hours ago</span>
+                </li>
+    </ul>
+                    </div>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>NEWS</h5>
+                    <ul>
+                        <li><a href="/news/top?ref_=nv_nw_tp_1"
+>Top News</a></li>
+                        <li><a href="/news/movie?ref_=nv_nw_mv_2"
+>Movie News</a></li>
+                        <li><a href="/news/tv?ref_=nv_nw_tv_3"
+>TV News</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_nw_cel_4"
+>Celebrity News</a></li>
+                        <li><a href="/news/indie?ref_=nv_nw_ind_5"
+>Indie News</a></li>
+                    </ul>
+                    <h5>COMMUNITY</h5>
+                    <ul>
+                        <li><a href="/boards/?ref_=nv_cm_bd_1"
+>Message Boards</a></li>
+                        <li><a href="/czone/?ref_=nv_cm_cz_2"
+>Contributor Zone</a></li>
+                        <li><a href="/games/guess?ref_=nv_cm_qz_3"
+>Quiz Game</a></li>
+                        <li><a href="/poll/?ref_=nv_cm_pl_4"
+>Polls</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navWatchlistMenu">
+<p class="navCategory singleLine watchlist">
+    <a href="/list/watchlist?ref_=nv_wl_all_0"
+>Watchlist</a>
+</p>
+<span class="downArrow"></span>
+<div id="navMenu4" class="sub_nav">
+    <h5>
+            YOUR WATCHLIST
+    </h5> 
+    <ul id="navWatchlist">
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.watchlistTeaserData = [
+                {
+                        href : "/list/watchlist",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot1_logged_out-1670046337._CB306318084_.jpg"
+                },
+                {
+                    href : "/search/title?count=100&title_type=feature,tv_series",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot2_popular-4090757197._CB306318127_.jpg"
+                },
+                {
+                    href : "/chart/top",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot3_top250-575799966._CB306318332_.jpg"
+                }
+    ];
+    </script>
+</div>
+        </li>
+        <li class="spacer"></li>
+    </ul>
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.navbarAdSlots = {
+    titleAd : {
+    },
+    nameAd : {
+    }
+}
+</script>
+</div>
+<div id="nb_extra">
+    <ul id="nb_extra_nav" class="main_nav">
+        <li class="css_nav_item" id="navProMenu">
+            <p class="navCategory">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+> <img alt="IMDbPro Menu" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_nb-720143162._CB306318304_.png" />
+</a>            </p>
+            <span class="downArrow"></span>
+            <div id="navMenuPro" class="sub_nav">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+id="proLink" > <div id="proAd">
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.proMenuTeaser = {
+imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu_user-2082544740._CB306318138_.jpg"
+};
+</script>
+</div>
+<div class="subNavListContainer">
+<img alt="Go to IMDbPro" title="Go to IMDbPro" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_menu-2185879182._CB306318245_.png" />
+<h5>GET INFORMED</h5>
+<p>Industry information at your fingertips</p>
+<h5>GET CONNECTED</h5>
+<p>Over 200,000 Hollywood insiders</p>
+<h5>GET DISCOVERED</h5>
+<p>Enhance your IMDb Page</p>
+<p><strong>Go to IMDbPro &raquo;</strong></p>
+</div>
+</a>            </div>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/apps/?ref_=nb_app"
+>IMDb Apps</a>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/help/?ref_=nb_hlp"
+>Help</a>
+        </li>
+    </ul>
+</div>
+<div id="nb_personal">
+    <ul id="consumer_user_nav" class="main_nav">
+
+        <li class="css_nav_menu" id="navUserMenu">
+            <p class="navCategory singleLine">
+                <a href="/register/login?ref_=nv_usr_lgin_1"
+rel="login" id="nblogin" >Login</a>
+            </p>
+            <span class="downArrow"></span>
+            <div class="sub_nav">
+                <div class="subNavListContainer">
+                    <br />
+                    <ul>
+                        <li>
+                            <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=nv_usr_reg_2"
+>Register</a>
+                        </li>
+                        <li>
+                            <a href="/register/login?ref_=nv_usr_lgin_3"
+rel="login" id="nblogin" >Login</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
+  </div>
+</div>
+	
+	<!-- no content received for slot: navstrip -->
+	
+	
+	<!-- no content received for slot: injected_navstrip -->
+	
+<script>
+    if (typeof uet == 'function') {
+      uet("ne");
+    }
+</script>
+                    <div id="pagecontent" itemscope itemtype="http://schema.org/Person">
+	
+	<!-- no content received for slot: injected_billboard -->
+	
+
+<div id="content-2-wide" class="redesign">
+
+    <div class="maindetails_center" id="maindetails_center_top">
+
+                    
+                    
+        
+
+            <div class="article name-overview">
+
+    
+    <div id="name-overview-widget">
+        <table cellspacing="0" cellpadding="0" border="0" id="name-overview-widget-layout">
+            <tbody>
+                <tr>
+                    <td rowspan="2" id="img_primary">
+                        <div class="image">
+<a href="/media/rm2462156800/nm0629334?ref_=nm_ov_ph"
+> <img id="name-poster"
+height="317"
+width="214"
+alt="McG Picture"
+title="McG Picture"
+src="http://ia.media-imdb.com/images/M/MV5BMTI1MTg2MTM1MF5BMl5BanBnXkFtZTcwMDIxNDY1Mg@@._V1_SY317_CR9,0,214,317_AL_.jpg"
+itemprop="image" />
+</a>                                
+                         
+                        </div> 
+                    </td>
+                    
+                    <td id="overview-top">
+
+
+
+
+        
+
+            <div id="prometer_container">
+                <div id="prometer" class="meter-collapsed down">
+                    <div id="meterHeaderBox">
+                        <div class="meterToggleOnHover">STARmeter</div>
+<a href="http://pro.imdb.com/name/nm0629334?rf=cons_nm_meter&ref_=cons_nm_meter"
+id="meterRank" >Top 5000</a>
+                    </div>
+                    <div id="meterChangeRow" class="meterToggleOnHover">
+                            <span>Down</span>
+                        <span id="meterChange">1,329</span>
+                        <span>this week</span>
+                    </div>
+                    <div id="meterSeeMoreRow" class="meterToggleOnHover">
+<a href="http://pro.imdb.com/name/nm0629334?rf=cons_nm_meter&ref_=cons_nm_meter"
+>View rank on IMDbPro</a>
+                        <span>&raquo;</span>
+                    </div>
+                </div>
+            </div>
+                        
+    <h1 class="header"> <span class="itemprop" itemprop="name">McG</span> 
+        
+        
+    </h1>
+    
+        <div class="infobar" id="name-job-categories">
+            
+            
+<a href="#producer"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Producer</span></a>                 <span class="ghost">|</span> 
+            
+            
+<a href="#miscellaneous"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Miscellaneous Crew</span></a>                 <span class="ghost">|</span> 
+            
+            
+<a href="#director"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Director</span></a>            
+        </div>
+    
+        <hr/>
+                        
+<div class="txt-block" id="name-bio-text">
+        <div class="name-trivia-bio-text">
+                      <div class="inline" itemprop="description">
+McG was born on August 9, 1968 in Kalamazoo, Michigan, USA as Joseph McGinty Nichol. He is known for his work on <a href="/title/tt0460681?ref_=nm_ov_bio_lk1">Supernatural</a> (2005), <a href="/title/tt0934814?ref_=nm_ov_bio_lk2">Chuck</a> (2007) and <a href="/title/tt0362359?ref_=nm_ov_bio_lk3">The O.C.</a> (2003).            <span class="see-more inline nobr-only">
+                    <a href="/name/nm0629334/bio?ref_=nm_ov_bio_sm"
+>See full bio</a> &raquo;
+            </span>
+</div>        </div>
+</div>
+
+                        
+    <div id="name-born-info" class="txt-block">
+        <h4 class="inline">Born:</h4> 
+<a href="/name/nm0629334/bio?ref_=nm_ov_bth_nm"
+> Joseph McGinty Nichol
+</a>            <br />
+   
+  <time datetime="1968-8-9" itemprop="birthDate">
+<a href="/search/name?birth_monthday=8-9&refine=birth_monthday&ref_=nm_ov_bth_monthday"
+>August 9</a>, 
+     
+<a href="/search/name?birth_year=1968&ref_=nm_ov_bth_year"
+>1968</a>    
+  </time>
+            in
+            <a href="/search/name?birth_place=Kalamazoo,+Michigan,+USA&ref_=nm_ov_bth_place"
+>Kalamazoo, Michigan, USA</a>
+    </div>
+
+                        
+                        
+                   </td>
+                <tr>
+                   <td id="overview-middle">
+        <div id="name-pro-info" class="pro-list">
+            <span class="pro-list-title"><a href="http://pro.imdb.com/name/nm0629334?rf=cons_nm_more&ref_=cons_nm_more"
+>More at IMDbPro</a> &raquo;</span>
+<a href="http://pro.imdb.com/name/nm0629334/agent?rf=cons_nm_contact&ref_=cons_nm_contact"
+><img class="absmiddle" width="13" height="13" src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/phone-375450651._CB379390030_.png" alt="Contact Info on IMDbPro"/></a>                <strong>Contact Info:</strong>
+<a href="http://pro.imdb.com/name/nm0629334/agent?rf=cons_nm_contact&ref_=cons_nm_contact"
+> View agent, manager, publicist, legal and company
+</a><br />
+            
+            
+<a href="http://pro.imdb.com/name/nm0629334?rf=cons_nm_photo&ref_=cons_nm_photo"
+><img class="absmiddle" width="13" height="13" src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/profile-152317997._CB379391798_.png" alt="Add or change photos on IMDbPro"/ ></a>                <strong>Represent McG?</strong> <a href="http://pro.imdb.com/name/nm0629334?rf=cons_nm_photo&ref_=cons_nm_photo"
+>Add or change photos</a>
+        </div>
+                        
+                   </td>
+                </tr>
+            </tbody>
+        </table>
+        
+    
+        <div class="mediastrip_container">
+        <div class="mediastrip">
+                
+<a href="/media/rm3074136832/nm0629334?ref_=nm_phs_md_1"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Drew Barrymore, Cameron Diaz, Lucy Liu and McG at event of Charlie's Angels: Full Throttle (2003)" title="Drew Barrymore, Cameron Diaz, Lucy Liu and McG at event of Charlie's Angels: Full Throttle (2003)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTY1MjQ2NDUzMF5BMl5BanBnXkFtZTYwNjE5NTI1._V1_SY99_CR18,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm1554290688/nm0629334?ref_=nm_phs_md_2"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="McG" title="McG"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTc3NDY3MzQ0Ml5BMl5BanBnXkFtZTYwMzUxMDA2._V1_SX99_CR0,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm3531573760/nm0629334?ref_=nm_phs_md_3"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Nikhil Advani and McG at event of Chandni Chowk to China (2009)" title="Nikhil Advani and McG at event of Chandni Chowk to China (2009)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTY3NDM4MjAwMF5BMl5BanBnXkFtZTcwMTQ5NTQyMg@@._V1_SX99_CR0,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm1736823808/nm0629334?ref_=nm_phs_md_4"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Kevin Costner and McG in 3 Days to Kill (2014)" title="Kevin Costner and McG in 3 Days to Kill (2014)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjIxMDM4MzY0MV5BMl5BanBnXkFtZTgwODI3NjQxMTE@._V1_SY99_CR25,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm2774577408/nm0629334?ref_=nm_phs_md_5"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Still of McG in This Means War (2012)" title="Still of McG in This Means War (2012)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTYyODY5NTE0Ml5BMl5BanBnXkFtZTcwMDE4OTQzNw@@._V1_SY99_CR25,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm1616550656/nm0629334?ref_=nm_phs_md_6"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Drew Barrymore, Cameron Diaz, Demi Moore, Lucy Liu, Nancy Juvonen and McG" title="Drew Barrymore, Cameron Diaz, Demi Moore, Lucy Liu, Nancy Juvonen and McG"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjA4NTAzMTEzNF5BMl5BanBnXkFtZTYwOTcyNjA1._V1_SY99_CR26,0,99,99_AL_.jpg" itemprop='image' /></a>        </div>
+            
+            <div class="see-more">
+<a href="/name/nm0629334/mediaindex?ref_=nm_phs_md_sm"
+><span class="titlePageSprite showAllVidsAndPics"></span></a>
+<a href="/name/nm0629334/mediaindex?ref_=nm_phs_md_sm"
+>39 photos</a>                
+<span class="ghost">|</span>        
+<a href="/name/nm0629334/videogallery?ref_=nm_phs_vi"
+>12 videos</a>                
+<span class="ghost">|</span>        
+<a href="/name/nm0629334/news?ref_=nm_phs_nw"
+>2576 news articles</a> &raquo;            </div>
+        </div>
+        
+    </div>
+
+            </div> 
+
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_main');
+    }
+  </script>
+                    
+<script>
+    if (typeof uet == 'function') {
+      uet("cf");
+    }
+</script>
+    </div> 
+    <div id="maindetails_sidebar_bottom" class="maindetails_sidebar" data-caller-name="name-main">
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_sidebar');
+    }
+  </script>
+
+	
+	<!-- no content received for slot: top_rhs -->
+	
+
+                    
+                    
+
+    
+    
+    <div class="aux-content-widget-3 links subnav" div="quicklinks">
+
+            <h3>Quick Links</h3>
+
+
+        <div id="maindetails_quicklinks">
+                <div class="split_0">    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/bio?ref_=nm_ql_1"
+class="link" >Biography</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/awards?ref_=nm_ql_2"
+class="link" >Awards</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/board/?ref_=nm_ql_3"
+class="link" >Message Boards</a>
+                    </span>
+                </li>
+    </ul>
+</div>
+                <div class="split_1">    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/mediaindex?ref_=nm_ql_4"
+class="link" >Photo Gallery</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/?nmdp=1&ref_=nm_ql_5#filmography"
+class="link" >Filmography <span class="ghost quicklink_modifier">(by Job)</span></a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/videogallery?ref_=nm_ql_6"
+class="link" >Trailers and Videos</a>
+                    </span>
+                </li>
+    </ul>
+</div>
+        </div>
+        <hr/>
+
+        <div id="full_subnav">
+
+
+        <h4>Filmography</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=year&explore=title_type&role=nm0629334&ref_=nm_ql_flmg_1"
+class="link" ><span class="ghost">by</span> Year</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/?nmdp=1&ref_=nm_ql_flmg_2#filmography"
+class="link" ><span class="ghost">by</span> Job</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=user_rating&explore=title_type&role=nm0629334&ref_=nm_ql_flmg_3"
+class="link" ><span class="ghost">by</span> Ratings</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=num_votes&explore=title_type&role=nm0629334&ref_=nm_ql_flmg_4"
+class="link" ><span class="ghost">by</span> Votes</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=moviemeter&explore=genres&role=nm0629334&ref_=nm_ql_flmg_5"
+class="link" ><span class="ghost">by</span> Genre</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=moviemeter&explore=keywords&role=nm0629334&ref_=nm_ql_flmg_6"
+class="link" ><span class="ghost">by</span> Keyword</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Personal Details</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/bio?ref_=nm_ql_pdtls_1"
+class="link" >Biography</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/otherworks?ref_=nm_ql_pdtls_2"
+class="link" >Other Works</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/publicity?ref_=nm_ql_pdtls_3"
+class="link" >Publicity Listings</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/officialsites?ref_=nm_ql_pdtls_4"
+class="link ghost" >Official Sites</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/agent?ref_=nm_ql_pdtls_5"
+class="link" >Contact Info <span class="ghost quicklink_modifier">(IMDbPro)</span></a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Did You Know?</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/bio?ref_=nm_ql_dyk_1#quotes"
+class="link" >Personal Quotes</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/bio?ref_=nm_ql_dyk_2#trivia"
+class="link" >Trivia </a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/bio?ref_=nm_ql_dyk_3#trademark"
+class="link" >Trademark</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Photo & Video</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/mediaindex?ref_=nm_ql_pv_1"
+class="link" >Photo Gallery</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/videogallery?ref_=nm_ql_pv_2"
+class="link" >Trailers and Videos</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Opinion</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/awards?ref_=nm_ql_op_1"
+class="link" >Awards</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/board/?ref_=nm_ql_op_2"
+class="link" >Message Boards</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Related Items</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/workedwith?ref_=nm_ql_rel_1"
+class="link" >Credited With</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/nowshowing?ref_=nm_ql_rel_2"
+class="link" >TV Schedule</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/news?ref_=nm_ql_rel_3"
+class="link" >NewsDesk</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0629334/externalsites?ref_=nm_ql_rel_4"
+class="link" >External Sites</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Professional Services</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/widget/resume_redirect/?ref_=nm_ql_pro_1"
+class="link" >Promote yourself with a resume</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/name/nm0629334?ref_=nm_ql_pro_2"
+class="link" >Add or change photos</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/name/nm0629334?ref_=nm_ql_pro_3"
+class="link" >Get more at IMDbPro</a>
+                    </span>
+                </li>
+    </ul>
+            <hr/>
+        </div>
+
+        <div class="show_more"><span class="titlePageSprite arrows show"></span>Explore More</div>
+        <div class="show_less"><span class="titlePageSprite arrows hide"></span>Show Less</div>
+    </div>
+
+                    
+        <div class="aux-content-widget-2">
+        <span class="ab_widget"
+        >
+            <div class="ab_ninja ">
+<span class="ninja_header"> <span class="oneline"> <a href="/imdbpicks/?ref_=nm_pks_hd" > <h3>IMDb Picks: May</h3> </a> </span> </span> <p class="blurb">Visit our IMDb Picks section to see our recommendations of movies and TV shows coming out in May, sponsored by COVERGIRL.</p> <div class="ninja_image_pack"> <div class="ninja_center"> <div class="ninja_image first_image last_image" style="width:100%;height:auto;" > <div style="width:100%;height:auto;margin:0 auto;"> <div class="widget_image"> <div class="image"> <a href="/imdbpicks/?ref_=nm_pks_i_1" > <img itemprop="image" class="pri_image" src="http://ia.media-imdb.com/images/M/MV5BOTMzMzk1NjE1OV5BMl5BanBnXkFtZTgwNDIwNTI1NTE@._V1_SY460_CR0,0,613,460_AL_.jpg" data-src-x2="http://ia.media-imdb.com/images/M/MV5BOTMzMzk1NjE1OV5BMl5BanBnXkFtZTgwNDIwNTI1NTE@._V1_SY460_CR0,0,613,460_AL_.jpg" /> </a> <div class="widget_caption caption_overlay"> <div class="primary"> <div class="onoverflow"> <a href="/imdbpicks/?ref_=nm_pks_cap_pri_1" > Pitch Perfect 2 </a> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div> <p class="seemore position_bottom"> <a href="/imdbpicks/?ref_=nm_pks_sm" >Visit the IMDb Picks section</a> </p> </div>    </div>
+
+        </span>
+        </div>
+
+
+                    
+
+  <div class="aux-content-widget-2" id="social-share-widget"> 
+    
+    <div class="social">
+      <div class="social_networking"> 
+       <span><strong>Share</strong> this page:</span>
+  <a onclick="window.open(&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0629334%2F&quot;, 'newWindow', 'width=626, height=436'); return false;" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0629334%2F" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
+  <a onclick="window.open(&quot;http://twitter.com/intent/tweet?text=McG%20-%20http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0629334%2F&quot;, 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/intent/tweet?text=McG%20-%20http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0629334%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
+  <a onclick="$('div.social input[name=share-link]').show().select(); return false;" title="Share the page" class="share_icon share_url_link" href="http://www.imdb.com/name/nm0629334/"></a>
+      </div>
+      <input type="text" name="share-link" value="http://www.imdb.com/name/nm0629334/" readonly>
+    </div>
+  <script type="text/javascript">generic.monitoring.start_timing("facebook_like_iframe");</script>
+  <div class="social_networking_like">
+    <iframe
+      id="iframe_like"
+      name="fbLikeIFrame_0"
+      class="social-iframe"
+      scrolling="no"
+      frameborder="0"
+      allowTransparency="allowTransparency"
+      ref="http://www.imdb.com/name/nm0629334/"
+      width=280
+      height=65></iframe>
+  </div>
+  </div>
+
+                    
+
+	
+	<!-- no content received for slot: rhs_cornerstone -->
+	
+
+                    
+
+
+      <div class="aux-content-widget-2" >
+        <h3>Related News</h3>
+
+        
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm0629334/news?ref_=nm_nwr_1#ni58553374"
+>Alberto Rosende & Emeraude Toubia Join ‘Shadowhunters’</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  10 hours ago
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0004913?ref_=nm_nwr_1"
+>Deadline TV</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item even" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm0629334/news?ref_=nm_nwr_2#ni58553390"
+>ABC Family’s ‘Shadowhunters’ Finds Simon & Isabelle for ‘Mortal Instruments’ Series</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  10 hours ago
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0052792?ref_=nm_nwr_2"
+>Variety - TV News</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm0629334/news?ref_=nm_nwr_3#ni8141855"
+>Time Machine: Burton and Bonham Carter Sporting Matching Hairdos on the Oscars' Red Carpet</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  24 April 2015 10:44 PM, EDT
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0000238?ref_=nm_nwr_3"
+>Alt Film Guide</a>
+                                </span>
+                        </small>
+                    </div>
+       
+            <div class="see-more">
+                <a href="/name/nm0629334/news?ref_=nm_nwr_sm"
+>See all 2576 related articles</a>&nbsp;&raquo;
+            </div>
+
+      </div>
+
+                    
+
+        <div class="aux-content-widget-2">
+                <h3>On Amazon Instant Video</h3>
+    <div id="on-aiv-list">
+
+                
+                        <div class="on-aiv-row">
+                            <div class="on-aiv-button" style="font-family:Verdana,Arial,sans-serif;font-size:11px;">
+    <a href="/offsite/?page-action=watch-aiv&token=BCYpQXqV81K6yqVkPNAt6kpJLkN1nA6XGMaI8UD9bGSIw2Jz7Sj7fvfexOxLvbfpugacJJndy34X%0D%0ApJuj1d2nqwLqY1sxmB-lWJYvMaYGrums_9ePfZ36GmnZr_SwtB5vQrxMLE3nFUjgfe8p_gd3klL_%0D%0ARQ-YgUPVsIWxBVrbb_K20YeSZgxD4Sq1JTDKAooqgqy06OM5jS02TyCpr6h9CeyajXKlq1V9pAhj%0D%0ALBgQp56K7TDyz5mRuqi7tnKKcyJk0-GsaoGByHdMsglFGoRzTpKk2w%0D%0A&ref_=nm_aiv_1"
+rel="nofollow" itemprop='url'>Watch Now</a>
+                            </div>
+                            <div class="on-aiv-title">
+                                <a href="/title/tt0460681?ref_=nm_aiv_t1"
+>Supernatural</a>
+                            </div>
+                        </div>
+                
+                        <div class="on-aiv-row">
+                            <div class="on-aiv-button" style="font-family:Verdana,Arial,sans-serif;font-size:11px;">
+    <a href="/offsite/?page-action=watch-aiv&token=BCYkZz5330V9V6YmcT5QwpLk2zvj1fNygz99rkovf0cDndIr_B9CEd9Jg0YCNRq2czQqBkxDVQDd%0D%0A4ZydD2ksRo9oKfDSnlzjoNTBwRYqAOe04Wkf2JLo4P3FH0TyX9fojcvZPToP5Mfpbn2kjXP9VgFm%0D%0A7V0pz0SkY4PIUmo-O1UmwK6roKmXthH_gaKXc7VutdqXQzNV6PQ85ITa5oIy8fI7TjGm8ql_0LLz%0D%0AyhkaimOhpZ84F-VSvLDisgq3wIEMnDHmw-5DzmRovrWkIpFYGwDhXA%0D%0A&ref_=nm_aiv_2"
+rel="nofollow" itemprop='url'>Watch Now</a>
+                            </div>
+                            <div class="on-aiv-title">
+                                <a href="/title/tt0934814?ref_=nm_aiv_t2"
+>Chuck</a>
+                            </div>
+                        </div>
+                
+                        <div class="on-aiv-row">
+                            <div class="on-aiv-button" style="font-family:Verdana,Arial,sans-serif;font-size:11px;">
+    <a href="/offsite/?page-action=watch-aiv&token=BCYutZdFsM7EzoZ8oOP9Y4_tqPdw6TDXMPT7REG2CZsf-TtwdsNIAiN_Xeb10W0zcz1XiD6Uyr1y%0D%0AQJU-tB__PcoOi1ElwjrobgkUCIemt2uDopsOCcxgApDBD7w6FLBZhlqkcjea2uYp_BT1lfhXAEZC%0D%0AeJk46nRPsXqSL3P35EVkjHINiXwmBMIlK-wk5c3gbG5uew01LEns06M76pmM5LgB5ErljAfSkf20%0D%0AnnRXrK0clzZV1AHmBElMSlkQZGZ102qbFnRJ5dqfkwmAX1tn_xZXZQ%0D%0A&ref_=nm_aiv_3"
+rel="nofollow" itemprop='url'>Watch Now</a>
+                            </div>
+                            <div class="on-aiv-title">
+                                <a href="/title/tt0362359?ref_=nm_aiv_t3"
+>The O.C.</a>
+                            </div>
+                        </div>
+                
+                        <div class="on-aiv-row">
+                            <div class="on-aiv-button" style="font-family:Verdana,Arial,sans-serif;font-size:11px;">
+    <a href="/offsite/?page-action=watch-aiv&token=BCYpKj3WJmcKQzEZEvmFv9RccibOmlsSMiLtmtKdEpPtdCyWpOCf-560ZCAYgdMc2pVSVEr6Fs_9%0D%0AGMEDXlYAy0eeRzUiDgyl6Y0qqbBVQq3mAqxqnTlWL5KTt23Gxd1tbHvSIj8jE3QVmhbAc7BdMXfr%0D%0ArxOCRJ72YyXbkGfn0h2WzKWHKxznFl9fBN83loWALS8Jwxv3BKyV9Pg3rMDxESSq86_nENOIKIFY%0D%0AGuMTnKGKdlwKTJYPcoFqf4KiYYGjo-m8VkmEpVTpFO9TPjWBuNqC_w%0D%0A&ref_=nm_aiv_4"
+rel="nofollow" itemprop='url'>Watch Now</a>
+                            </div>
+                            <div class="on-aiv-title">
+                                <a href="/title/tt1592154?ref_=nm_aiv_t4"
+>Nikita</a>
+                            </div>
+                        </div>
+                
+    </div>
+                <div class="see-more">
+                    <a href="/offsite/?page-action=watch-aiv&token=BCYhTkRPUy7DxGxUdyTmezXsIjiL6OMl8CtqfXvuKLAf_AAT5dmNHV_f5yvayYaumQTeQ2AOibUu%0D%0AjE4hQpthHG6QSJ2CRM5KklsKKgEIVNb4fMP2DnfV1A0PAvGMVPTyCUlHsHOYSJei7B4x_jSjDX5p%0D%0Aa4-owVunrnzNP8fIBa-CwfRmJybRqQywcbcwmbhxLaactZ1akZ6-bnVGrwd6uq0apHqSm1fah4bj%0D%0AVoKwhFtkXPmH6_xmHT0yzit92hIGmOh51QCWvIPfL8koPfg4iqqMU1o774cZg1Kh_Pag6cuOP7o%0D%0A&ref_=nm_aiv_sm"
+>See more on Amazon Instant Video</a> &raquo;
+                </div>
+        </div>
+
+    
+        <div class="article on-tv">
+            <h3>Watch on TV</h3>
+                <div class="odd">
+                
+                    
+                        <a href="/title/tt0438488?ref_=nm_tv_tt_1"
+>Terminator Salvation</a>
+                        <br />
+                    
+                    <div class="airtime">
+                       <a href="/tvgrid/2015-05-06/2200?ref_=nm_tv_air_1#AMC"
+>Wed, May 06</a>
+                           <a href="/tvgrid/2015-05-06/2200?ref_=nm_tv_air_1#AMC"
+>10:00 PM EDT</a>
+                       on
+<a href="/tvgrid/2015-05-06/AMC?ref_=nm_tv_air_1"
+>AMC (795)</a>
+                       
+                    </div>
+                </div>
+                <div class="even">
+                
+                    
+                        <a href="/title/tt1596350?ref_=nm_tv_tt_2"
+>This Means War</a>
+                        <br />
+                    
+                    <div class="airtime">
+                       <a href="/tvgrid/2015-05-09/0300?ref_=nm_tv_air_2#FX"
+>Sat, May 09</a>
+                           <a href="/tvgrid/2015-05-09/0300?ref_=nm_tv_air_2#FX"
+>3:00 AM EDT</a>
+                       on
+<a href="/tvgrid/2015-05-09/FX?ref_=nm_tv_air_2"
+>FX (128)</a>
+                       
+                    </div>
+                </div>
+            
+            <div class="see-more">
+                <a href="/sections/tv/?ref_=nm_tv"
+>IMDbTV</a>
+<span class="ghost">|</span>                <a href="/tvgrid/?ref_=nm_tv_all"
+>All TV listings</a>&nbsp;&raquo;
+            </div>
+        </div>
+    
+
+                    
+
+            <div class="aux-content-widget-2" >
+    <h3>Projects In Development <a href="/help/show_leaf?proindevelopment"
+class="titlePageSprite helpInSprite" ></a></h3>
+            <div class="devitem odd">
+<a href="/title/tt3478010?ref_=nm_dev_1"
+> Untitled NASCAR/Junior Johnson Project
+</a>                    <div class="year_column">2015</div>
+            </div>
+            <div class="devitem even">
+<a href="/title/tt3510696?ref_=nm_dev_2"
+> Superhouse
+</a>                    <div class="year_column">2014</div>
+            </div>
+            <div class="devitem odd">
+<a href="/title/tt3896178?ref_=nm_dev_3"
+> A Boy Named Shel
+</a>            </div>
+            <div class="devitem even">
+<a href="/title/tt1489152?ref_=nm_dev_4"
+> Camp Morningwood
+</a>            </div>
+            <div class="devitem odd">
+<a href="/title/tt1314178?ref_=nm_dev_5"
+> Dead Spy Running
+</a>            </div>
+            <div class="devitem even">
+<a href="/title/tt1873555?ref_=nm_dev_6"
+> Face It
+</a>            </div>
+            <div class="devitem odd">
+<a href="/title/tt1208671?ref_=nm_dev_7"
+> I Am a Genius of Unspeakable Evil and I Want to Be Your Class President
+</a>            </div>
+            <div class="devitem even">
+<a href="/title/tt1079969?ref_=nm_dev_8"
+> Monster Squad
+</a>            </div>
+            <div class="devitem odd">
+<a href="/title/tt2328718?ref_=nm_dev_9"
+> Ruin
+</a>            </div>
+            <div class="devitem even">
+<a href="/title/tt1124395?ref_=nm_dev_10"
+> School of Fear
+</a>            </div>
+            <div class="devitem odd">
+<a href="/title/tt1417099?ref_=nm_dev_11"
+> Spring Awakening
+</a>            </div>
+            <div class="devitem even">
+<a href="/title/tt4225622?ref_=nm_dev_12"
+> The Babysitter
+</a>            </div>
+            <div class="devitem odd">
+<a href="/title/tt1621437?ref_=nm_dev_13"
+> The Girl Who Conned the Ivy League
+</a>            </div>
+            <div class="devitem even">
+<a href="/title/tt1691921?ref_=nm_dev_14"
+> Tink
+</a>            </div>
+            <div class="devitem odd">
+<a href="/title/tt1866288?ref_=nm_dev_15"
+> Untitled McG Sci-Fi/Adventure Project
+</a>            </div>
+            <div class="devitem even">
+<a href="/title/tt2434400?ref_=nm_dev_16"
+> Wunderland
+</a>            </div>
+            <div class="devitem odd">
+<a href="/title/tt1619873?ref_=nm_dev_17"
+> Puzzle Palace
+</a>            </div>
+            <div class="devitem even">
+<a href="/title/tt1684562?ref_=nm_dev_18"
+> The Fall Guy
+</a>            </div>
+            <div class="devitem odd">
+<a href="/title/tt2505438?ref_=nm_dev_19"
+> The Magic Castle
+</a>            </div>
+    <div class="see-more">
+        Details only on <a href="http://pro.imdb.com/name/nm0629334?rf=cons_nm_pid_det&ref_=cons_nm_pid_det"
+>IMDbPro</a> &raquo;
+    </div>
+            </div>
+
+                    
+
+        <div class="aux-content-widget-2">
+            <div id="relatedListsWidget">
+                <div class="rightcornerlink">
+                    <a href="/list/create?ref_=nm_rls"
+>Create a list</a>&nbsp;&raquo;
+                </div>
+                <h3>User Lists</h3>
+                <p>Related lists from IMDb users</p>
+
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls000011770?ref_=nm_rls_1"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTM2NDkxMTcxMl5BMl5BanBnXkFtZTcwNTMyNjI5MQ@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls000011770?ref_=nm_rls_1"
+>Best Directors</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 35 people
+            <br />created 20&nbsp;Dec&nbsp;2010
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview odd">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls000737545?ref_=nm_rls_2"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTY1NjAzNzE1MV5BMl5BanBnXkFtZTYwNTk0ODc0._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls000737545?ref_=nm_rls_2"
+>Best Directors Of All Time</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 28 people
+            <br />created 03&nbsp;Apr&nbsp;2011
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls006571218?ref_=nm_rls_3"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjExNDIwNTA5M15BMl5BanBnXkFtZTcwMDg3NTU2Mw@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls006571218?ref_=nm_rls_3"
+>Sinners</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 25 people
+            <br />created 02&nbsp;Dec&nbsp;2011
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview odd">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls075989894?ref_=nm_rls_4"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ0Mzc2NzY0Ml5BMl5BanBnXkFtZTcwOTI3OTI5MQ@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls075989894?ref_=nm_rls_4"
+>Directors Matthew McConaughey Has Worked With</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 26 people
+            <br />created 7&nbsp;months&nbsp;ago
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls076953058?ref_=nm_rls_5"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTgzODEyMTUyOF5BMl5BanBnXkFtZTYwMTMyMzI0._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls076953058?ref_=nm_rls_5"
+>The 25 Worst Directors of All-Time</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 25 people
+            <br />created 3&nbsp;weeks&nbsp;ago
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+                <div class="see-more">
+                    <a href="/lists/nm0629334?ref_=nm_rls_sm"
+>See all related lists</a>&nbsp;&raquo;
+                </div>
+            </div>
+        </div>
+
+                    
+
+    <div class="aux-content-widget-2">
+        <h3>Do you have a demo reel?</h3>
+
+        <p>Add it to your IMDbPage</p>
+        <div class="video-browser-widget">
+             <div id="demoReelShoveler">
+
+
+<a href="/video/user/vi3091568921?ref_=nm_demo_1"
+title="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" alt="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" class="video-colorbox" data-video="vi3091568921" data-context="user" data-rid="" widget-context="nameDemoreels" itemprop="url" ><img height="90" width="120" alt="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" title="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMjI0NDMxOTE4MV5BMl5BanBnXkFtZTgwODI5MzczMzE@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZA01:21,103,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,2,-2_.jpg" itemprop='image' viconst="vi3091568921" /></a>
+
+<a href="/video/user/vi4067727897?ref_=nm_demo_2"
+title="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" alt="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" class="video-colorbox" data-video="vi4067727897" data-context="user" data-rid="" widget-context="nameDemoreels" itemprop="url" ><img height="90" width="120" alt="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" title="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMTcyNTgxMDMyNF5BMl5BanBnXkFtZTcwNTkxOTQ0NA@@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZA03:00,103,1,14,36,verdenab,7,255,255,255,1_.jpg" itemprop='image' viconst="vi4067727897" /></a>
+             </div>
+        </div>
+        <div id="pro_demo_reel_link">
+<a href="http://pro.imdb.com/demoreels/list?rf=cons_nm_demoreel&ref_=cons_nm_demoreel"
+>Find out more at IMDb Pro</a> &raquo;
+        </div>
+    </div>
+
+                    
+
+    <div class="aux-content-widget-2">
+        <h3>Connect with IMDb</h3>
+        <div id="facebookWrapper">
+            <iframe
+                scrolling="no"
+                frameborder="0"
+                id="facebookIframe"
+                allowTransparency="true"></iframe>
+        </div>
+        <hr>
+        <iframe allowtransparency="true"
+            frameborder="0"
+            role="presentation"
+            scrolling="no"
+            id="twitterIframe"></iframe>
+    </div>
+
+                    
+
+<div class="aux-content-widget-2 ">
+    <h3>How Much Have You Seen?</h3>
+How much of <a href="/seen/nm0629334/?ref_=nm_se"
+>McG's work</a> have you seen?
+</div>
+
+                    
+
+<div class="aux-content-widget-2 poll-widget-rhs ">
+    <style>
+        .aux-content-widget-2.poll-widget-rhs ul li { margin-bottom: 0.5em; clear: left; font-weight: bold;}
+        .aux-content-widget-2.poll-widget-rhs span { margin-bottom: 0.5em; clear: left;}
+        .aux-content-widget-2.poll-widget-rhs img { float: left; padding: 0 5px 5px 0; height: 86px; width: 86px;}
+    </style>
+    <h3>User Polls</h3>
+    <ul>
+        <li>
+<a href="/poll/w18bJB8Gb8E/?ref_=nm_po_i1"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BNTk2ODQzOTY4N15BMl5BanBnXkFtZTgwNjkwMjQ3MjE@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/w18bJB8Gb8E/?ref_=nm_po_q1"
+>Current crime-solving TV duo you'd want on your case?</a>
+        <li>
+<a href="/poll/8jnWmUO7Lus/?ref_=nm_po_i2"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTM1MDM0MzA3NV5BMl5BanBnXkFtZTcwMTQwNDczMw@@._V1_SY86_CR21,0,86,86_.jpg" /></a>        <a href="/poll/8jnWmUO7Lus/?ref_=nm_po_q2"
+>Match Made in Heaven</a>
+        <li>
+<a href="/poll/GZc6OvbdgY8/?ref_=nm_po_i3"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTQyNjE0OTY3NF5BMl5BanBnXkFtZTcwMzk4NTkxNA@@._V1_SY86_CR16,0,86,86_.jpg" /></a>        <a href="/poll/GZc6OvbdgY8/?ref_=nm_po_q3"
+>What Would You Like The Wizard of Oz To Grant You?</a>
+        <li>
+<a href="/poll/U8lrsxh4Wyk/?ref_=nm_po_i4"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTA2ODY5ODg4OTdeQTJeQWpwZ15BbWU2MDUzOTM3Nw@@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/U8lrsxh4Wyk/?ref_=nm_po_q4"
+>Steven Spielberg lead</a>
+        <li>
+<a href="/poll/_zV5NOb_b_Y/?ref_=nm_po_i5"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTQwODczODEwNF5BMl5BanBnXkFtZTYwOTAzNzU3._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/_zV5NOb_b_Y/?ref_=nm_po_q5"
+>Female Title Characters, Part 2</a>
+        <li>
+<a href="/poll/YrvZ0lpvu7Q/?ref_=nm_po_i6"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTg4NzEyNzQ5OF5BMl5BanBnXkFtZTYwNTY3NDg4._V1._CR24,0,293,443_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/YrvZ0lpvu7Q/?ref_=nm_po_q6"
+>TV's Most Memorable First Kiss</a>
+    </ul>
+    <div class="see-more"><a href="/poll/?ref_=nm_po_sm"
+>See more polls &raquo;</a></div>
+</div>
+
+                    
+
+	
+	<!-- no content received for slot: btf_rhs2 -->
+	
+
+                    
+
+    </div>
+
+
+
+    <div id="maindetails_center_bottom" class="maindetails_center">
+                    
+            <div class="article highlighted">
+        <span itemprop="awards"><b></b></span>
+        <span itemprop="awards">1 win.</span>
+    <span class="see-more inline">
+<a href="/name/nm0629334/awards?ref_=nm_awd"
+>See more awards</a>&nbsp;&raquo;    </span>
+            </div> 
+                    
+            <div class="article">
+<h2>Known For</h2>
+<div id="knownfor">
+<div>
+<a href="/title/tt0460681/?ref_=nm_knf_i1"
+> <img
+height="200"
+width="148"
+title="Supernatural"
+alt="Supernatural"
+src="http://ia.media-imdb.com/images/M/MV5BMTc2NzMxODU0NV5BMl5BanBnXkFtZTgwMjYyNzk1MjE@._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt0460681" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0460681/?ref_=nm_knf_t1"
+>Supernatural (2005)</a>
+</div>
+<div>
+<a href="/title/tt0934814/?ref_=nm_knf_i2"
+> <img
+height="200"
+width="148"
+title="Chuck"
+alt="Chuck"
+src="http://ia.media-imdb.com/images/M/MV5BMTM0ODIwNjI3NF5BMl5BanBnXkFtZTcwODU2ODUzMw@@._V1_SY200_CR1,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt0934814" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0934814/?ref_=nm_knf_t2"
+>Chuck (2007)</a>
+</div>
+<div>
+<a href="/title/tt0362359/?ref_=nm_knf_i3"
+> <img
+height="200"
+width="148"
+title="The O.C."
+alt="The O.C."
+src="http://ia.media-imdb.com/images/M/MV5BMTUyNDk4NzI1MF5BMl5BanBnXkFtZTcwNzYyNzg0MQ@@._V1_SY200_CR16,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt0362359" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0362359/?ref_=nm_knf_t3"
+>The O.C. (2003)</a>
+</div>
+<div class="last">
+<a href="/title/tt1592154/?ref_=nm_knf_i4"
+> <img
+height="200"
+width="148"
+title="Nikita"
+alt="Nikita"
+src="http://ia.media-imdb.com/images/M/MV5BMjIxMDAyOTMzMV5BMl5BanBnXkFtZTcwMjE5NTc4NA@@._V1_SY200_CR1,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt1592154" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt1592154/?ref_=nm_knf_t4"
+>Nikita (2010)</a>
+</div>
+</div>
+            </div> 
+                    
+            <div class="article">
+<div class="rightcornerlink">
+<span class="filmo-show-hide-all"
+style="display: inline;"
+onclick="showOrHideAll();">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show_mini-603933165._CB306318127_.png" alt="Show" width="14" height="12" class="absmiddle">&nbsp;Show all
+</span>
+<span class="filmo-show-hide-all"
+style="display: none;"
+onclick="showOrHideAll();">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide_mini-3743750714._CB306318255_.png" alt="Hide" width="14" height="12" class="absmiddle">&nbsp;Hide all
+</span>
+&nbsp;<span>|</span>&nbsp;
+<form name="navform" method="get" action="filmosummary" id="filmoform">
+<select name="sort" class="fixed">
+<option value="">Show by...</option>
+<option value="?nmdp=1">Job</option>
+<option value="/filmosearch?sort=year&explore=title_type&role=nm0629334">Year &raquo;</option>
+<option value="/filmosearch?sort=user_rating&explore=title_type&role=nm0629334">Ratings &raquo;</option>
+<option value="/filmosearch?sort=num_votes&explore=title_type&role=nm0629334">Votes &raquo;</option>
+<option value="/filmosearch?sort=moviemeter&explore=genres&role=nm0629334">Genre &raquo;</option>
+<option value="/filmosearch?sort=moviemeter&explore=keywords&role=nm0629334">Keyword &raquo;</option>
+</select>
+</form>
+&nbsp;<span>|</span>&nbsp;
+<a href="/updates?edit=nm0629334/filmography&ref_=nm_flmg_edt"
+> Edit
+</a> </div>
+<h2>Filmography</h2>
+<div id="jumpto">
+Jump to:
+<a href="#producer"
+onclick="handleFilmoJumpto(this);" data-category="producer">Producer</a></a>
+<span class="ghost">|</span> <a href="#miscellaneous"
+onclick="handleFilmoJumpto(this);" data-category="miscellaneous">Miscellaneous Crew</a></a>
+<span class="ghost">|</span> <a href="#director"
+onclick="handleFilmoJumpto(this);" data-category="director">Director</a></a>
+<span class="ghost">|</span> <a href="#writer"
+onclick="handleFilmoJumpto(this);" data-category="writer">Writer</a></a>
+<span class="ghost">|</span> <a href="#soundtrack"
+onclick="handleFilmoJumpto(this);" data-category="soundtrack">Soundtrack</a></a>
+<span class="ghost">|</span> <a href="#actor"
+onclick="handleFilmoJumpto(this);" data-category="actor">Actor</a></a>
+<span class="ghost">|</span> <a href="#music_department"
+onclick="handleFilmoJumpto(this);" data-category="music_department">Music department</a></a>
+<span class="ghost">|</span> <a href="#thanks"
+onclick="handleFilmoJumpto(this);" data-category="thanks">Thanks</a></a>
+<span class="ghost">|</span> <a href="#self"
+onclick="handleFilmoJumpto(this);" data-category="self">Self</a></a>
+</div>
+<div id="filmography">
+<div id="filmo-head-producer" class="head" data-category="producer" onclick="toggleFilmoCategory(this);">
+<span id="hide-producer" class="hide-link"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-producer" class="show-link"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="producer">Producer</a> (35 credits)
+</div>
+<div class="filmo-category-section"
+>
+<div class="filmo-row odd" id="producer-tt4145054">
+<span class="year_column">
+&nbsp;2016
+</span>
+<b><a href="/title/tt4145054/?ref_=nm_flmg_prd_1"
+>Shadowhunters</a></b>
+(TV Series) (executive producer - 1 episode) (<a href="/r/legacy-inprod-name/title/tt4145054" class="in_production">pre-production</a>)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt4601794/?ref_=nm_flmg_prd_1"
+>The Mortal Cup</a>
+(2016)
+... (executive producer)
+</div>
+</div>
+<div class="filmo-row even" id="producer-tt4334446">
+<span class="year_column">
+&nbsp;2015
+</span>
+<b><a href="/title/tt4334446/?ref_=nm_flmg_prd_2"
+>Kevin from Work</a></b>
+(TV Movie) (executive producer) (<a href="/r/legacy-inprod-name/title/tt4334446" class="in_production">completed</a>)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt3187578">
+<span class="year_column">
+&nbsp;2014-2015
+</span>
+<b><a href="/title/tt3187578/?ref_=nm_flmg_prd_3"
+>The Mysteries of Laura</a></b>
+(TV Series) (executive producer - 15 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt4588134/?ref_=nm_flmg_prd_3"
+>The Mystery of the Corner Store Crossfire</a>
+(2015)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4444950/?ref_=nm_flmg_prd_3"
+>The Mystery of the Intoxicated Intern</a>
+(2015)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4387010/?ref_=nm_flmg_prd_3"
+>The Mystery of the Exsanguinated Ex</a>
+(2015)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4364012/?ref_=nm_flmg_prd_3"
+>The Mystery of the Alluring Au Pair</a>
+(2015)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4335492/?ref_=nm_flmg_prd_3"
+>The Mystery of the Popped Pugilist</a>
+(2015)
+... (executive producer)
+</div>
+<div id="more-episodes-tt3187578-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="15"
+onclick="toggleSeeMoreEpisodes(this,'nm0629334','tt3187578','producer',2); return false;">Show all 15 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="producer-tt1666801">
+<span class="year_column">
+&nbsp;2015
+</span>
+<b><a href="/title/tt1666801/?ref_=nm_flmg_prd_4"
+>The DUFF</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt2481496">
+<span class="year_column">
+&nbsp;2014/I
+</span>
+<b><a href="/title/tt2481496/?ref_=nm_flmg_prd_5"
+>Mercy</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt2139555">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt2139555/?ref_=nm_flmg_prd_6"
+>Playing It Cool</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0443465">
+<span class="year_column">
+&nbsp;2014/I
+</span>
+<b><a href="/title/tt0443465/?ref_=nm_flmg_prd_7"
+>Before We Go</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt2706252">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt2706252/?ref_=nm_flmg_prd_8"
+>Westside</a></b>
+(TV Movie) (executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt1592154">
+<span class="year_column">
+&nbsp;2010-2013
+</span>
+<b><a href="/title/tt1592154/?ref_=nm_flmg_prd_9"
+>Nikita</a></b>
+(TV Series) (executive producer - 73 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2930796/?ref_=nm_flmg_prd_9"
+>Canceled</a>
+(2013)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2930794/?ref_=nm_flmg_prd_9"
+>Bubble</a>
+(2013)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2930788/?ref_=nm_flmg_prd_9"
+>Pay-Off</a>
+(2013)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2930786/?ref_=nm_flmg_prd_9"
+>Set-Up</a>
+(2013)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2930778/?ref_=nm_flmg_prd_9"
+>Dead or Alive</a>
+(2013)
+... (executive producer)
+</div>
+<div id="more-episodes-tt1592154-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="73"
+onclick="toggleSeeMoreEpisodes(this,'nm0629334','tt1592154','producer',8); return false;">Show all 73 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="producer-tt1730374">
+<span class="year_column">
+&nbsp;2011-2013
+</span>
+<b><a href="/title/tt1730374/?ref_=nm_flmg_prd_10"
+>Aim High</a></b>
+(TV Series) (executive producer - 16 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2814010/?ref_=nm_flmg_prd_10"
+>Episode #2.10</a>
+(2013)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2814008/?ref_=nm_flmg_prd_10"
+>Episode #2.9</a>
+(2013)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2740936/?ref_=nm_flmg_prd_10"
+>Episode #2.8</a>
+(2013)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2740924/?ref_=nm_flmg_prd_10"
+>Episode #2.7</a>
+(2013)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2740932/?ref_=nm_flmg_prd_10"
+>Episode #2.6</a>
+(2013)
+... (executive producer)
+</div>
+<div id="more-episodes-tt1730374-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="16"
+onclick="toggleSeeMoreEpisodes(this,'nm0629334','tt1730374','producer',9); return false;">Show all 16 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="producer-tt0460681">
+<span class="year_column">
+&nbsp;2005-2013
+</span>
+<b><a href="/title/tt0460681/?ref_=nm_flmg_prd_11"
+>Supernatural</a></b>
+(TV Series) (executive producer - 169 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2805140/?ref_=nm_flmg_prd_11"
+>Sacrifice</a>
+(2013)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2805138/?ref_=nm_flmg_prd_11"
+>Clip Show</a>
+(2013)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2734858/?ref_=nm_flmg_prd_11"
+>The Great Escapist</a>
+(2013)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2699596/?ref_=nm_flmg_prd_11"
+>Pac-Man Fever</a>
+(2013)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2699592/?ref_=nm_flmg_prd_11"
+>Taxi Driver</a>
+(2013)
+... (executive producer)
+</div>
+<div id="more-episodes-tt0460681-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="169"
+onclick="toggleSeeMoreEpisodes(this,'nm0629334','tt0460681','producer',10); return false;">Show all 169 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="producer-tt1656186">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt1656186/?ref_=nm_flmg_prd_12"
+>Stolen</a></b>
+(executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0934814">
+<span class="year_column">
+&nbsp;2007-2012
+</span>
+<b><a href="/title/tt0934814/?ref_=nm_flmg_prd_13"
+>Chuck</a></b>
+(TV Series) (executive producer - 81 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2107930/?ref_=nm_flmg_prd_13"
+>Chuck Versus the Goodbye</a>
+(2012)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2107929/?ref_=nm_flmg_prd_13"
+>Chuck Versus Sarah</a>
+(2012)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2107928/?ref_=nm_flmg_prd_13"
+>Chuck Versus the Bullet Train</a>
+(2012)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2098047/?ref_=nm_flmg_prd_13"
+>Chuck Versus Bo</a>
+(2012)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2072405/?ref_=nm_flmg_prd_13"
+>Chuck Versus the Baby</a>
+(2011)
+... (executive producer)
+</div>
+<div id="more-episodes-tt0934814-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="81"
+onclick="toggleSeeMoreEpisodes(this,'nm0629334','tt0934814','producer',12); return false;">Show all 81 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="producer-tt1439741">
+<span class="year_column">
+&nbsp;2010-2011
+</span>
+<b><a href="/title/tt1439741/?ref_=nm_flmg_prd_14"
+>Human Target</a></b>
+(TV Series) (executive producer - 24 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1821850/?ref_=nm_flmg_prd_14"
+>Marshall Pucci</a>
+(2011)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1654269/?ref_=nm_flmg_prd_14"
+>The Trouble with Harry</a>
+(2011)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1654268/?ref_=nm_flmg_prd_14"
+>Kill Bob</a>
+(2011)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1654278/?ref_=nm_flmg_prd_14"
+>Imbroglio</a>
+(2011)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1654267/?ref_=nm_flmg_prd_14"
+>Cool Hand Guerrero</a>
+(2011)
+... (executive producer)
+</div>
+<div id="more-episodes-tt1439741-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="24"
+onclick="toggleSeeMoreEpisodes(this,'nm0629334','tt1439741','producer',13); return false;">Show all 24 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="producer-tt1613032">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1613032/?ref_=nm_flmg_prd_15"
+>Fantasyland</a></b>
+(Documentary) (producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt1615922">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1615922/?ref_=nm_flmg_prd_16"
+>Our Show</a></b>
+(TV Movie) (executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt1380815">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1380815/?ref_=nm_flmg_prd_17"
+>Thunder Road</a></b>
+(TV Movie) (executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt1288498">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1288498/?ref_=nm_flmg_prd_18"
+>Exposed</a></b>
+(TV Series) (executive producer - 6 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1299577/?ref_=nm_flmg_prd_18"
+>The Hunter and the Monkey</a>
+(2010)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1296606/?ref_=nm_flmg_prd_18"
+>The Lord Gives, and the Lord Takes</a>
+(2010)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1296022/?ref_=nm_flmg_prd_18"
+>Rule of Thirds</a>
+(2010)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1296021/?ref_=nm_flmg_prd_18"
+>Not Over Easy</a>
+(2010)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1296020/?ref_=nm_flmg_prd_18"
+>I Wish I Were</a>
+(2010)
+... (executive producer)
+</div>
+<div id="more-episodes-tt1288498-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="6"
+onclick="toggleSeeMoreEpisodes(this,'nm0629334','tt1288498','producer',17); return false;">Show all 6 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="producer-tt1647865">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1647865/?ref_=nm_flmg_prd_19"
+>Ghostfacers</a></b>
+(TV Series) (executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt1395046">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1395046/?ref_=nm_flmg_prd_20"
+>Limelight</a></b>
+(TV Movie) (executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt1143914">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1143914/?ref_=nm_flmg_prd_21"
+>Spaced</a></b>
+(TV Movie) (executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt1663424">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1663424/?ref_=nm_flmg_prd_22"
+>Chuck: Morgan's Vlog</a></b>
+(TV Series) (executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt1107857">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1107857/?ref_=nm_flmg_prd_23"
+>Pussycat Dolls Present: Girlicious</a></b>
+(TV Series) (executive producer - 7 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1197460/?ref_=nm_flmg_prd_23"
+>You Are Girlicious</a>
+(2008)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1197461/?ref_=nm_flmg_prd_23"
+>Public Image</a>
+(2008)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1167393/?ref_=nm_flmg_prd_23"
+>Star Quality</a>
+(2008)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1167391/?ref_=nm_flmg_prd_23"
+>Vocal Expression</a>
+(2008)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1167390/?ref_=nm_flmg_prd_23"
+>Kitchen Confrontation</a>
+(2008)
+... (executive producer)
+</div>
+<div id="more-episodes-tt1107857-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="7"
+onclick="toggleSeeMoreEpisodes(this,'nm0629334','tt1107857','producer',22); return false;">Show all 7 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="producer-tt1239489">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1239489/?ref_=nm_flmg_prd_24"
+>Sorority Forever</a></b>
+(TV Series) (executive producer - 40 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1355456/?ref_=nm_flmg_prd_24"
+>Womanizer</a>
+(2008)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1355455/?ref_=nm_flmg_prd_24"
+>They Can't Be Trusted</a>
+(2008)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1355454/?ref_=nm_flmg_prd_24"
+>The Red Door</a>
+(2008)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1355453/?ref_=nm_flmg_prd_24"
+>Summer Love</a>
+(2008)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1355452/?ref_=nm_flmg_prd_24"
+>Snuff Film</a>
+(2008)
+... (executive producer)
+</div>
+<div id="more-episodes-tt1239489-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="40"
+onclick="toggleSeeMoreEpisodes(this,'nm0629334','tt1239489','producer',23); return false;">Show all 40 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="producer-tt0974964">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0974964/?ref_=nm_flmg_prd_25"
+>Skyler's Revolution</a></b>
+(TV Movie) (executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0783404">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0783404/?ref_=nm_flmg_prd_26"
+>The Pussycat Dolls Present: The Search for the Next Doll</a></b>
+(TV Series) (producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0362359">
+<span class="year_column">
+&nbsp;2003-2007
+</span>
+<b><a href="/title/tt0362359/?ref_=nm_flmg_prd_27"
+>The O.C.</a></b>
+(TV Series) (executive producer - 92 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0958716/?ref_=nm_flmg_prd_27"
+>The End's Not Near, It's Here</a>
+(2007)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0959168/?ref_=nm_flmg_prd_27"
+>The Night Moves</a>
+(2007)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0946518/?ref_=nm_flmg_prd_27"
+>The Shake Up</a>
+(2007)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0943712/?ref_=nm_flmg_prd_27"
+>The Case of the Franks</a>
+(2007)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0917651/?ref_=nm_flmg_prd_27"
+>The Groundhog Day</a>
+(2007)
+... (executive producer)
+</div>
+<div id="more-episodes-tt0362359-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="92"
+onclick="toggleSeeMoreEpisodes(this,'nm0629334','tt0362359','producer',26); return false;">Show all 92 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="producer-tt0816543">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0816543/?ref_=nm_flmg_prd_28"
+>Jump</a></b>
+(TV Movie) (executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0813127">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0813127/?ref_=nm_flmg_prd_29"
+>The Danny Comden Project</a></b>
+(TV Movie) (executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0441796">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0441796/?ref_=nm_flmg_prd_30"
+>Stay Alive</a></b>
+(producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0468466">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0468466/?ref_=nm_flmg_prd_31"
+>Dan Finnerty & the Dan Band: I Am Woman</a></b>
+(TV Movie) (executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0411014">
+<span class="year_column">
+&nbsp;2004-2005
+</span>
+<b><a href="/title/tt0411014/?ref_=nm_flmg_prd_32"
+>The Mountain</a></b>
+(TV Series) (executive producer - 13 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0651625/?ref_=nm_flmg_prd_32"
+>Great Expectations</a>
+(2005)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0651624/?ref_=nm_flmg_prd_32"
+>Blood Money</a>
+(2004)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0651630/?ref_=nm_flmg_prd_32"
+>Sacred Things</a>
+(2004)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0651632/?ref_=nm_flmg_prd_32"
+>The One You're With</a>
+(2004)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0651629/?ref_=nm_flmg_prd_32"
+>Pop Psychology</a>
+(2004)
+... (executive producer)
+</div>
+<div id="more-episodes-tt0411014-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="13"
+onclick="toggleSeeMoreEpisodes(this,'nm0629334','tt0411014','producer',31); return false;">Show all 13 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="producer-tt0320000">
+<span class="year_column">
+&nbsp;2002-2003
+</span>
+<b><a href="/title/tt0320000/?ref_=nm_flmg_prd_33"
+>Fastlane</a></b>
+(TV Series) (executive producer - 22 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0578206/?ref_=nm_flmg_prd_33"
+>Iced</a>
+(2003)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0578202/?ref_=nm_flmg_prd_33"
+>Dosed</a>
+(2003)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0578199/?ref_=nm_flmg_prd_33"
+>Asslane</a>
+(2003)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0578210/?ref_=nm_flmg_prd_33"
+>Overkill</a>
+(2003)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0578208/?ref_=nm_flmg_prd_33"
+>Monster</a>
+(2003)
+... (executive producer)
+</div>
+<div id="more-episodes-tt0320000-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="22"
+onclick="toggleSeeMoreEpisodes(this,'nm0629334','tt0320000','producer',32); return false;">Show all 22 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="producer-tt0778885">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0778885/?ref_=nm_flmg_prd_34"
+>The Dan Show</a></b>
+(TV Movie) (executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt2806376">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt2806376/?ref_=nm_flmg_prd_35"
+>The Offspring: Pretty Fly (for a White Guy)</a></b>
+(Short) (producer)
+<br/>
+</div>
+</div>
+<div id="filmo-head-miscellaneous" class="head" data-category="miscellaneous" onclick="toggleFilmoCategory(this);">
+<span id="hide-miscellaneous" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-miscellaneous" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="miscellaneous">Miscellaneous Crew</a> (1 credit)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="miscellaneous-tt0460681">
+<span class="year_column">
+&nbsp;2013-2015
+</span>
+<b><a href="/title/tt0460681/?ref_=nm_flmg_msc_1"
+>Supernatural</a></b>
+(TV Series) (executive consultant - 35 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt4427940/?ref_=nm_flmg_msc_1"
+>Paint It Black</a>
+(2015)
+... (executive consultant)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4333228/?ref_=nm_flmg_msc_1"
+>The Things They Carried</a>
+(2015)
+... (executive consultant)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4292452/?ref_=nm_flmg_msc_1"
+>The Executioner's Song</a>
+(2015)
+... (executive consultant)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4344332/?ref_=nm_flmg_msc_1"
+>Halt & Catch Fire</a>
+(2015)
+... (executive consultant)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4344320/?ref_=nm_flmg_msc_1"
+>About a Boy</a>
+(2015)
+... (executive consultant)
+</div>
+<div id="more-episodes-tt0460681-miscellaneous" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="35"
+onclick="toggleSeeMoreEpisodes(this,'nm0629334','tt0460681','miscellaneous',0); return false;">Show all 35 episodes</a>
+</div>
+</div>
+</div>
+<div id="filmo-head-director" class="head" data-category="director" onclick="toggleFilmoCategory(this);">
+<span id="hide-director" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-director" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="director">Director</a> (19 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="director-tt4145054">
+<span class="year_column">
+&nbsp;2016
+</span>
+<b><a href="/title/tt4145054/?ref_=nm_flmg_dr_1"
+>Shadowhunters</a></b>
+(TV Series) (1 episode) (<a href="/r/legacy-inprod-name/title/tt4145054" class="in_production">pre-production</a>)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt4601794/?ref_=nm_flmg_dr_1"
+>The Mortal Cup</a>
+(2016)
+</div>
+</div>
+<div class="filmo-row even" id="director-tt4334446">
+<span class="year_column">
+&nbsp;2015
+</span>
+<b><a href="/title/tt4334446/?ref_=nm_flmg_dr_2"
+>Kevin from Work</a></b>
+(TV Movie) (<a href="/r/legacy-inprod-name/title/tt4334446" class="in_production">completed</a>)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt3187578">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt3187578/?ref_=nm_flmg_dr_3"
+>The Mysteries of Laura</a></b>
+(TV Series) (2 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt3776076/?ref_=nm_flmg_dr_3"
+>The Mystery of the Dead Date</a>
+(2014)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3513444/?ref_=nm_flmg_dr_3"
+>Pilot</a>
+(2014)
+</div>
+</div>
+<div class="filmo-row even" id="director-tt2172934">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt2172934/?ref_=nm_flmg_dr_4"
+>3 Days to Kill</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt2015382">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt2015382/?ref_=nm_flmg_dr_5"
+>Guilty</a></b>
+(TV Movie)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt2706252">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt2706252/?ref_=nm_flmg_dr_6"
+>Westside</a></b>
+(TV Movie)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt1596350">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt1596350/?ref_=nm_flmg_dr_7"
+>This Means War</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0438488">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt0438488/?ref_=nm_flmg_dr_8"
+>Terminator Salvation</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0934814">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0934814/?ref_=nm_flmg_dr_9"
+>Chuck</a></b>
+(TV Series) (1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1035912/?ref_=nm_flmg_dr_9"
+>Pilot</a>
+(2007)
+</div>
+</div>
+<div class="filmo-row even" id="director-tt0758794">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0758794/?ref_=nm_flmg_dr_10"
+>We Are Marshall</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0477187">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0477187/?ref_=nm_flmg_dr_11"
+>The Offspring Complete Music Video Collection</a></b>
+(Video documentary) (videos "Pretty Fly [For a White Guy]", "Why Don't You Get a Job?")
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0468466">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0468466/?ref_=nm_flmg_dr_12"
+>Dan Finnerty & the Dan Band: I Am Woman</a></b>
+(TV Movie)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0305357">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0305357/?ref_=nm_flmg_dr_13"
+>Charlie's Angels: Full Throttle</a></b>
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0320000">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0320000/?ref_=nm_flmg_dr_14"
+>Fastlane</a></b>
+(TV Series) (1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0578211/?ref_=nm_flmg_dr_14"
+>Pilot</a>
+(2002)
+</div>
+</div>
+<div class="filmo-row odd" id="director-tt0471137">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0471137/?ref_=nm_flmg_dr_15"
+>Cypress Hill: Still Smokin'</a></b>
+(Video documentary) (videos "Illusions", "Throw Your Hands In The Air")
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0160127">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0160127/?ref_=nm_flmg_dr_16"
+>Charlie's Angels</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt2806376">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt2806376/?ref_=nm_flmg_dr_17"
+>The Offspring: Pretty Fly (for a White Guy)</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt0846096">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0846096/?ref_=nm_flmg_dr_18"
+>Sublime: Sublime</a></b>
+(Video short) (video "Santeria")
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt0274617">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0274617/?ref_=nm_flmg_dr_19"
+>Korn: Who Then Now?</a></b>
+(Video short documentary)
+<br/>
+</div>
+</div>
+<div id="filmo-head-writer" class="head" data-category="writer" onclick="toggleFilmoCategory(this);">
+<span id="hide-writer" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-writer" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="writer">Writer</a> (1 credit)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="writer-tt0320000">
+<span class="year_column">
+&nbsp;
+</span>
+<b><a href="/title/tt0320000/?ref_=nm_flmg_wr_1"
+>Fastlane</a></b>
+(TV Series) (21 episodes, 2002 - 2003) (story - 1 episode, 2002)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0578206/?ref_=nm_flmg_wr_1"
+>Iced</a>
+(2003)
+... (creator)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0578202/?ref_=nm_flmg_wr_1"
+>Dosed</a>
+(2003)
+... (creator)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0578199/?ref_=nm_flmg_wr_1"
+>Asslane</a>
+(2003)
+... (creator)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0578210/?ref_=nm_flmg_wr_1"
+>Overkill</a>
+(2003)
+... (creator)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0578208/?ref_=nm_flmg_wr_1"
+>Monster</a>
+(2003)
+... (creator)
+</div>
+<div id="more-episodes-tt0320000-writer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="22"
+onclick="toggleSeeMoreEpisodes(this,'nm0629334','tt0320000','writer',0); return false;">Show all 22 episodes</a>
+</div>
+</div>
+</div>
+<div id="filmo-head-soundtrack" class="head" data-category="soundtrack" onclick="toggleFilmoCategory(this);">
+<span id="hide-soundtrack" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-soundtrack" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="soundtrack">Soundtrack</a> (8 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="soundtrack-tt0386569">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0386569/?ref_=_1"
+>Karaoke Revolution</a></b>
+(Video Game) (as Joseph McNichol, "Every Morning")
+<br/>
+</div>
+<div class="filmo-row even" id="soundtrack-tt0265808">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0265808/?ref_=_2"
+>Stealing Harvard</a></b>
+(writer: "Disasterpiece" - as Joseph Nichol)
+<br/>
+</div>
+<div class="filmo-row odd" id="soundtrack-tt0267913">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0267913/?ref_=_3"
+>Scooby-Doo</a></b>
+(writer: "Words to Me" - as J. Nichol)
+<br/>
+</div>
+<div class="filmo-row even" id="soundtrack-tt0200550">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0200550/?ref_=_4"
+>Coyote Ugly</a></b>
+(writer: "Fly (Without Supercat)" - as Joseph "McG" Nichol)
+<br/>
+</div>
+<div class="filmo-row odd" id="soundtrack-tt0163651">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0163651/?ref_=_5"
+>American Pie</a></b>
+(writer: "Glory" - as Joseph "MCG" Nichol)
+<br/>
+</div>
+<div class="filmo-row even" id="soundtrack-tt0120890">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0120890/?ref_=_6"
+>Wild Things</a></b>
+(writer: "Hold Your Eyes" - as Joseph Nichol)
+<br/>
+</div>
+<div class="filmo-row odd" id="soundtrack-tt0120082">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0120082/?ref_=_7"
+>Scream 2</a></b>
+(writer: "Rivers")
+<br/>
+</div>
+<div class="filmo-row even" id="soundtrack-tt0119109">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0119109/?ref_=_8"
+>Fathers' Day</a></b>
+(producer: "Speed Home California")
+<br/>
+</div>
+</div>
+<div id="filmo-head-actor" class="head" data-category="actor" onclick="toggleFilmoCategory(this);">
+<span id="hide-actor" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-actor" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="actor">Actor</a> (1 credit)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="actor-tt2065999">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt2065999/?ref_=nm_flmg_act_1"
+>Lil' Blake</a></b>
+(Short)
+<br/>
+</div>
+</div>
+<div id="filmo-head-music_department" class="head" data-category="music_department" onclick="toggleFilmoCategory(this);">
+<span id="hide-music_department" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-music_department" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="music_department">Music department</a> (1 credit)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="music_department-tt0305357">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0305357/?ref_=nm_flmg_msdp_1"
+>Charlie's Angels: Full Throttle</a></b>
+(executive soundtrack producer)
+<br/>
+</div>
+</div>
+<div id="filmo-head-thanks" class="head" data-category="thanks" onclick="toggleFilmoCategory(this);">
+<span id="hide-thanks" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-thanks" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="thanks">Thanks</a> (3 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="thanks-tt1564062">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1564062/?ref_=nm_flmg_tk_1"
+>Terminator Salvation, Behind the Scenes: Reforging the Future</a></b>
+(Video documentary short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt0388008">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0388008/?ref_=nm_flmg_tk_2"
+>Dream Duds</a></b>
+(Video documentary short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row odd" id="thanks-tt0384127">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0384127/?ref_=nm_flmg_tk_3"
+>Getting G'd Up</a></b>
+(Video documentary short) (special thanks)
+<br/>
+</div>
+</div>
+<div id="filmo-head-self" class="head" data-category="self" onclick="toggleFilmoCategory(this);">
+<span id="hide-self" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-self" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="self">Self</a> (32 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="self-tt3483982">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt3483982/?ref_=nm_flmg_slf_1"
+>FX Movie Download</a></b>
+(TV Series)
+<br/>
+Himself - Guest
+<div class="filmo-episodes">
+- <a href="/title/tt4145280/?ref_=nm_flmg_slf_1"
+>This Means War</a>
+(2014)
+... Himself - Guest
+</div>
+</div>
+<div class="filmo-row even" id="self-tt3680254">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt3680254/?ref_=nm_flmg_slf_2"
+>Britain's Favourite Detectives</a></b>
+(TV Movie documentary)
+<br/>
+Himself - Director, Charlie's Angels Movies
+</div>
+<div class="filmo-row odd" id="self-tt3638726">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt3638726/?ref_=nm_flmg_slf_3"
+>Top 40 Ultimate Action Movies</a></b>
+(TV Movie documentary)
+<br/>
+Himself - Hollywood Director
+</div>
+<div class="filmo-row even" id="self-tt1002838">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt1002838/?ref_=nm_flmg_slf_4"
+>Chelsea Lately</a></b>
+(TV Series)
+<br/>
+Himself - Guest
+<div class="filmo-episodes">
+- <a href="/title/tt3490876/?ref_=nm_flmg_slf_4"
+>Episode #8.22</a>
+(2014)
+... Himself - Guest
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1245693">
+<span class="year_column">
+&nbsp;2009-2013
+</span>
+<b><a href="/title/tt1245693/?ref_=nm_flmg_slf_5"
+>Made in Hollywood: Teen Edition</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2751082/?ref_=nm_flmg_slf_5"
+>Directing 7</a>
+(2013)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1544754/?ref_=nm_flmg_slf_5"
+>Directing 4</a>
+(2009)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0911896">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt0911896/?ref_=nm_flmg_slf_6"
+>Made in Hollywood</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2225189/?ref_=nm_flmg_slf_6"
+>Episode #7.17</a>
+(2012)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0305056">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt0305056/?ref_=nm_flmg_slf_7"
+>Last Call with Carson Daly</a></b>
+(TV Series)
+<br/>
+Himself - Guest
+<div class="filmo-episodes">
+- <a href="/title/tt2109453/?ref_=nm_flmg_slf_7"
+>Episode dated 15 November 2011</a>
+(2011)
+... Himself - Guest
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1574548">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1574548/?ref_=nm_flmg_slf_8"
+>Celebrity Shock List 2009</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1564062">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1564062/?ref_=nm_flmg_slf_9"
+>Terminator Salvation, Behind the Scenes: Reforging the Future</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt2226577">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt2226577/?ref_=nm_flmg_slf_10"
+>Terminator Salvation: Maximum Movie Mode</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0111920">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt0111920/?ref_=nm_flmg_slf_11"
+>Cinema 3</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1450823/?ref_=nm_flmg_slf_11"
+>Episode dated 6 June 2009</a>
+(2009)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1434322">
+<span class="year_column">
+&nbsp;2008-2009
+</span>
+<b><a href="/title/tt1434322/?ref_=nm_flmg_slf_12"
+>Up Close with Carrie Keagan</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1441036/?ref_=nm_flmg_slf_12"
+>Episode dated 20 May 2009</a>
+(2009)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1469840/?ref_=nm_flmg_slf_12"
+>Episode dated 11 November 2008</a>
+(2008)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0081857">
+<span class="year_column">
+&nbsp;2008-2009
+</span>
+<b><a href="/title/tt0081857/?ref_=nm_flmg_slf_13"
+>Entertainment Tonight</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1440854/?ref_=nm_flmg_slf_13"
+>Episode dated 19 May 2009</a>
+(2009)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1369927/?ref_=nm_flmg_slf_13"
+>Episode dated 3 February 2009</a>
+(2009)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1335002/?ref_=nm_flmg_slf_13"
+>Episode dated 9 December 2008</a>
+(2008)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1335001/?ref_=nm_flmg_slf_13"
+>Episode dated 8 December 2008</a>
+(2008)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1335000/?ref_=nm_flmg_slf_13"
+>Episode dated 5 December 2008</a>
+(2008)
+... Himself
+</div>
+<div id="more-episodes-tt0081857-self" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="7"
+onclick="toggleSeeMoreEpisodes(this,'nm0629334','tt0081857','self',12); return false;">Show all 7 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0463399">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0463399/?ref_=nm_flmg_slf_14"
+>E! True Hollywood Story</a></b>
+(TV Series documentary)
+<br/>
+Herself
+<div class="filmo-episodes">
+- <a href="/title/tt2173064/?ref_=nm_flmg_slf_14"
+>Drew Barrymore</a>
+(2007)
+... Herself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0934911">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0934911/?ref_=nm_flmg_slf_15"
+>MovieReal: We Are Marshall</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0875887">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0875887/?ref_=nm_flmg_slf_16"
+>Fuse Celebrity Playlist</a></b>
+(TV Series)
+<br/>
+Guest-Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1042415/?ref_=nm_flmg_slf_16"
+>We Are Marshall</a>
+(2006)
+... Guest-Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0934935">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0934935/?ref_=nm_flmg_slf_17"
+>Return of the Thundering Herd: The Story That Inspired 'We Are Marshall'</a></b>
+(Video documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0390776">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0390776/?ref_=nm_flmg_slf_18"
+>Shootout</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0870598/?ref_=nm_flmg_slf_18"
+>Episode #3.8</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0437729">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0437729/?ref_=nm_flmg_slf_19"
+>The Late Late Show with Craig Ferguson</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0626255/?ref_=nm_flmg_slf_19"
+>Episode #2.26</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0192906">
+<span class="year_column">
+&nbsp;2003-2004
+</span>
+<b><a href="/title/tt0192906/?ref_=nm_flmg_slf_20"
+>The Late Late Show with Craig Kilborn</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0626788/?ref_=nm_flmg_slf_20"
+>Episode dated 8 November 2004</a>
+(2004)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0626670/?ref_=nm_flmg_slf_20"
+>Episode dated 20 June 2003</a>
+(2003)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0361227">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0361227/?ref_=nm_flmg_slf_21"
+>Punk'd</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0680527/?ref_=nm_flmg_slf_21"
+>Episode #2.3</a>
+(2003)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0405133">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0405133/?ref_=nm_flmg_slf_22"
+>The Making of 'Charlie's Angels: Full Throttle'</a></b>
+(TV Short documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0364913">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0364913/?ref_=nm_flmg_slf_23"
+>2003 MTV Movie Awards</a></b>
+(TV Special)
+<br/>
+Himself ("Charlie's Angels" skit)
+</div>
+<div class="filmo-row even" id="self-tt0318220">
+<span class="year_column">
+&nbsp;2000-2003
+</span>
+<b><a href="/title/tt0318220/?ref_=nm_flmg_slf_24"
+>HBO First Look</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0594825/?ref_=nm_flmg_slf_24"
+>The Making of 'Charlie's Angels: Full Throttle'</a>
+(2003)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1076404/?ref_=nm_flmg_slf_24"
+>The Making of 'Charlie's Angels'</a>
+(2000)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0388076">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0388076/?ref_=nm_flmg_slf_25"
+>Full Throttle Jukebox</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0483853">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0483853/?ref_=nm_flmg_slf_26"
+>Hollywood, Inc.</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1518996/?ref_=nm_flmg_slf_26"
+>The Battle of the Blockbusters</a>
+(2002)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0407534">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0407534/?ref_=nm_flmg_slf_27"
+>The Art of Action: Martial Arts in Motion Picture</a></b>
+(TV Movie documentary)
+<br/>
+Himself - Interviewee
+</div>
+<div class="filmo-row even" id="self-tt0383878">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0383878/?ref_=nm_flmg_slf_28"
+>Angelic Attire: Dressing Cameron, Drew & Lucy</a></b>
+(Video documentary short)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row odd" id="self-tt0383879">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0383879/?ref_=nm_flmg_slf_29"
+>Angelic Effects</a></b>
+(Video documentary short)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row even" id="self-tt0384127">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0384127/?ref_=nm_flmg_slf_30"
+>Getting G'd Up</a></b>
+(Video documentary short)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row odd" id="self-tt0384322">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0384322/?ref_=nm_flmg_slf_31"
+>The Master and the Angels</a></b>
+(Video documentary short)
+<br/>
+Himself - Director
+</div>
+<div class="filmo-row even" id="self-tt0384682">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0384682/?ref_=nm_flmg_slf_32"
+>Welcome to Angel World</a></b>
+(Video documentary short)
+<br/>
+Himself - Director
+</div>
+</div>
+</div>            </div> 
+                    
+    
+        <div class="article">
+        
+        <h2>Related Videos</h2>
+    <div class="mediastrip_big">
+                <span class="video_slate" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T55S" />
+
+<a href="/video/screenplay/vi1828454681?ref_=nm_rvd_vi_1"
+title="We Are Marshall -- Clip: Game day" alt="We Are Marshall -- Clip: Game day" class="video-colorbox" data-video="vi1828454681" data-context="screenplay" data-rid="0R7QFJW1MZMY9GMZJG65" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="We Are Marshall -- Clip: Game day" title="We Are Marshall -- Clip: Game day"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMTYyMjAwMDg2NV5BMl5BanBnXkFtZTcwNDY5MDg2MQ@@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAClip,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA00:55,164,1,14,36,verdenab,7,255,255,255,1_ZAWe%2520Are%2520Marshall,4,136,14,196,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi1828454681" /></a>            </span>
+                <span class="video_slate" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T4,943M11S" />
+
+<a href="/video/hulu/vi4084506137?ref_=nm_rvd_vi_2"
+title="Last Call with Carson Daly -- Trentemoller takes the stage at the Fonda again to perform another song, Even Though." alt="Last Call with Carson Daly -- Trentemoller takes the stage at the Fonda again to perform another song, Even Though." class=" " data-video="vi4084506137" data-context="hulu" data-rid="0R7QFJW1MZMY9GMZJG65" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="Last Call with Carson Daly -- Trentemoller takes the stage at the Fonda again to perform another song, Even Though." title="Last Call with Carson Daly -- Trentemoller takes the stage at the Fonda again to perform another song, Even Though."src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMTU1NDUwNzIyNF5BMl5BanBnXkFtZTgwMzA3NjkyNTE@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAInterview,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA4943:11,164,1,14,36,verdenab,7,255,255,255,1_ZALast%2520Call%2520with%2520Carson%2520Daly,4,136,14,196,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi4084506137" /></a>            </span>
+                <span class="video_slate_last" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T1M36S" />
+
+<a href="/video/imdb/vi2021109529?ref_=nm_rvd_vi_3"
+title="The DUFF -- Bianca is a content high school senior whose world is shattered when she learns the student body knows her as 'The DUFF' (Designated Ugly Fat Friend) to her prettier, more popular friends. Now, she puts aside the potential distraction of her crush, Toby, and enlists Wesley, a slick but charming jock, to help reinvent herself and save her senior year from turning into a total disaster." alt="The DUFF -- Bianca is a content high school senior whose world is shattered when she learns the student body knows her as 'The DUFF' (Designated Ugly Fat Friend) to her prettier, more popular friends. Now, she puts aside the potential distraction of her crush, Toby, and enlists Wesley, a slick but charming jock, to help reinvent herself and save her senior year from turning into a total disaster." class="video-colorbox" data-video="vi2021109529" data-context="imdb" data-rid="0R7QFJW1MZMY9GMZJG65" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="The DUFF -- Bianca is a content high school senior whose world is shattered when she learns the student body knows her as 'The DUFF' (Designated Ugly Fat Friend) to her prettier, more popular friends. Now, she puts aside the potential distraction of her crush, Toby, and enlists Wesley, a slick but charming jock, to help reinvent herself and save her senior year from turning into a total disaster." title="The DUFF -- Bianca is a content high school senior whose world is shattered when she learns the student body knows her as 'The DUFF' (Designated Ugly Fat Friend) to her prettier, more popular friends. Now, she puts aside the potential distraction of her crush, Toby, and enlists Wesley, a slick but charming jock, to help reinvent herself and save her senior year from turning into a total disaster."src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMjMwMjQ2NTUxOV5BMl5BanBnXkFtZTgwOTExNjU0MzE@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-bluebutton-big,BottomRight,-1,-1_ZATrailer,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA01:36,164,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,4,-2_ZAThe%2520DUFF,24,136,14,176,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi2021109529" /></a>            </span>
+    </div>
+
+                <div class="see-more">
+<a href="/name/nm0629334/videogallery?ref_=nm_rvd_vi_sm"
+>See all 12 videos</a>&nbsp;&raquo;
+                </div>
+        </div>
+    
+    </@csm.csm_widget />
+                    
+            <div class="article">
+        <span class="rightcornerlink">
+<a href="/updates?edit=nm0629334/details&ref_=nm_pdt_edt"
+> Edit
+</a>        </span>
+    <h2>Personal Details</h2>
+        <div id="details-other-works" class="see-more inline canwrap">
+                <h4 class="inline">Other Works:</h4>
+Directed Takashi Murakami's short film "Akihabara Majokko Princess", starring Kirsten Dunst.                    <span class="see-more inline">
+                        <a href="/name/nm0629334/otherworks?ref_=nm_pdt_wrk_sm"
+>See more</a> 
+                    </span>
+                    &raquo;
+        </div>
+
+            <hr/>
+        <div id="details-publicity-listings" class="see-more inline canwrap">
+            <h4 class="inline">Publicity Listings:</h4>
+    1 Interview <span class="ghost">|</span>
+    1 Article <span class="ghost">|</span>
+    1 Pictorial <span class="ghost">|</span>
+            <span class="see-more inline">
+                <a href="/name/nm0629334/publicity?ref_=nm_pdt_pub_sm"
+>See more</a>
+            </span>&raquo;
+        </div>
+    
+    
+            <hr/>
+        <div id="details-akas" class="see-more inline canwrap">
+            <h4 class="inline">Alternate Names:</h4>
+            Joseph McGinty Nichol
+        </div>
+    
+            <hr/>
+        <div id="details-height" class="see-more inline canwrap">
+            <h4 class="inline">Height:</h4>
+6'&nbsp;2"&nbsp;(1.88&nbsp;m)        </div>
+            </div> 
+                    
+            <div class="article">
+        <span class="rightcornerlink">
+<a href="/updates?edit=nm0629334/fun-facts&ref_=nm_dyk_edt"
+> Edit
+</a>        </span>
+    <h2>Did You Know?</h2>
+        <div id="dyk-personal-quote" class="see-more inline canwrap">
+                <h4 class="inline">Personal Quote:</h4>
+It's fun to hate a guy called McG. In my humble opinion it's sheer fucking lunacy because it's just short for McGinty - fucking get past it. My name is Joseph McGinty Nichol. My mother's maiden name is McGinty. My uncle was Joe, my grandfather was Joe. I was called McG since the day I was born because we were broke and there were three Joes in the house. There's no Hollywood, 'I think I'll give ...                    <span class="see-more inline">
+                        <a href="/name/nm0629334/bio?ref_=nm_dyk_qt_sm#quotes"
+>See more</a> 
+                    </span>
+                    &raquo;
+        </div>
+            <hr/>
+        <div id="dyk-trivia" class="see-more inline canwrap">
+                <h4 class="inline">Trivia:</h4>
+Won Billboard's Pop Video of the Year Award for Smashmouth's Walking on the Sun (1997).                    <span class="see-more inline">
+                        <a href="/name/nm0629334/bio?ref_=nm_dyk_trv_sm#trivia"
+>See more</a>
+                    </span>
+                    &raquo;
+        </div>
+    
+            <hr/>
+        <div id="dyk-trademark" class="see-more inline canwrap">
+
+                <h4 class="inline">Trademark:</h4>
+Lengthy tracking shots                    <span class="see-more inline">
+                        <a href="/name/nm0629334/bio?ref_=nm_dyk_tm_sm#trademark"
+>See more</a>
+                    </span>
+                    &raquo;
+        </div>
+    
+            <hr/>
+        <div id="dyk-star-sign" class="see-more inline canwrap">
+            <h4 class="inline">Star Sign:</h4>
+            <a href="/starsign/leo?ref_=nm_dyk_sign"
+>Leo</a>
+        </div>
+            </div> 
+                    
+
+    <div class="article" id="boardsTeaser">
+        <h2>Message Boards</h2>
+            Recent Posts
+            <table class="boards">
+                    <tr class="odd">
+                        <td>
+                            <a href="/name/nm0629334/board/nest/138564579?ref_=nm_bd_1"
+>Why Do People Hate McG?</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur13774527/?ref_=nm_bd_1"
+>SoDeL</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/name/nm0629334/board/nest/154214782?ref_=nm_bd_2"
+>Please decline Terminator 5, PLEASE, you suck!!!</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur12480119/?ref_=nm_bd_2"
+>chaconmcfly</a>
+                        </td>
+                    </tr>
+                    <tr class="odd">
+                        <td>
+                            <a href="/name/nm0629334/board/nest/173366980?ref_=nm_bd_3"
+>Mcg making apocolypse now 2</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur4506351/?ref_=nm_bd_3"
+>tkilgannon</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/name/nm0629334/board/nest/156294128?ref_=nm_bd_4"
+>Doesn't suck, just has the wrong job. . .</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur0212542/?ref_=nm_bd_4"
+>Mastadge</a>
+                        </td>
+                    </tr>
+                    <tr class="odd">
+                        <td>
+                            <a href="/name/nm0629334/board/nest/196146443?ref_=nm_bd_5"
+>if you dont like it......</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur16453539/?ref_=nm_bd_5"
+>pickleduck</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/name/nm0629334/board/nest/154987287?ref_=nm_bd_6"
+>If there was one franchise..</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur13174095/?ref_=nm_bd_6"
+>chrisadamz</a>
+                        </td>
+                    </tr>
+            </table>
+        <div class="see-more">
+            <a href="/name/nm0629334/board/?ref_=nm_bd_sm"
+>Discuss McG</a> on the IMDb message boards &raquo;
+        </div>
+    </div>
+                    
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_NameContributeWidget_started');
+    }
+  </script>
+
+    <div class="article contribute">
+        <div class="rightcornerlink">
+<a href="/help/?adding/&ref_=nm_cn_hlp"
+>Getting Started</a>
+            <span>|</span>
+<a href="/czone/?ref_=nm_cn_cz"
+>Contributor Zone</a>&nbsp;&raquo;</div>
+        <h2>Contribute to This Page</h2>
+
+            <div class="button-box">
+                <form method="post" action="/updates?ref_=nm_cn_edt">
+                    <input type="hidden" name="auto" value="legacy/name/nm0629334/">
+                        <button class="btn primary large" rel="login" type="submit">Edit page</button>
+                </form>
+            </div>
+        
+
+        <div class="button-box">
+            <a href="http://pro.imdb.com/widget/resume_redirect/?rf=cons_nm_contr_res&ref_=cons_nm_contr_res"
+class="btn large" >Add resume</a>
+        </div>
+    </div>
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_NameContributeWidget_finished');
+    }
+  </script>
+                    
+    </div>
+</div> 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+
+                   <br class="clear" />
+                </div>
+
+
+  <div id="footer" class="ft">
+    <hr width="100%" size=1>
+        <div id="rvi-div">
+            <div class="recently-viewed">&nbsp;</div>
+            <br class="clear">
+            <hr width="100%" size="1">
+        </div>
+	
+	<!-- no content received for slot: bottom_ad -->
+	
+    <p class="footer" align="center">
+    
+          <a href="/?ref_=ft_hm"
+>Home</a>
+        | <a href="/search?ref_=ft_sr"
+>Search</a>
+        | <a href="/a2z?ref_=ft_si"
+>Site Index</a>
+        | <a href="/movies-in-theaters/?ref_=ft_inth"
+>In Theaters</a>
+        | <a href="/movies-coming-soon/?ref_=ft_cs"
+>Coming Soon</a>
+        | <a href="/chart/?ref_=ft_cht"
+>Top Movies</a>
+        | <a href="/chart/top?ref_=ft_250"
+>Top 250</a>
+        | <a href="/sections/tv/?ref_=ft_tv"
+>TV</a>
+        | <a href="/news/?ref_=ft_nw"
+>News</a>
+        | <a href="/boards/?ref_=ft_mb"
+>Message Boards</a>
+        | <a href="/pressroom/?ref_=ft_pr"
+>Press Room</a>
+        <br>
+
+        <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=ft_reg"
+>Register</a>
+        |     <a href="/offsite/?page-action=ft_ad&token=BCYjzIQMavcEroWqdNO3x8wZh7XzLhm6azdHQiq71hjMmZfXsKscCuWkffAiRCEfW5hVEX_5BTbR%0D%0AfWZ7DAJdqXCMolmnRYJjOKzCFHa7BQGqBICfL-k1ID1yXjBmaV4aBNo7QSDVb-8lLedlvur38RYW%0D%0AZmN5uhxcWIj3DyxR7tMiPcmxVFEnOGUE9i3HSfY2dE2sl5nxJ-778N9Jov19MkqwcNJO7iM_5Yv4%0D%0A5S78OAIEKsKi69QGfYJsh02utHj8Iwgs%0D%0A" >Advertising</a>
+
+        | <a href="/helpdesk/contact?ref_=ft_con"
+>Contact Us</a>
+        | <a href="/jobs?ref_=ft_jb"
+>Jobs</a>
+        | <a href="http://pro.imdb.com/signup/index.html?rf=cons_ft_hm&ref_=cons_ft_hm"
+>IMDbPro</a>
+        |     <a href="/offsite/?page-action=ft-mojo&token=BCYj-gOdeFPFedsXXqOi2zbq_NdhhOw-8-D-RsM89HT6bP5FiurRFPUS-72_YrRahduGHQIcXmVY%0D%0AxNAzLpXzgaaJGuc7sR4MVXrP2xUqplnqez6lYeTU204067YOay2Id7lSFhmBLesPpmKP70UVv7Dz%0D%0AeoWg3q6EsBtVx-dEloUMpWfbv4yMmlmYDG6LgTzNOwmz%0D%0A" >Box Office Mojo</a>
+
+        |     <a href="/offsite/?page-action=ft-wab&token=BCYptQpb-JUQOdkuZymVkCFY_MId3lmoqRObBuJHZQtgXeYX4PMlTKOKWfJZU5CeFJ-Ju6mq-10y%0D%0A8kKm6_K6-3xrJQrzHa1ROxN-2v1O6OjBmUr_dD5z_Iws8dP_E9DdlOlHSWAYHuS0uzeXMG7Y_3Oj%0D%0As5iJ2Uct2-CS28oiVydSJtO43gW0wqRZ-Z0ljJ0p9xau%0D%0A" >Withoutabox</a>
+
+        <br /><br />
+        IMDb Mobile:
+          <a href="/apps/?ref_=ft_apps"
+>Apps</a>
+        | <a href="http://m.imdb.com?ref_=ft_mdot"
+>Mobile site</a>
+        | IMDb Social:
+              <a href="/offsite/?page-action=ft-fb&token=BCYkDf1q2_ECwkpc2oaxTI_gEL95usIN51YhFmiDVcDZLe6KpyaFIEb7w-OYK6c6iqzTzD2y_n0P%0D%0AEFx12SiFzc9bdf5HIcEtxSeem14gW6PwA8Gvm4n8r4mCfseXbnMivUFoRd1LC8xT1eR7lXcOImji%0D%0AgkPAUai1d9rZSQtYR9luUUfDsQ0Yj7GhMiRWjZxtwBuv%0D%0A" >Facebook</a>
+
+        |     <a href="/offsite/?page-action=ft-twt&token=BCYi4NqG0SGB4yPFKAYVqejEbuk0wa33_ooJp9dW91KLcTQKVhRvTWgQZSxsUBs8YmXGeMWx9-J4%0D%0AVITuBxzs4bDNd5ZBL9pT6eXsluJ57pc44N38qMKbPhLmgZaTfk0gBV7RG9ARRSWnKwQ5fzPkF-oU%0D%0ApK_UZsOJ2fCBjHJq-jzdTzg%0D%0A" >Twitter</a>
+
+       <br /><br />
+    </p>
+  
+    <p class="footer" align="center">
+        <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/show_article?conditions';"
+href="/help/show_article?conditions"
+>Copyright &copy;</a> 1990-2015 
+        <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/';"
+href="/help/"
+>IMDb.com, Inc.</a>
+        <br>
+          <a href="/help/show_article?conditions&ref_=ft_cou"
+>Conditions of Use</a>
+        | <a href="/privacy?ref_=ft_pvc"
+>Privacy Policy</a>
+        |     <a href="/offsite/?page-action=ft-iba&token=BCYnv147xSjxlAyFOPBGmg6CX87ML7oaapV6g3i1yJ8oXZlRNKplGW4hTNgS-kMz7-a1bnTGAG1T%0D%0ACXr3AQsX2iClJYX1t5GL6HIk2v6PEk9HmPkfkknRSaYOo-4fB9YS7S9mbbN00iR5dyNag7IloqTf%0D%0At90gIPs-efmN7YAcTsIj3sEgTXoSumDWS2VRrv1ZmvSC%0D%0A" >Interest-Based Ads</a>
+
+        <br>
+        An <span id="amazon_logo" class="footer_logo" align="middle"></span> company.
+    </p>
+  
+
+      
+      
+  <table class="footer" id="amazon-affiliates">
+    <tr>
+      <td colspan="8">
+        Amazon Affiliates
+      </td>
+    </tr>
+    <tr>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-aiv&token=BCYkuSvlxpWN63rdyC6OgsEX1wCY1fbZfyj0hE7w0Cu-zLnqYgbYggnyYrthZYP7GyzIu9-SbWMu%0D%0A4QQcI7KKMzsBUxwM_91WRyN1gXAS3wwyrre0gDIiFjnh2u52msnw6R-VeuISbNmtpLUIpHXUSZlB%0D%0AHeKpGZPm8wx_Jky-Ho4WQxplUP-YOlRL3XAtwr6rBbQQ3mJ0xfxyD8Xk-k5_Nnp_jGvopJqWsqtj%0D%0AjC34zBS-tk0%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Instant Video</span><br>
+          <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-piv&token=BCYlIRoaoW_lagzFuSBU6m04-s_slU52XySlRcQ67aO5pup27v6VsCcvecg77mIsbmyqflFUYjT-%0D%0APrKETuwkhYI1RHBcbEviWhIe0D05KXXDmOxeZdkDGZTTHB94KDz_3yobhNeqKktzgtT6qlHhCXYz%0D%0AIj75AXwm_TnDzkxYpWE-dvNxEPH0eCMKKMfJN8f1P6UR4zbh8EbfLGPqgLwUIDG2875aEz1xv69L%0D%0A4IvAjZqrxxc%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Prime Instant Video</span><br>
+          <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-de&token=BCYsdB_ZAmfMaYgXCEiWNveV8MCOodLGuRbn8yquIf5Pl3tXp6xmEiA4M4aBigXXkLxIK-PCsYql%0D%0AnqWGjjc51UliAuXHgE5WKzU6xEyxh_i1uLI0GQ9lk5jr0R3BhDpQcUbYGJne-Aoc59EgzbJK3njc%0D%0AdVAdI43u7Jvl-vWmWGelJsF7zE2rzbLcKFliDuKKlHWtEQHeBi73BfpPvU3qtHi-lI5Ol7X0bJom%0D%0As47Q118h3L4%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-it&token=BCYh2wtVmrPRKCLIqciZISWrsNKRtRpnHFY5716PneTZLs_ogHNgWvQHhfRqDM0H5IPbbffnejom%0D%0AUo4Squx-UdJ-zXwL9ongliyvd6FViFfETPVAsvlql1WZagCEKSorOA2W9uZFjD_3-4T1rcuddqYW%0D%0AQHVAqgRB4U8g1WAGZRpVd1oL6DQfEC2JuJJz-x6WVKMzvIYWAVSCKBIjCRkjQamcWT0cUa0fLeCp%0D%0Ahg25o5qDwyU%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-fr&token=BCYvyuB09OBXdR8emB4QpK-ft6-TfXRa7oT__TLyAdeeOhlD84KB3qeCUsKU2HCR8JlzpVtfS0Fc%0D%0AaGJmXHuMnI70H_rdE80iWTLmYroyF5ZEIOsCurFdAA4lafz3FgqZ2AJ0zNAAlT-pWq7K3FcpFz3U%0D%0AxPXKLYWF6Hafmk5qWL1dgZXfu3h6_52-4zpyDufQnanaifVkhFSN1wwzVRyWh59miHohf1Fxuv8R%0D%0AEgAYfC9KSKA%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon France</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-in&token=BCYjN9NLl2kQ9DQCsO08PTuOgffG3e05178vtCalnpfpOZ7GXEolL4BFc2IU3qDMQjJLKvWYfSnz%0D%0ATftRG1w2R6QR6nO4r48SnijYB6EKIfjTKpjYACu04FPkQj1Ftj9lYm6ZG-J3dXHMHKBuSXZM9SFq%0D%0Aja9UY5SNBPM7XSzd6eLfplhIXq-eWfZMhZmFdrALppdBAi5pr216W23TLteFsUEQK5auHBeSfqLF%0D%0AmNEqVobkMpDm8Ad4dQvmUcxkXhqLJHc3%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon India</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-dpr&token=BCYvaRmgkLhY9zureqGkJrQB4XwUWwxoKNkiP7Irwi6GbXIQBZBPAk4ZHbMwdFGK_euamitq7q7v%0D%0Arb_tTqom8fDHE8hr-KjV9mSv4H2jbZ5HYjDYP_cbyRRokk_4VV9QMj_Cucw3ORH5EI9GdcQ3EEgp%0D%0AGWG1Rmd13PVIFHH-oKbgRDsQr0VN2X2flxpnZ9_2cO8D%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">DPReview</span><br>
+          <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-aud&token=BCYsjqQCXYKVfsIE1m6Yr5_eau5r5HPdwfIgo8dvjzXObjaG9OthBfdDQO8cX4Uc_0tRlr-0f5zz%0D%0AVPe1D6Knc-KMKQD3qpu4z1bRaWAzqQJqgV07pdELpspOMQwJ8EoRLJNa0L98ccbFMQUDhlsYoKZ3%0D%0APZD4G-gRkCYrVSkFbs3FC8_dQ-X0sfibkIqkQD-GTmzD%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Audible</span><br>
+          <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span>
+</a>
+    </td>
+    </tr>
+  </table>
+  </div>
+            </div>
+        </div>
+
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/name-2693302406._CB305150263_.js"></script>
+
+<script type="text/imdblogin-js" id="login">
+jQuery(document).ready(function(){
+    window.imdb.login_lightbox("https://secure.imdb.com", "http://www.imdb.com/name/nm0629334/");
+});
+
+</script>
+
+        <script type="text/javascript">
+                jQuery(
+                         function() {
+        $("#demoReelShoveler").shoveler({
+            'buttons' : {
+                'left' : {
+                    'text' : '',
+                },
+                'right' : {
+                    'text' : '',
+                }
+            },
+            'height' : 'auto',
+            'itemsPerShovel' : 2,
+            'paginate' : false,
+            'useExternalCSS' : true,
+            'width' : '100%'
+        });
+    }
+
+                );
+                jQuery(
+                             function() {
+            var facebookTheme = (window.custom && window.custom.full_page &&
+                    window.custom.full_page.theme) ?
+                window.custom.full_page.theme : "light",
+            url = "//www.facebook.com/plugins/likebox.php?href=facebook.com%2Fimdb&width=300&height=190&connections=4&header=false&stream=false&colorscheme=" + facebookTheme,
+            like = document.getElementById('facebookIframe'),
+            twitterIframe = document.getElementById('twitterIframe');
+            if (like) {
+                like.src = url;
+            }
+            if (twitterIframe) {
+                twitterIframe.src = "http://i.media-imdb.com/images/social/twitter.html?10#imdb";
+            }
+         }
+
+                );
+                jQuery(
+                             function() {
+           var isAdvertisingThemed = !!(window.custom && window.custom.full_page && window.custom.full_page.theme),
+               url = "http://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0629334%2F&colorscheme=light",
+               like = document.getElementById('iframe_like');
+
+           if (!isAdvertisingThemed && like) {
+              like.src = url;
+              like.onload = function () { generic.monitoring.stop_timing('facebook_like_iframe', '', false); };
+           } else if (isAdvertisingThemed) {
+              $('.social_networking_like').closest('.aux-content-widget-2').hide();
+           }
+        }
+
+                );
+                jQuery(
+                     function() { $('#maindetails_sidebar_bottom').watchlistRibbon('.ribbonize'); }
+                );
+        </script>
+
+<div id="servertime" time="118"/>
+
+
+
+<script>
+    if (typeof uet == 'function') {
+      uet("be");
+    }
+</script>
+    </body>
+</html>
+

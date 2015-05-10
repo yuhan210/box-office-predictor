@@ -1,0 +1,5213 @@
+
+
+
+<!DOCTYPE html>
+<html
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+
+        
+    
+            <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
+            <script type="text/javascript">
+                var ue_mid = "A1EVAM02EL8SFB"; 
+                var ue_sn = "www.imdb.com";  
+                var ue_furl = "fls-na.amazon.com";
+                var ue_sid = "000-0000000-0000000";
+                var ue_id = "1Y75DMBPBFRGTVBCSMGE";
+                (function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-051542d0cfa6f645f8266601739de597._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);
+                if (!('CS' in window)) { window.CS = {}; }
+                    window.CS.loginSecureHost = "https://secure.imdb.com";
+            </script>
+ 
+
+        
+        <script type="text/javascript">var IMDbTimer={starttime: new Date().getTime(),pt:'java'};</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        <title>Teller - IMDb</title>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+            <link rel="canonical" href="http://www.imdb.com/name/nm0854418/" />
+            <meta property="og:url" content="http://www.imdb.com/name/nm0854418/" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        <link rel="icon" type="image/ico" href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._CB379387995_.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._CB379390718_.ico" />
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-4151659188._CB361295786_.png" rel="apple-touch-icon"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-76x76-53536248._CB361295462_.png" rel="apple-touch-icon" sizes="76x76"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-120x120-2442878471._CB361295428_.png" rel="apple-touch-icon" sizes="120x120"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-152x152-1475823641._CB361295368_.png" rel="apple-touch-icon" sizes="152x152"> 
+        <link rel="search" type="application/opensearchdescription+xml" href="http://ia.media-imdb.com/images/G/01/imdb/images/imdbsearch-3349468880._CB379388505_.xml" title="IMDb" />
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+    
+        <link rel='image_src' href="http://ia.media-imdb.com/images/M/MV5BOTg5OTIzNjQyMV5BMl5BanBnXkFtZTcwMDk0NzgyMQ@@._V1_.jpg">
+        <meta property='og:image' content="http://ia.media-imdb.com/images/M/MV5BOTg5OTIzNjQyMV5BMl5BanBnXkFtZTcwMDk0NzgyMQ@@._V1_.jpg" />
+    
+        <meta property='og:type' content="actor" />
+    <meta property='fb:app_id' content='115109575169727' />
+    
+    <meta property='og:title' content="Teller" />
+    <meta property='og:site_name' content='IMDb' />
+    <meta name="title" content="Teller - IMDb" />
+        <meta name="description" content="Teller, Producer: Penn & Teller: Bullshit!. Teller was born on February 14, 1948 in Philadelphia, Pennsylvania, USA as Raymond Joseph Teller. He is a producer and writer, known for Penn &amp; Teller: Bullshit! (2003), Fantasia/2000 (1999) and Don't Try This at Home! (1990)." />
+        <meta property="og:description" content="Teller, Producer: Penn & Teller: Bullshit!. Teller was born on February 14, 1948 in Philadelphia, Pennsylvania, USA as Raymond Joseph Teller. He is a producer and writer, known for Penn &amp; Teller: Bullshit! (2003), Fantasia/2000 (1999) and Don't Try This at Home! (1990)." />
+        <meta name="keywords" content="Biography, Photos, Awards, News, Message Boards" />
+        <meta name="request_id" content="1Y75DMBPBFRGTVBCSMGE" />
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<!-- h=ics-1a-c3-2xl-i-d3685e2f.us-east-1 -->
+
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/name-232419406._CB305190861_.css" />
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-flat-6662145._CB305190902_.css" />
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-mega-1801187020._CB325753108_.css" />
+        <noscript>
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/wheel/nojs-2627072490._CB343672767_.css">
+        </noscript>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <script  type="text/javascript">
+            // ensures js doesn't die if ads service fails.  
+            // Note that we need to define the js here, since ad js is being rendered inline after this.
+            (function(f) {
+                // Fallback javascript, when the ad Service call fails.  
+                
+                if((window.csm === undefined || window.generic === undefined || window.consoleLog === undefined)) {
+                    if (console !== undefined && console.log !== undefined) {
+                        console.log("one or more of window.csm, window.generic or window.consoleLog has been stubbed...");
+                    }
+                }
+                
+                window.csm = window.csm || { measure:f, record:f, duration:f, listen:f, metrics:{} };
+                window.generic = window.generic || { monitoring: { start_timing: f, stop_timing: f } };
+                window.consoleLog = window.consoleLog || f;
+            })(function() {});
+        </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_head_delivery_finished');
+    }
+  </script>
+        </head>
+    <body id="styleguide-v2" class="fixed">
+<script>
+    if (typeof uet == 'function') {
+      uet("bb");
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_body_delivery_started');
+    }
+  </script>
+        <div id="wrapper">
+            <div id="root" class="redesign">
+<script>
+    if (typeof uet == 'function') {
+      uet("ns");
+    }
+</script>
+<div id="nb20" class="navbarSprite">
+<div id="supertab">	
+	<!-- no content received for slot: top_ad -->
+	
+</div>
+  <div id="navbar" class="navbarSprite">
+<noscript>
+  <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-no-js-4175877511._CB379390803_.css" />
+</noscript>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-ie-470687728._CB379390980_.css"><![endif]-->
+<span id="home_img_holder">
+<a href="/?ref_=nv_home"
+title="Home" class="navbarSprite" id="home_img" ></a>  <span class="alt_logo">
+    <a href="/?ref_=nv_home"
+title="Home" >IMDb</a>
+  </span>
+</span>
+<form
+onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
+ method="get"
+ action="/find"
+ class="nav-searchbar-inner"
+ id="navbar-form"
+
+>
+  <div id="nb_search">
+    <noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+    <button id="navbar-submit-button" class="primary btn" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+    <input type="hidden" name="ref_" value="nv_sr_fn" />
+    <input type="text" autocomplete="off" value="" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more...">
+    <div class="quicksearch_dropdown_wrapper">
+      <select name="s" id="quicksearch" class="quicksearch_dropdown navbarSprite"
+              onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+        <option value="all" >All</option>
+        <option value="tt" >Titles</option>
+        <option value="ep" >TV Episodes</option>
+        <option value="nm" >Names</option>
+        <option value="co" >Companies</option>
+        <option value="kw" >Keywords</option>
+        <option value="ch" >Characters</option>
+        <option value="qu" >Quotes</option>
+        <option value="bi" >Bios</option>
+        <option value="pl" >Plots</option>
+      </select>
+    </div>
+    <div id="navbar-suggestionsearch"></div>
+  </div>
+</form>
+<div id="megaMenu">
+    <ul id="consumer_main_nav" class="main_nav">
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navTitleMenu">
+            <p class="navCategory">
+                <a href="/movies-in-theaters/?ref_=nv_tp_inth_1"
+>Movies</a>,
+                <a href="/tv/?ref_=nv_tp_tvhm_2"
+>TV</a><br />
+                & <a href="/showtimes/?ref_=nv_tp_sh_3"
+>Showtimes</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu1" class="sub_nav">
+                <div id="titleAd"></div>
+                <div class="subNavListContainer">
+                    <h5>MOVIES</h5>
+                    <ul>
+                        <li><a href="/movies-in-theaters/?ref_=nv_mv_inth_1"
+>In Theaters</a></li>
+                        <li><a href="/showtimes/?ref_=nv_mv_sh_2"
+>Showtimes & Tickets</a></li>
+                        <li><a href="/trailers/?ref_=nv_mv_tr_3"
+>Latest Trailers</a></li>
+                        <li><a href="/movies-coming-soon/?ref_=nv_mv_cs_4"
+>Coming Soon</a></li>
+                        <li><a href="/calendar/?ref_=nv_mv_cal_5"
+>Release Calendar</a></li>
+                    </ul>
+                    <h5>CHARTS & TRENDS</h5>
+                    <ul>
+                        <li><a href="/search/title?count=100&title_type=feature,tv_series,tv_movie&explore=title_type,genres,year,countries&ref_=nv_ch_mm_1"
+>Popular Movies & TV</a></li>
+                        <li><a href="/chart/?ref_=nv_ch_cht_2"
+>Box Office</a></li>
+                        <li><a href="/search/title?count=100&groups=oscar_best_picture_winners&sort=year,desc&ref_=nv_ch_osc_3"
+>Oscar Winners</a></li>
+                        <li><a href="/chart/top?ref_=nv_ch_250_4"
+>Top 250</a></li>
+                        <li><a href="/genre/?ref_=nv_ch_gr_5"
+>Most Popular by Genre</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>TV & VIDEO</h5>
+                    <ul>
+                        <li><a href="/tv/?ref_=nv_tvv_hm_1"
+>TV Home</a></li>
+                        <li><a href="/tvgrid/?ref_=nv_tvv_ls_2"
+>On Tonight</a></li>
+                        <li><a href="/watchnow/?ref_=nv_tvv_wn_3"
+>Watch Now on Amazon</a></li>
+                        <li><a href="/sections/dvd/?ref_=nv_tvv_dvd_4"
+>DVD & Blu-Ray</a></li>
+                        <li><a href="/tv/blog?ref_=nv_tvv_blog_5"
+>TV Blog</a></li>
+                    </ul>
+                    <h5>SPECIAL FEATURES</h5>
+                    <ul>
+                        <li><a href="/academymuseum/?ref_=nv_sf_am_1"
+>Academy Museum</a></li>
+                        <li><a href="/imdbpicks/?ref_=nv_sf_pks_2"
+>IMDb Picks</a></li>
+                        <li><a href="/best-of/?ref_=nv_sf_bo_3"
+>Best of 2014</a></li>
+                        <li><a href="/x-ray/?ref_=nv_sf_xray_4"
+>X-Ray for Movies & TV</a></li>
+                        <li><a href="/whattowatch/?ref_=nv_sf_wtw_5"
+>What to Watch</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNameMenu">
+            <p class="navCategory">
+                <a href="/search/name?gender=male,female&ref_=nv_tp_cel_1"
+>Celebs</a>,
+                <a href="/awards-central/?ref_=nv_tp_awrd_2"
+>Events</a><br />
+                & <a href="/media/index/rg1176148480?ref_=nv_tp_ph_3"
+>Photos</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu2" class="sub_nav">
+                <div id="nameAd"></div>
+                <div class="subNavListContainer">
+                    <h5>CELEBS</h5>
+                    <ul>
+                            <li><a href="/search/name?birth_monthday=05-02&refine=birth_monthday&ref_=nv_cel_brn_1"
+>Born Today</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_cel_nw_2"
+>Celebrity News</a></li>
+                        <li><a href="/search/name?gender=male,female&ref_=nv_cel_m_3"
+>Most Popular Celebs</a></li>
+                    </ul>
+                    <h5>PHOTOS</h5>
+                    <ul>
+                        <li><a href="/media/index/rg1176148480?ref_=nv_ph_ls_1"
+>Latest Stills</a></li>
+                        <li><a href="/media/index/rg1528338944?ref_=nv_ph_lp_2"
+>Latest Posters</a></li>
+                        <li><a href="/media/index/rg2465176320?ref_=nv_ph_lv_3"
+>Photos We Love</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>EVENTS</h5>
+                    <ul>
+                        <li><a href="/awards-central/?ref_=nv_ev_awrd_1"
+>Awards Central</a></li>
+                        <li><a href="/sundance/?ref_=nv_ev_sun_2"
+>Sundance</a></li>
+                        <li><a href="/sxsw/?ref_=nv_ev_sxsw_3"
+>SXSW Film Festival</a></li>
+                        <li><a href="/tribeca/?ref_=nv_ev_tri_4"
+>Tribeca</a></li>
+                        <li><a href="/cannes/?ref_=nv_ev_can_5"
+>Cannes</a></li>
+                        <li><a href="/comic-con/?ref_=nv_ev_comic_6"
+>Comic-Con</a></li>
+                        <li><a href="/emmys/?ref_=nv_ev_rte_7"
+>Road to the Emmys</a></li>
+                        <li><a href="/venice/?ref_=nv_ev_venice_8"
+>Venice Film Festival</a></li>
+                        <li><a href="/toronto/?ref_=nv_ev_tff_9"
+>Toronto Film Festival</a></li>
+                        <li><a href="/awards-central/?ref_=nv_ev_all_10"
+>More Popular Events</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNewsMenu">
+            <p class="navCategory">
+                <a href="/news/top?ref_=nv_tp_nw_1"
+>News</a> &<br />
+                <a href="/boards/?ref_=nv_tp_bd_2"
+>Community</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu3" class="sub_nav">
+                <div id="latestHeadlines">
+                    <div class="subNavListContainer">
+                        <h5>LATEST HEADLINES</h5>
+    <ul>
+                <li itemprop="headline">
+<a href="/news/ni58553971/?ref_=nv_nw_tn_1"
+> 'Star Wars' Standalone Film Loses Director Josh Trank
+</a><br />
+                        <span class="time">5 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni58552953/?ref_=nv_nw_tn_2"
+> Avengers: Age Of Ultron Opening Night Box Office Scores $27.6 Million
+</a><br />
+                        <span class="time">13 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni58552924/?ref_=nv_nw_tn_3"
+> Fear The Walking Dead Casts Orange Is the New Black’s Elizabeth Rodriguez
+</a><br />
+                        <span class="time">13 hours ago</span>
+                </li>
+    </ul>
+                    </div>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>NEWS</h5>
+                    <ul>
+                        <li><a href="/news/top?ref_=nv_nw_tp_1"
+>Top News</a></li>
+                        <li><a href="/news/movie?ref_=nv_nw_mv_2"
+>Movie News</a></li>
+                        <li><a href="/news/tv?ref_=nv_nw_tv_3"
+>TV News</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_nw_cel_4"
+>Celebrity News</a></li>
+                        <li><a href="/news/indie?ref_=nv_nw_ind_5"
+>Indie News</a></li>
+                    </ul>
+                    <h5>COMMUNITY</h5>
+                    <ul>
+                        <li><a href="/boards/?ref_=nv_cm_bd_1"
+>Message Boards</a></li>
+                        <li><a href="/czone/?ref_=nv_cm_cz_2"
+>Contributor Zone</a></li>
+                        <li><a href="/games/guess?ref_=nv_cm_qz_3"
+>Quiz Game</a></li>
+                        <li><a href="/poll/?ref_=nv_cm_pl_4"
+>Polls</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navWatchlistMenu">
+<p class="navCategory singleLine watchlist">
+    <a href="/list/watchlist?ref_=nv_wl_all_0"
+>Watchlist</a>
+</p>
+<span class="downArrow"></span>
+<div id="navMenu4" class="sub_nav">
+    <h5>
+            YOUR WATCHLIST
+    </h5> 
+    <ul id="navWatchlist">
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.watchlistTeaserData = [
+                {
+                        href : "/list/watchlist",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot1_logged_out-1670046337._CB306318084_.jpg"
+                },
+                {
+                    href : "/search/title?count=100&title_type=feature,tv_series",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot2_popular-4090757197._CB306318127_.jpg"
+                },
+                {
+                    href : "/chart/top",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot3_top250-575799966._CB306318332_.jpg"
+                }
+    ];
+    </script>
+</div>
+        </li>
+        <li class="spacer"></li>
+    </ul>
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.navbarAdSlots = {
+    titleAd : {
+    },
+    nameAd : {
+    }
+}
+</script>
+</div>
+<div id="nb_extra">
+    <ul id="nb_extra_nav" class="main_nav">
+        <li class="css_nav_item" id="navProMenu">
+            <p class="navCategory">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+> <img alt="IMDbPro Menu" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_nb-720143162._CB306318304_.png" />
+</a>            </p>
+            <span class="downArrow"></span>
+            <div id="navMenuPro" class="sub_nav">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+id="proLink" > <div id="proAd">
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.proMenuTeaser = {
+imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu_user-2082544740._CB306318138_.jpg"
+};
+</script>
+</div>
+<div class="subNavListContainer">
+<img alt="Go to IMDbPro" title="Go to IMDbPro" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_menu-2185879182._CB306318245_.png" />
+<h5>GET INFORMED</h5>
+<p>Industry information at your fingertips</p>
+<h5>GET CONNECTED</h5>
+<p>Over 200,000 Hollywood insiders</p>
+<h5>GET DISCOVERED</h5>
+<p>Enhance your IMDb Page</p>
+<p><strong>Go to IMDbPro &raquo;</strong></p>
+</div>
+</a>            </div>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/apps/?ref_=nb_app"
+>IMDb Apps</a>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/help/?ref_=nb_hlp"
+>Help</a>
+        </li>
+    </ul>
+</div>
+<div id="nb_personal">
+    <ul id="consumer_user_nav" class="main_nav">
+
+        <li class="css_nav_menu" id="navUserMenu">
+            <p class="navCategory singleLine">
+                <a href="/register/login?ref_=nv_usr_lgin_1"
+rel="login" id="nblogin" >Login</a>
+            </p>
+            <span class="downArrow"></span>
+            <div class="sub_nav">
+                <div class="subNavListContainer">
+                    <br />
+                    <ul>
+                        <li>
+                            <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=nv_usr_reg_2"
+>Register</a>
+                        </li>
+                        <li>
+                            <a href="/register/login?ref_=nv_usr_lgin_3"
+rel="login" id="nblogin" >Login</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
+  </div>
+</div>
+	
+	<!-- no content received for slot: navstrip -->
+	
+	
+	<!-- no content received for slot: injected_navstrip -->
+	
+<script>
+    if (typeof uet == 'function') {
+      uet("ne");
+    }
+</script>
+                    <div id="pagecontent" itemscope itemtype="http://schema.org/Person">
+	
+	<!-- no content received for slot: injected_billboard -->
+	
+
+<div id="content-2-wide" class="redesign">
+
+    <div class="maindetails_center" id="maindetails_center_top">
+
+                    
+                    
+        
+
+            <div class="article name-overview">
+
+    
+    <div id="name-overview-widget">
+        <table cellspacing="0" cellpadding="0" border="0" id="name-overview-widget-layout">
+            <tbody>
+                <tr>
+                    <td rowspan="2" id="img_primary">
+                        <div class="image">
+<a href="/media/rm2826607872/nm0854418?ref_=nm_ov_ph"
+> <img id="name-poster"
+height="317"
+width="214"
+alt="Teller Picture"
+title="Teller Picture"
+src="http://ia.media-imdb.com/images/M/MV5BOTg5OTIzNjQyMV5BMl5BanBnXkFtZTcwMDk0NzgyMQ@@._V1_SY317_CR18,0,214,317_AL_.jpg"
+itemprop="image" />
+</a>                                
+                         
+                        </div> 
+                    </td>
+                    
+                    <td id="overview-top">
+
+
+
+
+        
+
+            <div id="prometer_container">
+                <div id="prometer" class="meter-collapsed down">
+                    <div id="meterHeaderBox">
+                        <div class="meterToggleOnHover">STARmeter</div>
+<a href="http://pro.imdb.com/name/nm0854418?rf=cons_nm_meter&ref_=cons_nm_meter"
+id="meterRank" >SEE RANK</a>
+                    </div>
+                    <div id="meterChangeRow" class="meterToggleOnHover">
+                            <span>Down</span>
+                        <span id="meterChange">1,340</span>
+                        <span>this week</span>
+                    </div>
+                    <div id="meterSeeMoreRow" class="meterToggleOnHover">
+<a href="http://pro.imdb.com/name/nm0854418?rf=cons_nm_meter&ref_=cons_nm_meter"
+>View rank on IMDbPro</a>
+                        <span>&raquo;</span>
+                    </div>
+                </div>
+            </div>
+                        
+    <h1 class="header"> <span class="itemprop" itemprop="name">Teller</span> 
+        
+        
+    </h1>
+    
+        <div class="infobar" id="name-job-categories">
+            
+            
+<a href="#producer"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Producer</span></a>                 <span class="ghost">|</span> 
+            
+            
+<a href="#writer"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Writer</span></a>                 <span class="ghost">|</span> 
+            
+            
+<a href="#actor"
+onclick="nameJobCategoriesClickHandler(this)" > <span class="itemprop" itemprop="jobTitle">
+Actor</span></a>            
+        </div>
+    
+        <hr/>
+                        
+<div class="txt-block" id="name-bio-text">
+        <div class="name-trivia-bio-text">
+                      <div class="inline" itemprop="description">
+Teller was born on February 14, 1948 in Philadelphia, Pennsylvania, USA as Raymond Joseph Teller. He is a producer and writer, known for <a href="/title/tt0346369?ref_=nm_ov_bio_lk1">Penn &amp; Teller: Bullshit!</a> (2003), <a href="/title/tt0120910?ref_=nm_ov_bio_lk2">Fantasia/2000</a> (1999) and <a href="/title/tt0099451?ref_=nm_ov_bio_lk3">Don't Try This at Home!</a> (1990).            <span class="see-more inline nobr-only">
+                    <a href="/name/nm0854418/bio?ref_=nm_ov_bio_sm"
+>See full bio</a> &raquo;
+            </span>
+</div>        </div>
+</div>
+
+                        
+    <div id="name-born-info" class="txt-block">
+        <h4 class="inline">Born:</h4> 
+<a href="/name/nm0854418/bio?ref_=nm_ov_bth_nm"
+> Raymond Joseph Teller
+</a>            <br />
+   
+  <time datetime="1948-2-14" itemprop="birthDate">
+<a href="/search/name?birth_monthday=2-14&refine=birth_monthday&ref_=nm_ov_bth_monthday"
+>February 14</a>, 
+     
+<a href="/search/name?birth_year=1948&ref_=nm_ov_bth_year"
+>1948</a>    
+  </time>
+            in
+            <a href="/search/name?birth_place=Philadelphia,+Pennsylvania,+USA&ref_=nm_ov_bth_place"
+>Philadelphia, Pennsylvania, USA</a>
+    </div>
+
+                        
+                        
+                   </td>
+                <tr>
+                   <td id="overview-middle">
+        <div id="name-pro-info" class="pro-list">
+            <span class="pro-list-title"><a href="http://pro.imdb.com/name/nm0854418?rf=cons_nm_more&ref_=cons_nm_more"
+>More at IMDbPro</a> &raquo;</span>
+<a href="http://pro.imdb.com/name/nm0854418/agent?rf=cons_nm_contact&ref_=cons_nm_contact"
+><img class="absmiddle" width="13" height="13" src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/phone-375450651._CB379390030_.png" alt="Contact Info on IMDbPro"/></a>                <strong>Contact Info:</strong>
+<a href="http://pro.imdb.com/name/nm0854418/agent?rf=cons_nm_contact&ref_=cons_nm_contact"
+> View agent and manager
+</a><br />
+            
+            
+<a href="http://pro.imdb.com/name/nm0854418?rf=cons_nm_photo&ref_=cons_nm_photo"
+><img class="absmiddle" width="13" height="13" src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/profile-152317997._CB379391798_.png" alt="Add or change photos on IMDbPro"/ ></a>                <strong>Represent Teller?</strong> <a href="http://pro.imdb.com/name/nm0854418?rf=cons_nm_photo&ref_=cons_nm_photo"
+>Add or change photos</a>
+        </div>
+                        
+                   </td>
+                </tr>
+            </tbody>
+        </table>
+        
+    
+        <div class="mediastrip_container">
+        <div class="mediastrip">
+                
+<a href="/media/rm466417408/nm0854418?ref_=nm_phs_md_1"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Still of Penn Jillette and Teller in Penn &amp; Teller: Fool Us (2010)" title="Still of Penn Jillette and Teller in Penn &amp; Teller: Fool Us (2010)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjExMzY2NDM4NV5BMl5BanBnXkFtZTgwNTY0NTI1NTE@._V1_SY99_CR21,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm298645248/nm0854418?ref_=nm_phs_md_2"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Still of Penn Jillette and Teller in Penn &amp; Teller: Fool Us (2010)" title="Still of Penn Jillette and Teller in Penn &amp; Teller: Fool Us (2010)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTk0Njc0OTMwMl5BMl5BanBnXkFtZTgwNDU0NTI1NTE@._V1_SY99_CR21,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm2370210048/nm0854418?ref_=nm_phs_md_3"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Still of Penn Jillette and Teller in Top Chef (2006)" title="Still of Penn Jillette and Teller in Top Chef (2006)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTgyNTQwMjA1N15BMl5BanBnXkFtZTcwMTI0NjU4Mg@@._V1_SY99_CR25,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm1672336128/nm0854418?ref_=nm_phs_md_4"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Still of Teller and Tim Jenison in Tim's Vermeer (2013)" title="Still of Teller and Tim Jenison in Tim's Vermeer (2013)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTQzNTYwNDc3OF5BMl5BanBnXkFtZTgwNjgyNzU2MDE@._V1_SY99_CR25,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm363830016/nm0854418?ref_=nm_phs_md_5"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Jeff Sackman and Teller at event of The Aristocrats (2005)" title="Jeff Sackman and Teller at event of The Aristocrats (2005)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjAzODU3ODk0OV5BMl5BanBnXkFtZTYwNTYwMTQ0._V1_SX99_CR0,0,99,99_AL_.jpg" itemprop='image' /></a>                
+<a href="/media/rm2353432832/nm0854418?ref_=nm_phs_md_6"
+itemprop='thumbnailUrl'><img height="99" width="99" alt="Still of Penn Jillette, Padma Lakshmi, Teller and Michelle Bernstein in Top Chef (2006)" title="Still of Penn Jillette, Padma Lakshmi, Teller and Michelle Bernstein in Top Chef (2006)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTYyNTE5NTU0OV5BMl5BanBnXkFtZTcwMzI0NjU4Mg@@._V1_SY99_CR25,0,99,99_AL_.jpg" itemprop='image' /></a>        </div>
+            
+            <div class="see-more">
+<a href="/name/nm0854418/mediaindex?ref_=nm_phs_md_sm"
+><span class="titlePageSprite showAllVidsAndPics"></span></a>
+<a href="/name/nm0854418/mediaindex?ref_=nm_phs_md_sm"
+>23 photos</a>                
+<span class="ghost">|</span>        
+<a href="/name/nm0854418/videogallery?ref_=nm_phs_vi"
+>41 videos</a>                
+<span class="ghost">|</span>        
+<a href="/name/nm0854418/news?ref_=nm_phs_nw"
+>319 news articles</a> &raquo;            </div>
+        </div>
+        
+    </div>
+
+            </div> 
+
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_main');
+    }
+  </script>
+                    
+<script>
+    if (typeof uet == 'function') {
+      uet("cf");
+    }
+</script>
+    </div> 
+    <div id="maindetails_sidebar_bottom" class="maindetails_sidebar" data-caller-name="name-main">
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_sidebar');
+    }
+  </script>
+
+	
+	<!-- no content received for slot: top_rhs -->
+	
+
+                    
+                    
+
+    
+    
+    <div class="aux-content-widget-3 links subnav" div="quicklinks">
+
+            <h3>Quick Links</h3>
+
+
+        <div id="maindetails_quicklinks">
+                <div class="split_0">    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/bio?ref_=nm_ql_1"
+class="link" >Biography</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/awards?ref_=nm_ql_2"
+class="link" >Awards</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/board/?ref_=nm_ql_3"
+class="link" >Message Boards</a>
+                    </span>
+                </li>
+    </ul>
+</div>
+                <div class="split_1">    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/mediaindex?ref_=nm_ql_4"
+class="link" >Photo Gallery</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/?nmdp=1&ref_=nm_ql_5#filmography"
+class="link" >Filmography <span class="ghost quicklink_modifier">(by Job)</span></a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/videogallery?ref_=nm_ql_6"
+class="link" >Trailers and Videos</a>
+                    </span>
+                </li>
+    </ul>
+</div>
+        </div>
+        <hr/>
+
+        <div id="full_subnav">
+
+
+        <h4>Filmography</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=year&explore=title_type&role=nm0854418&ref_=nm_ql_flmg_1"
+class="link" ><span class="ghost">by</span> Year</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/?nmdp=1&ref_=nm_ql_flmg_2#filmography"
+class="link" ><span class="ghost">by</span> Job</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=user_rating&explore=title_type&role=nm0854418&ref_=nm_ql_flmg_3"
+class="link" ><span class="ghost">by</span> Ratings</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=num_votes&explore=title_type&role=nm0854418&ref_=nm_ql_flmg_4"
+class="link" ><span class="ghost">by</span> Votes</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=moviemeter&explore=genres&role=nm0854418&ref_=nm_ql_flmg_5"
+class="link" ><span class="ghost">by</span> Genre</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/filmosearch?sort=moviemeter&explore=keywords&role=nm0854418&ref_=nm_ql_flmg_6"
+class="link" ><span class="ghost">by</span> Keyword</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Personal Details</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/bio?ref_=nm_ql_pdtls_1"
+class="link" >Biography</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/otherworks?ref_=nm_ql_pdtls_2"
+class="link" >Other Works</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/publicity?ref_=nm_ql_pdtls_3"
+class="link" >Publicity Listings</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/officialsites?ref_=nm_ql_pdtls_4"
+class="link" >Official Sites</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/agent?ref_=nm_ql_pdtls_5"
+class="link" >Contact Info <span class="ghost quicklink_modifier">(IMDbPro)</span></a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Did You Know?</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/bio?ref_=nm_ql_dyk_1#quotes"
+class="link" >Personal Quotes</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/bio?ref_=nm_ql_dyk_2#trivia"
+class="link" >Trivia </a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/bio?ref_=nm_ql_dyk_3#trademark"
+class="link" >Trademark</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Photo & Video</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/mediaindex?ref_=nm_ql_pv_1"
+class="link" >Photo Gallery</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/videogallery?ref_=nm_ql_pv_2"
+class="link" >Trailers and Videos</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Opinion</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/awards?ref_=nm_ql_op_1"
+class="link" >Awards</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/board/?ref_=nm_ql_op_2"
+class="link" >Message Boards</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Related Items</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/workedwith?ref_=nm_ql_rel_1"
+class="link" >Credited With</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/nowshowing?ref_=nm_ql_rel_2"
+class="link ghost" >TV Schedule</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/news?ref_=nm_ql_rel_3"
+class="link" >NewsDesk</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="/name/nm0854418/externalsites?ref_=nm_ql_rel_4"
+class="link" >External Sites</a>
+                    </span>
+                </li>
+    </ul>
+
+
+        <h4>Professional Services</h4>
+    <ul class="quicklinks">
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/widget/resume_redirect/?ref_=nm_ql_pro_1"
+class="link" >Promote yourself with a resume</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/name/nm0854418?ref_=nm_ql_pro_2"
+class="link" >Add or change photos</a>
+                    </span>
+                </li>
+                <li class="subnav_item_main">
+                    <span class="nobr-only">
+<a href="http://pro.imdb.com/name/nm0854418?ref_=nm_ql_pro_3"
+class="link" >Get more at IMDbPro</a>
+                    </span>
+                </li>
+    </ul>
+            <hr/>
+        </div>
+
+        <div class="show_more"><span class="titlePageSprite arrows show"></span>Explore More</div>
+        <div class="show_less"><span class="titlePageSprite arrows hide"></span>Show Less</div>
+    </div>
+
+                    
+        <div class="aux-content-widget-2">
+        <span class="ab_widget"
+        >
+            <div class="ab_ninja ">
+<span class="ninja_header"> <span class="oneline"> <a href="/imdbpicks/?ref_=nm_pks_hd" > <h3>IMDb Picks: May</h3> </a> </span> </span> <p class="blurb">Visit our IMDb Picks section to see our recommendations of movies and TV shows coming out in May, sponsored by COVERGIRL.</p> <div class="ninja_image_pack"> <div class="ninja_center"> <div class="ninja_image first_image last_image" style="width:100%;height:auto;" > <div style="width:100%;height:auto;margin:0 auto;"> <div class="widget_image"> <div class="image"> <a href="/imdbpicks/?ref_=nm_pks_i_1" > <img itemprop="image" class="pri_image" title="Still of Matt Dillon, Juliette Lewis and Liane Hentscher in Wayward Pines (2015)" alt="Still of Matt Dillon, Juliette Lewis and Liane Hentscher in Wayward Pines (2015)" src="http://ia.media-imdb.com/images/M/MV5BMTY5OTc4NzA1N15BMl5BanBnXkFtZTgwMDE0MDM5NDE@._V1_SY525_CR44,0,700,525_AL_.jpg" data-src-x2="http://ia.media-imdb.com/images/M/MV5BMTY5OTc4NzA1N15BMl5BanBnXkFtZTgwMDE0MDM5NDE@._V1_SY525_CR44,0,700,525_AL_.jpg" /> </a> <div class="widget_caption caption_overlay"> <div class="primary"> <div class="onoverflow"> <a href="/imdbpicks/?ref_=nm_pks_cap_pri_1" > Wayward Pines </a> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div> <p class="seemore position_bottom"> <a href="/imdbpicks/?ref_=nm_pks_sm" >Visit the IMDb Picks section</a> </p> </div>    </div>
+
+        </span>
+        </div>
+
+            <div class="aux-content-widget-2">
+    <h4>Teller on Twitter</h4>
+    <div class="yesScript twitter-div">
+        <iframe allowtransparency="true" frameborder="0" scrolling="no" 
+            class="twitter-iframe" id="name-twitter-iframe">
+        </iframe>
+    </div>
+            </div>
+
+                    
+
+  <div class="aux-content-widget-2" id="social-share-widget"> 
+    
+    <div class="social">
+      <div class="social_networking"> 
+       <span><strong>Share</strong> this page:</span>
+  <a onclick="window.open(&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0854418%2F&quot;, 'newWindow', 'width=626, height=436'); return false;" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0854418%2F" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
+  <a onclick="window.open(&quot;http://twitter.com/intent/tweet?text=Teller%20-%20http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0854418%2F&quot;, 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/intent/tweet?text=Teller%20-%20http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0854418%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
+  <a onclick="$('div.social input[name=share-link]').show().select(); return false;" title="Share the page" class="share_icon share_url_link" href="http://www.imdb.com/name/nm0854418/"></a>
+      </div>
+      <input type="text" name="share-link" value="http://www.imdb.com/name/nm0854418/" readonly>
+    </div>
+  <script type="text/javascript">generic.monitoring.start_timing("facebook_like_iframe");</script>
+  <div class="social_networking_like">
+    <iframe
+      id="iframe_like"
+      name="fbLikeIFrame_0"
+      class="social-iframe"
+      scrolling="no"
+      frameborder="0"
+      allowTransparency="allowTransparency"
+      ref="http://www.imdb.com/name/nm0854418/"
+      width=280
+      height=65></iframe>
+  </div>
+  </div>
+
+                    
+
+	
+	<!-- no content received for slot: rhs_cornerstone -->
+	
+
+                    
+
+
+      <div class="aux-content-widget-2" >
+        <h3>Related News</h3>
+
+        
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm0854418/news?ref_=nm_nwr_1#ni58498685"
+>Shailene Woodley, ‘Fault in Our Stars’ Dominate at MTV Movie Awards</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  12 April 2015 10:40 PM, EDT
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0052792?ref_=nm_nwr_1"
+>Variety - TV News</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item even" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm0854418/news?ref_=nm_nwr_2#ni58498678"
+>Shailene Woodley, ‘Fault in Our Stars’ Dominate at MTV Movie Awards</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  12 April 2015 10:40 PM, EDT
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0052791?ref_=nm_nwr_2"
+>Variety - Film News</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/name/nm0854418/news?ref_=nm_nwr_3#ni58497910"
+>Saturday Night Live, Ep. 40.18, “Taraji P. Henson/Mumford & Sons” kicks into gear in second half</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  12 April 2015 3:07 PM, EDT
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0000262?ref_=nm_nwr_3"
+>SoundOnSight</a>
+                                </span>
+                        </small>
+                    </div>
+       
+            <div class="see-more">
+                <a href="/name/nm0854418/news?ref_=nm_nwr_sm"
+>See all 319 related articles</a>&nbsp;&raquo;
+            </div>
+
+      </div>
+
+                    
+
+        <div class="aux-content-widget-2">
+                <h3>On Amazon Instant Video</h3>
+    <div id="on-aiv-list">
+
+                
+                
+                
+                        <div class="on-aiv-row">
+                            <div class="on-aiv-button" style="font-family:Verdana,Arial,sans-serif;font-size:11px;">
+    <a href="/offsite/?page-action=watch-aiv&token=BCYhge-9dxztsR2owm9Pdq97hSzfR7LvLww5Da01yNJVQFbtGzhJ2aFHaTRPs9lB5V0J_S-UaBEt%0D%0A3pSCGwffDQHw20IEk-az2e8bhizBLG4yL6FQY1hmIwiyXDTF84LWGE9Xmz3sp9B-X-ilMYUT8ZhW%0D%0AxN2Zmq0neKAyIP7TRljLC9GgWolgHZ47TooKmhvMJvs9-Z3l5NjtGguCyP2YDp3mqVDj6gcfNP8O%0D%0ATxuGyiisVSASm0p_0IvKloM6ECai0cbGWVy1ThKcDEwML090uv0buQ%0D%0A&ref_=nm_aiv_1"
+rel="nofollow" itemprop='url'>Watch Now</a>
+                            </div>
+                            <div class="on-aiv-title">
+                                <a href="/title/tt0346369?ref_=nm_aiv_t1"
+>Penn & Teller: Bullshit!</a>
+                            </div>
+                        </div>
+                
+                
+    </div>
+                <div class="see-more">
+                    <a href="/offsite/?page-action=watch-aiv&token=BCYksY6iSBUU-zX6DApX3_BSck6s6WgflRQkGKalbnx10h4K4jz_oFNxvQ4-9bYqc-hQhtzF81L_%0D%0AneRfZrilg-IQ5IcOF06CV4Q08xWmkRz3wOQgIWAgazMoUiZHuZ4x8qc2RNNEv163Tn0F7gCgIBjw%0D%0AqAPj7IgF-ccujR9yLjMPt2MbXoZuW-L6RrHiZ_PJms7L5Pg12XqMlhj7n-8BWNqjZVOOQc3_RzIu%0D%0AefnuMJ5aOYSBNtOmcy30tcuzvU6Gp-L34724nhUYMS7_TPiQTFQfqwJnUcsDqlM1aVVu2JW0fs8%0D%0A&ref_=nm_aiv_sm"
+>See more on Amazon Instant Video</a> &raquo;
+                </div>
+        </div>
+
+
+                    
+
+
+                    
+
+        <div class="aux-content-widget-2">
+            <div id="relatedListsWidget">
+                <div class="rightcornerlink">
+                    <a href="/list/create?ref_=nm_rls"
+>Create a list</a>&nbsp;&raquo;
+                </div>
+                <h3>User Lists</h3>
+                <p>Related lists from IMDb users</p>
+
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls003017248?ref_=nm_rls_1"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTI4ODgzNTk0NV5BMl5BanBnXkFtZTcwNjU1MjY3MQ@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls003017248?ref_=nm_rls_1"
+>The Funniest Comedians I saw Live</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 23 people
+            <br />created 22&nbsp;Aug&nbsp;2011
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview odd">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls008590732?ref_=nm_rls_2"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMjExNTQxODI0Nl5BMl5BanBnXkFtZTcwMDc0MzYyMQ@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls008590732?ref_=nm_rls_2"
+>Forest Lawn Hollywood Hills Memorial Park</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 650 people
+            <br />created 12&nbsp;Aug&nbsp;2012
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls008186609?ref_=nm_rls_3"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ1MTY2MTY2Nl5BMl5BanBnXkFtZTcwMDg1ODYwNA@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls008186609?ref_=nm_rls_3"
+>Aquarius</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 810 people
+            <br />created 26&nbsp;Aug&nbsp;2012
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview odd">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls053704124?ref_=nm_rls_4"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTMwMDAyNDY0NV5BMl5BanBnXkFtZTcwNTc5NDUxMw@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls053704124?ref_=nm_rls_4"
+>actor teachers</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 31 people
+            <br />created 30&nbsp;May&nbsp;2013
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls059865562?ref_=nm_rls_5"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/name.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTgyNDk3OTI2NF5BMl5BanBnXkFtZTcwMDA4NjU5OA@@._V1_SX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls059865562?ref_=nm_rls_5"
+>Famous Atheists</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 124 people
+            <br />created 03&nbsp;Mar&nbsp;2014
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+                <div class="see-more">
+                    <a href="/lists/nm0854418?ref_=nm_rls_sm"
+>See all related lists</a>&nbsp;&raquo;
+                </div>
+            </div>
+        </div>
+
+                    
+
+    <div class="aux-content-widget-2">
+        <h3>Do you have a demo reel?</h3>
+
+        <p>Add it to your IMDbPage</p>
+        <div class="video-browser-widget">
+             <div id="demoReelShoveler">
+
+
+<a href="/video/user/vi3091568921?ref_=nm_demo_1"
+title="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" alt="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" class="video-colorbox" data-video="vi3091568921" data-context="user" data-rid="" widget-context="nameDemoreels" itemprop="url" ><img height="90" width="120" alt="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more" title="David H. Lawrence, XVII - Drama -- On-camera drama reel featuring David H. Lawrence XVII, in scenes from Heroes, The Unit, LOST, and more"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMjI0NDMxOTE4MV5BMl5BanBnXkFtZTgwODI5MzczMzE@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZA01:21,103,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,2,-2_.jpg" itemprop='image' viconst="vi3091568921" /></a>
+
+<a href="/video/user/vi4067727897?ref_=nm_demo_2"
+title="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" alt="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" class="video-colorbox" data-video="vi4067727897" data-context="user" data-rid="" widget-context="nameDemoreels" itemprop="url" ><img height="90" width="120" alt="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+" title="My Demo Reel -- Includes clips from GLORY DAZE, COMMUNITY and horror film URBAN EXPLORER.
+"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMTcyNTgxMDMyNF5BMl5BanBnXkFtZTcwNTkxOTQ0NA@@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZA03:00,103,1,14,36,verdenab,7,255,255,255,1_.jpg" itemprop='image' viconst="vi4067727897" /></a>
+             </div>
+        </div>
+        <div id="pro_demo_reel_link">
+<a href="http://pro.imdb.com/demoreels/list?rf=cons_nm_demoreel&ref_=cons_nm_demoreel"
+>Find out more at IMDb Pro</a> &raquo;
+        </div>
+    </div>
+
+                    
+
+    <div class="aux-content-widget-2">
+        <h3>Connect with IMDb</h3>
+        <div id="facebookWrapper">
+            <iframe
+                scrolling="no"
+                frameborder="0"
+                id="facebookIframe"
+                allowTransparency="true"></iframe>
+        </div>
+        <hr>
+        <iframe allowtransparency="true"
+            frameborder="0"
+            role="presentation"
+            scrolling="no"
+            id="twitterIframe"></iframe>
+    </div>
+
+                    
+
+<div class="aux-content-widget-2 ">
+    <h3>How Much Have You Seen?</h3>
+How much of <a href="/seen/nm0854418/?ref_=nm_se"
+>Teller's work</a> have you seen?
+</div>
+
+                    
+
+<div class="aux-content-widget-2 poll-widget-rhs ">
+    <style>
+        .aux-content-widget-2.poll-widget-rhs ul li { margin-bottom: 0.5em; clear: left; font-weight: bold;}
+        .aux-content-widget-2.poll-widget-rhs span { margin-bottom: 0.5em; clear: left;}
+        .aux-content-widget-2.poll-widget-rhs img { float: left; padding: 0 5px 5px 0; height: 86px; width: 86px;}
+    </style>
+    <h3>User Polls</h3>
+    <ul>
+        <li>
+<a href="/poll/oWZWJ3416DI/?ref_=nm_po_i1"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BODM1Nzk1NzAyOV5BMl5BanBnXkFtZTYwNzYxNDc4._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/oWZWJ3416DI/?ref_=nm_po_q1"
+>Saving Mr. Banks</a>
+        <li>
+<a href="/poll/cZxXWhAeSeo/?ref_=nm_po_i2"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTQzMDYxNzUxNl5BMl5BanBnXkFtZTgwMjgxNjkxMTE@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/cZxXWhAeSeo/?ref_=nm_po_q2"
+>Advancing the Movie Industry</a>
+        <li>
+<a href="/poll/6bMiffX4iq8/?ref_=nm_po_i3"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTM1NTI3MzUwMF5BMl5BanBnXkFtZTcwMzg0Mzg3OA@@._V1_SY86_CR35,0,86,86_.jpg" /></a>        <a href="/poll/6bMiffX4iq8/?ref_=nm_po_q3"
+>What type of wizard would you like to be?</a>
+        <li>
+<a href="/poll/9odZGAlNufY/?ref_=nm_po_i4"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BODM1Nzk1NzAyOV5BMl5BanBnXkFtZTYwNzYxNDc4._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/9odZGAlNufY/?ref_=nm_po_q4"
+>Steven Spielberg's Top 10 Favorite Movies</a>
+        <li>
+<a href="/poll/OcOUgL29GEE/?ref_=nm_po_i5"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/OcOUgL29GEE/?ref_=nm_po_q5"
+>Saddest Animated Movie</a>
+        <li>
+<a href="/poll/Of2HLG5tjM0/?ref_=nm_po_i6"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="http://ia.media-imdb.com/images/M/MV5BMTk1Nzk2MDk0M15BMl5BanBnXkFtZTcwOTUyOTAyNw@@._V1_SY86_CR16,0,86,86_.jpg" /></a>        <a href="/poll/Of2HLG5tjM0/?ref_=nm_po_q6"
+>Friday Face-Off: Mickey vs. Bugs</a>
+    </ul>
+    <div class="see-more"><a href="/poll/?ref_=nm_po_sm"
+>See more polls &raquo;</a></div>
+</div>
+
+                    
+
+	
+	<!-- no content received for slot: btf_rhs2 -->
+	
+
+                    
+
+    </div>
+
+
+
+    <div id="maindetails_center_bottom" class="maindetails_center">
+                    
+            <div class="article highlighted">
+        <span itemprop="awards"><b>Nominated for 10 Primetime Emmys.</b></span>
+        <span itemprop="awards">Another 2 wins & 7 nominations.</span>
+    <span class="see-more inline">
+<a href="/name/nm0854418/awards?ref_=nm_awd"
+>See more awards</a>&nbsp;&raquo;    </span>
+            </div> 
+                    
+            <div class="article">
+<h2>Known For</h2>
+<div id="knownfor">
+<div>
+<a href="/title/tt0346369/?ref_=nm_knf_i1"
+> <img
+height="200"
+width="148"
+title="Penn & Teller: Bullshit!"
+alt="Penn & Teller: Bullshit!"
+src="http://ia.media-imdb.com/images/M/MV5BMTQxMDg0NTkzOV5BMl5BanBnXkFtZTcwNDUxNDcyMQ@@._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt0346369" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0346369/?ref_=nm_knf_t1"
+>Penn & Teller: Bullshit! (2003)</a>
+</div>
+<div>
+<a href="/title/tt0120910/?ref_=nm_knf_i2"
+> <img
+height="200"
+width="148"
+title="Fantasia/2000"
+alt="Fantasia/2000"
+src="http://ia.media-imdb.com/images/M/MV5BNzk3NDA0MDUxOV5BMl5BanBnXkFtZTgwNTQ0NjYxMTE@._V1_SX148_CR0,0,148,200_AL_.jpg"
+class="wtw-option" data-tconst="tt0120910" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0120910/?ref_=nm_knf_t2"
+>Fantasia/2000 (1999)</a>
+</div>
+<div>
+<a href="/title/tt0099451/?ref_=nm_knf_i3"
+> <img
+height="200"
+width="148"
+title="Don't Try This at Home!"
+alt="Don't Try This at Home!"
+src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/medium/tv-3264496829._CB379390658_.png"
+class="wtw-option" data-tconst="tt0099451" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0099451/?ref_=nm_knf_t3"
+>Don't Try This at Home! (1990)</a>
+</div>
+<div class="last">
+<a href="/title/tt0162110/?ref_=nm_knf_i4"
+> <img
+height="200"
+width="148"
+title="Sin City Spectacular"
+alt="Sin City Spectacular"
+src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/medium/tv-3264496829._CB379390658_.png"
+class="wtw-option" data-tconst="tt0162110" data-watchtype="icon" data-baseref="nm_knf_i"
+itemprop="image" />
+</a>  <a href="/title/tt0162110/?ref_=nm_knf_t4"
+>Sin City Spectacular (1998)</a>
+</div>
+</div>
+            </div> 
+                    
+            <div class="article">
+<div class="rightcornerlink">
+<span class="filmo-show-hide-all"
+style="display: inline;"
+onclick="showOrHideAll();">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show_mini-603933165._CB306318127_.png" alt="Show" width="14" height="12" class="absmiddle">&nbsp;Show all
+</span>
+<span class="filmo-show-hide-all"
+style="display: none;"
+onclick="showOrHideAll();">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide_mini-3743750714._CB306318255_.png" alt="Hide" width="14" height="12" class="absmiddle">&nbsp;Hide all
+</span>
+&nbsp;<span>|</span>&nbsp;
+<form name="navform" method="get" action="filmosummary" id="filmoform">
+<select name="sort" class="fixed">
+<option value="">Show by...</option>
+<option value="?nmdp=1">Job</option>
+<option value="/filmosearch?sort=year&explore=title_type&role=nm0854418">Year &raquo;</option>
+<option value="/filmosearch?sort=user_rating&explore=title_type&role=nm0854418">Ratings &raquo;</option>
+<option value="/filmosearch?sort=num_votes&explore=title_type&role=nm0854418">Votes &raquo;</option>
+<option value="/filmosearch?sort=moviemeter&explore=genres&role=nm0854418">Genre &raquo;</option>
+<option value="/filmosearch?sort=moviemeter&explore=keywords&role=nm0854418">Keyword &raquo;</option>
+</select>
+</form>
+&nbsp;<span>|</span>&nbsp;
+<a href="/updates?edit=nm0854418/filmography&ref_=nm_flmg_edt"
+> Edit
+</a> </div>
+<h2>Filmography</h2>
+<div id="jumpto">
+Jump to:
+<a href="#producer"
+onclick="handleFilmoJumpto(this);" data-category="producer">Producer</a></a>
+<span class="ghost">|</span> <a href="#writer"
+onclick="handleFilmoJumpto(this);" data-category="writer">Writer</a></a>
+<span class="ghost">|</span> <a href="#actor"
+onclick="handleFilmoJumpto(this);" data-category="actor">Actor</a></a>
+<span class="ghost">|</span> <a href="#director"
+onclick="handleFilmoJumpto(this);" data-category="director">Director</a></a>
+<span class="ghost">|</span> <a href="#miscellaneous"
+onclick="handleFilmoJumpto(this);" data-category="miscellaneous">Miscellaneous Crew</a></a>
+<span class="ghost">|</span> <a href="#editor"
+onclick="handleFilmoJumpto(this);" data-category="editor">Editor</a></a>
+<span class="ghost">|</span> <a href="#camera_department"
+onclick="handleFilmoJumpto(this);" data-category="camera_department">Camera and Electrical Department</a></a>
+<span class="ghost">|</span> <a href="#composer"
+onclick="handleFilmoJumpto(this);" data-category="composer">Composer</a></a>
+<span class="ghost">|</span> <a href="#music_department"
+onclick="handleFilmoJumpto(this);" data-category="music_department">Music department</a></a>
+<span class="ghost">|</span> <a href="#thanks"
+onclick="handleFilmoJumpto(this);" data-category="thanks">Thanks</a></a>
+<span class="ghost">|</span> <a href="#self"
+onclick="handleFilmoJumpto(this);" data-category="self">Self</a></a>
+<span class="ghost">|</span> <a href="#archive_footage"
+onclick="handleFilmoJumpto(this);" data-category="archive_footage">Archive footage</a></a>
+</div>
+<div id="filmography">
+<div id="filmo-head-producer" class="head" data-category="producer" onclick="toggleFilmoCategory(this);">
+<span id="hide-producer" class="hide-link"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-producer" class="show-link"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="producer">Producer</a> (12 credits)
+</div>
+<div class="filmo-category-section"
+>
+<div class="filmo-row odd" id="producer-tt3819676">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt3819676/?ref_=nm_flmg_prd_1"
+>Wizard Wars</a></b>
+(TV Series) (executive producer - 5 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt3996828/?ref_=nm_flmg_prd_1"
+>Birds of a Feather</a>
+(2014)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3996824/?ref_=nm_flmg_prd_1"
+>Battle of the Vegas Strip</a>
+(2014)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3996822/?ref_=nm_flmg_prd_1"
+>Blown Away</a>
+(2014)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3996812/?ref_=nm_flmg_prd_1"
+>Rated Arrrgh!</a>
+(2014)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt3983382/?ref_=nm_flmg_prd_1"
+>Spam-tastic!</a>
+(2014)
+... (executive producer)
+</div>
+</div>
+<div class="filmo-row even" id="producer-tt3467270">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3467270/?ref_=nm_flmg_prd_2"
+>The Tomb</a></b>
+(Short) (executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt3089388">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3089388/?ref_=nm_flmg_prd_3"
+>Tim's Vermeer</a></b>
+(Documentary) (executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt2331027">
+<span class="year_column">
+&nbsp;2012/II
+</span>
+<b><a href="/title/tt2331027/?ref_=nm_flmg_prd_4"
+>Play Dead</a></b>
+(executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt2050162">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt2050162/?ref_=nm_flmg_prd_5"
+>Penn & Teller Tell a Lie</a></b>
+(TV Series) (executive producer - 3 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2104570/?ref_=nm_flmg_prd_5"
+>You Can Crack a Safe with Liquid Nitrogen</a>
+(2011)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2096141/?ref_=nm_flmg_prd_5"
+>Monster Trucks vs Hook-and-Loop Fabric</a>
+(2011)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2096139/?ref_=nm_flmg_prd_5"
+>Hair Bleach Is a Rocket Fuel</a>
+(2011)
+... (executive producer)
+</div>
+</div>
+<div class="filmo-row even" id="producer-tt1825899">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1825899/?ref_=nm_flmg_prd_6"
+>Night of the Little Dead</a></b>
+(Short) (executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt1653001">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1653001/?ref_=nm_flmg_prd_7"
+>Dracula's Daughters vs. the Space Brains</a></b>
+(Short) (executive producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt1485080">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1485080/?ref_=nm_flmg_prd_8"
+>The Growth</a></b>
+(Short) (executive producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt0346369">
+<span class="year_column">
+&nbsp;
+</span>
+<b><a href="/title/tt0346369/?ref_=nm_flmg_prd_9"
+>Penn & Teller: Bullshit!</a></b>
+(TV Series documentary) (co-executive producer - 49 episodes, 2003 - 2006) (executive producer - 30 episodes, 2007 - 2009)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1502177/?ref_=nm_flmg_prd_9"
+>The Vatican</a>
+(2009)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1502175/?ref_=nm_flmg_prd_9"
+>Stress</a>
+(2009)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1502174/?ref_=nm_flmg_prd_9"
+>Lawns</a>
+(2009)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1502176/?ref_=nm_flmg_prd_9"
+>Taxes</a>
+(2009)
+... (executive producer)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1484481/?ref_=nm_flmg_prd_9"
+>Organic Foods</a>
+(2009)
+... (executive producer)
+</div>
+<div id="more-episodes-tt0346369-producer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="79"
+onclick="toggleSeeMoreEpisodes(this,'nm0854418','tt0346369','producer',8); return false;">Show all 79 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="producer-tt1316573">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1316573/?ref_=nm_flmg_prd_10"
+>& Teller</a></b>
+(Short) (producer)
+<br/>
+</div>
+<div class="filmo-row odd" id="producer-tt1316574">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1316574/?ref_=nm_flmg_prd_11"
+>& Teller 2</a></b>
+(Short) (producer)
+<br/>
+</div>
+<div class="filmo-row even" id="producer-tt0259504">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0259504/?ref_=nm_flmg_prd_12"
+>Phobophilia: The Love of Fear</a></b>
+(TV Movie) (executive producer)
+<br/>
+</div>
+</div>
+<div id="filmo-head-writer" class="head" data-category="writer" onclick="toggleFilmoCategory(this);">
+<span id="hide-writer" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-writer" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="writer">Writer</a> (19 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="writer-tt3089388">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3089388/?ref_=nm_flmg_wr_1"
+>Tim's Vermeer</a></b>
+(Documentary) (written by)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt2331027">
+<span class="year_column">
+&nbsp;2012/II
+</span>
+<b><a href="/title/tt2331027/?ref_=nm_flmg_wr_2"
+>Play Dead</a></b>
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt2050162">
+<span class="year_column">
+&nbsp;
+</span>
+<b><a href="/title/tt2050162/?ref_=nm_flmg_wr_3"
+>Penn & Teller Tell a Lie</a></b>
+(TV Series) (2 episodes, 2011) (written by - 1 episode, 2011)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt2104570/?ref_=nm_flmg_wr_3"
+>You Can Crack a Safe with Liquid Nitrogen</a>
+(2011)
+... (written by)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2096141/?ref_=nm_flmg_wr_3"
+>Monster Trucks vs Hook-and-Loop Fabric</a>
+(2011)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2096139/?ref_=nm_flmg_wr_3"
+>Hair Bleach Is a Rocket Fuel</a>
+(2011)
+</div>
+</div>
+<div class="filmo-row even" id="writer-tt0346369">
+<span class="year_column">
+&nbsp;
+</span>
+<b><a href="/title/tt0346369/?ref_=nm_flmg_wr_4"
+>Penn & Teller: Bullshit!</a></b>
+(TV Series documentary) (1 episode, 2008) (written by - 33 episodes, 2003 - 2010) (writer - 28 episodes, 2003 - 2008)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1685159/?ref_=nm_flmg_wr_4"
+>Criminal Justice</a>
+(2010)
+... (written by)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1685158/?ref_=nm_flmg_wr_4"
+>Area 51</a>
+(2010)
+... (written by)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1680957/?ref_=nm_flmg_wr_4"
+>Martial Arts</a>
+(2010)
+... (written by)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1502176/?ref_=nm_flmg_wr_4"
+>Taxes</a>
+(2009)
+... (written by)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1480498/?ref_=nm_flmg_wr_4"
+>Lie Detectors</a>
+(2009)
+... (written by)
+</div>
+<div id="more-episodes-tt0346369-writer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="62"
+onclick="toggleSeeMoreEpisodes(this,'nm0854418','tt0346369','writer',3); return false;">Show all 62 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="writer-tt1653001">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1653001/?ref_=nm_flmg_wr_5"
+>Dracula's Daughters vs. the Space Brains</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt1316573">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1316573/?ref_=nm_flmg_wr_6"
+>& Teller</a></b>
+(Short) (written by)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt1316574">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1316574/?ref_=nm_flmg_wr_7"
+>& Teller 2</a></b>
+(Short) (written by)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0491099">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0491099/?ref_=nm_flmg_wr_8"
+>Penn & Teller: Off the Deep End</a></b>
+(TV Special)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0251322">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0251322/?ref_=nm_flmg_wr_9"
+>Penn & Teller's Smoke and Mirrors</a></b>
+(Video Game)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0259504">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0259504/?ref_=nm_flmg_wr_10"
+>Phobophilia: The Love of Fear</a></b>
+(TV Movie) (written by)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0096708">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0096708/?ref_=nm_flmg_wr_11"
+>Tales from the Crypt</a></b>
+(TV Series) (screenplay - 1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0716883/?ref_=nm_flmg_wr_11"
+>Staired in Horror</a>
+(1994)
+... (screenplay)
+</div>
+</div>
+<div class="filmo-row even" id="writer-tt0108974">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0108974/?ref_=nm_flmg_wr_12"
+>The Unpleasant World of Penn & Teller</a></b>
+(TV Series) (written by - 6 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0767911/?ref_=nm_flmg_wr_12"
+>Episode #1.6</a>
+(1994)
+... (written by)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0767910/?ref_=nm_flmg_wr_12"
+>Episode #1.5</a>
+(1994)
+... (written by)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0767909/?ref_=nm_flmg_wr_12"
+>Episode #1.4</a>
+(1994)
+... (written by)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0767908/?ref_=nm_flmg_wr_12"
+>Episode #1.3</a>
+(1994)
+... (written by)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0767907/?ref_=nm_flmg_wr_12"
+>Episode #1.2</a>
+(1994)
+... (written by)
+</div>
+<div id="more-episodes-tt0108974-writer" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="6"
+onclick="toggleSeeMoreEpisodes(this,'nm0854418','tt0108974','writer',11); return false;">Show all 6 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="writer-tt0158420">
+<span class="year_column">
+&nbsp;1993
+</span>
+<b><a href="/title/tt0158420/?ref_=nm_flmg_wr_13"
+>Monstervision</a></b>
+(TV Series) (1993)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0383742">
+<span class="year_column">
+&nbsp;1992/II
+</span>
+<b><a href="/title/tt0383742/?ref_=nm_flmg_wr_14"
+>Behind the Scenes</a></b>
+(TV Mini-Series documentary) (host segments)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0099451">
+<span class="year_column">
+&nbsp;1990
+</span>
+<b><a href="/title/tt0099451/?ref_=nm_flmg_wr_15"
+>Don't Try This at Home!</a></b>
+(TV Movie)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0098073">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0098073/?ref_=nm_flmg_wr_16"
+>Penn & Teller Get Killed</a></b>
+(written by)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0137162">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0137162/?ref_=nm_flmg_wr_17"
+>Invisible Thread</a></b>
+(TV Movie) (written by)
+<br/>
+</div>
+<div class="filmo-row even" id="writer-tt0093715">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0093715/?ref_=nm_flmg_wr_18"
+>Cruel Tricks for Dear Friends</a></b>
+(Video)
+<br/>
+</div>
+<div class="filmo-row odd" id="writer-tt0089795">
+<span class="year_column">
+&nbsp;1985
+</span>
+<b><a href="/title/tt0089795/?ref_=nm_flmg_wr_19"
+>Penn & Teller Go Public</a></b>
+(TV Short) (creator)
+<br/>
+</div>
+</div>
+<div id="filmo-head-actor" class="head" data-category="actor" onclick="toggleFilmoCategory(this);">
+<span id="hide-actor" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-actor" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="actor">Actor</a> (25 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="actor-tt3294732">
+<span class="year_column">
+&nbsp;
+</span>
+<b><a href="/title/tt3294732/?ref_=nm_flmg_act_1"
+>Director's Cut</a></b>
+(<a href="/r/legacy-inprod-name/title/tt3294732" class="in_production">post-production</a>)
+<br/>
+Rudy Nelson
+</div>
+<div class="filmo-row even" id="actor-tt1985017">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt1985017/?ref_=nm_flmg_act_2"
+>Atlas Shrugged II: The Strike</a></b>
+<br/>
+Laughlin
+</div>
+<div class="filmo-row odd" id="actor-tt2331027">
+<span class="year_column">
+&nbsp;2012/II
+</span>
+<b><a href="/title/tt2331027/?ref_=nm_flmg_act_3"
+>Play Dead</a></b>
+<br/>
+Introducing Narrator
+</div>
+<div class="filmo-row even" id="actor-tt0096697">
+<span class="year_column">
+&nbsp;1999-2011
+</span>
+<b><a href="/title/tt0096697/?ref_=nm_flmg_act_4"
+>The Simpsons</a></b>
+(TV Series)
+<br/>
+<a href="/character/ch0040220/?ref_=nm_flmg_act_4"
+>Teller</a>
+<div class="filmo-episodes">
+- <a href="/title/tt1628657/?ref_=nm_flmg_act_4"
+>The Great Simpsina</a>
+(2011)
+... <a href="/character/ch0040220/?ref_=nm_flmg_act_4"
+>Teller</a>
+(voice)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0701105/?ref_=nm_flmg_act_4"
+>Hello Gutter, Hello Fadder</a>
+(1999)
+... <a href="/character/ch0040220/?ref_=nm_flmg_act_4"
+>Teller</a>
+(voice)
+</div>
+</div>
+<div class="filmo-row odd" id="actor-tt1054487">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1054487/?ref_=nm_flmg_act_5"
+>Futurama: Into the Wild Green Yonder</a></b>
+(Video)
+<br/>
+<a href="/character/ch0040220/?ref_=nm_flmg_act_5"
+>Teller</a>
+(as Penn & Teller, credit only)
+</div>
+<div class="filmo-row even" id="actor-tt1316573">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1316573/?ref_=nm_flmg_act_6"
+>& Teller</a></b>
+(Short)
+<br/>
+<a href="/character/ch0040220/?ref_=nm_flmg_act_6"
+>Teller</a>
+</div>
+<div class="filmo-row odd" id="actor-tt1316574">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1316574/?ref_=nm_flmg_act_7"
+>& Teller 2</a></b>
+(Short)
+<br/>
+<a href="/character/ch0040220/?ref_=nm_flmg_act_7"
+>Teller</a>
+</div>
+<div class="filmo-row even" id="actor-tt1052046">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1052046/?ref_=nm_flmg_act_8"
+>Spanking Lessons</a></b>
+(Short)
+<br/>
+Narrator
+</div>
+<div class="filmo-row odd" id="actor-tt0200276">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0200276/?ref_=nm_flmg_act_9"
+>The West Wing</a></b>
+(TV Series)
+<br/>
+<a href="/character/ch0040220/?ref_=nm_flmg_act_9"
+>Teller</a>
+<div class="filmo-episodes">
+- <a href="/title/tt0745638/?ref_=nm_flmg_act_9"
+>In the Room</a>
+(2004)
+... <a href="/character/ch0040220/?ref_=nm_flmg_act_9"
+>Teller</a>
+(as Penn & Teller)
+</div>
+</div>
+<div class="filmo-row even" id="actor-tt0364828">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0364828/?ref_=nm_flmg_act_10"
+>Las Vegas</a></b>
+(TV Series)
+<br/>
+<a href="/character/ch0040220/?ref_=nm_flmg_act_10"
+>Teller</a>
+<div class="filmo-episodes">
+- <a href="/title/tt0625449/?ref_=nm_flmg_act_10"
+>Luck Be a Lady</a>
+(2003)
+... <a href="/character/ch0040220/?ref_=nm_flmg_act_10"
+>Teller</a>
+</div>
+</div>
+<div class="filmo-row odd" id="actor-tt0240248">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0240248/?ref_=nm_flmg_act_11"
+>Zoey's Zoo</a></b>
+(TV Movie)
+<br/>
+Jake Clones
+</div>
+<div class="filmo-row even" id="actor-tt0134269">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0134269/?ref_=nm_flmg_act_12"
+>V.I.P.</a></b>
+(TV Series)
+<br/>
+<a href="/character/ch0040220/?ref_=nm_flmg_act_12"
+>Teller</a>
+<div class="filmo-episodes">
+- <a href="/title/tt0738644/?ref_=nm_flmg_act_12"
+>Val the Hard Way</a>
+(1999)
+... <a href="/character/ch0040220/?ref_=nm_flmg_act_12"
+>Teller</a>
+(as Penn & Teller)
+</div>
+</div>
+<div class="filmo-row odd" id="actor-tt0101120">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0101120/?ref_=nm_flmg_act_13"
+>Home Improvement</a></b>
+(TV Series)
+<br/>
+<a href="/character/ch0040220/?ref_=nm_flmg_act_13"
+>Teller</a>
+<div class="filmo-episodes">
+- <a href="/title/tt0603488/?ref_=nm_flmg_act_13"
+>Knee Deep</a>
+(1999)
+... <a href="/character/ch0040220/?ref_=nm_flmg_act_13"
+>Teller</a>
+</div>
+</div>
+<div class="filmo-row even" id="actor-tt0118303">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0118303/?ref_=nm_flmg_act_14"
+>Dharma & Greg</a></b>
+(TV Series)
+<br/>
+Mr. Boots
+<div class="filmo-episodes">
+- <a href="/title/tt0559093/?ref_=nm_flmg_act_14"
+>The Cat's Out of the Bag</a>
+(1998)
+... Mr. Boots
+</div>
+</div>
+<div class="filmo-row odd" id="actor-tt0105946">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0105946/?ref_=nm_flmg_act_15"
+>Babylon 5</a></b>
+(TV Series)
+<br/>
+<a href="/character/ch0217855/?ref_=nm_flmg_act_15"
+>Zooty</a>
+<div class="filmo-episodes">
+- <a href="/title/tt0517643/?ref_=nm_flmg_act_15"
+>Day of the Dead</a>
+(1998)
+... <a href="/character/ch0217855/?ref_=nm_flmg_act_15"
+>Zooty</a>
+(as Penn & Teller)
+</div>
+</div>
+<div class="filmo-row even" id="actor-tt0111945">
+<span class="year_column">
+&nbsp;1995-1997
+</span>
+<b><a href="/title/tt0111945/?ref_=nm_flmg_act_16"
+>The Drew Carey Show</a></b>
+(TV Series)
+<br/>
+<a href="/character/ch0084677/?ref_=nm_flmg_act_16"
+>Geller</a>
+<div class="filmo-episodes">
+- <a href="/title/tt0566487/?ref_=nm_flmg_act_16"
+>See Drew Run</a>
+(1997)
+... <a href="/character/ch0084677/?ref_=nm_flmg_act_16"
+>Geller</a>
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0566373/?ref_=nm_flmg_act_16"
+>Drew Meets Lawyers</a>
+(1995)
+... <a href="/character/ch0084677/?ref_=nm_flmg_act_16"
+>Geller</a>
+</div>
+</div>
+<div class="filmo-row odd" id="actor-tt0115341">
+<span class="year_column">
+&nbsp;1996-1997
+</span>
+<b><a href="/title/tt0115341/?ref_=nm_flmg_act_17"
+>Sabrina, the Teenage Witch</a></b>
+(TV Series)
+<br/>
+<a href="/character/ch0083039/?ref_=nm_flmg_act_17"
+>Skippy</a>
+<div class="filmo-episodes">
+- <a href="/title/tt0693072/?ref_=nm_flmg_act_17"
+>Jenny's Non-Dream</a>
+(1997)
+... <a href="/character/ch0083039/?ref_=nm_flmg_act_17"
+>Skippy</a>
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0693092/?ref_=nm_flmg_act_17"
+>Pilot</a>
+(1996)
+... <a href="/character/ch0083039/?ref_=nm_flmg_act_17"
+>Skippy</a>
+</div>
+</div>
+<div class="filmo-row even" id="actor-tt0124142">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0124142/?ref_=nm_flmg_act_18"
+>Steven Spielberg's Director's Chair</a></b>
+(Video Game)
+<br/>
+Sigmund Terrore
+</div>
+<div class="filmo-row odd" id="actor-tt0113026">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0113026/?ref_=nm_flmg_act_19"
+>The Fantasticks</a></b>
+<br/>
+<a href="/character/ch0507791/?ref_=nm_flmg_act_19"
+>Mortimer</a>
+</div>
+<div class="filmo-row even" id="actor-tt0109376">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0109376/?ref_=nm_flmg_act_20"
+>Car 54, Where Are You?</a></b>
+<br/>
+Luther
+(as Teller)
+</div>
+<div class="filmo-row odd" id="actor-tt0098073">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0098073/?ref_=nm_flmg_act_21"
+>Penn & Teller Get Killed</a></b>
+<br/>
+<a href="/character/ch0040220/?ref_=nm_flmg_act_21"
+>Teller</a>
+</div>
+<div class="filmo-row even" id="actor-tt0095525">
+<span class="year_column">
+&nbsp;1988
+</span>
+<b><a href="/title/tt0095525/?ref_=nm_flmg_act_22"
+>Gandahar</a></b>
+<br/>
+<a href="/character/ch0493038/?ref_=nm_flmg_act_22"
+>Octum</a>
+(English version, voice)
+</div>
+<div class="filmo-row odd" id="actor-tt0086759">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0086759/?ref_=nm_flmg_act_23"
+>Miami Vice</a></b>
+(TV Series)
+<br/>
+Ralph Fisher
+<div class="filmo-episodes">
+- <a href="/title/tt0647088/?ref_=nm_flmg_act_23"
+>Like a Hurricane</a>
+(1987)
+... Ralph Fisher
+</div>
+</div>
+<div class="filmo-row even" id="actor-tt0093433">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0093433/?ref_=nm_flmg_act_24"
+>Long Gone</a></b>
+(TV Movie)
+<br/>
+Hale Buchman, Jr.
+</div>
+<div class="filmo-row odd" id="actor-tt0091579">
+<span class="year_column">
+&nbsp;1986
+</span>
+<b><a href="/title/tt0091579/?ref_=nm_flmg_act_25"
+>My Chauffeur</a></b>
+<br/>
+Abdul
+</div>
+</div>
+<div id="filmo-head-director" class="head" data-category="director" onclick="toggleFilmoCategory(this);">
+<span id="hide-director" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-director" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="director">Director</a> (5 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="director-tt3089388">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3089388/?ref_=nm_flmg_dr_1"
+>Tim's Vermeer</a></b>
+(Documentary)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt2331027">
+<span class="year_column">
+&nbsp;2012/II
+</span>
+<b><a href="/title/tt2331027/?ref_=nm_flmg_dr_2"
+>Play Dead</a></b>
+(stage direction)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt1512315">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1512315/?ref_=nm_flmg_dr_3"
+>Macbeth: Folger Shakespeare Library Edition</a></b>
+(Video) (stage direction)
+<br/>
+</div>
+<div class="filmo-row even" id="director-tt1316573">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1316573/?ref_=nm_flmg_dr_4"
+>& Teller</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row odd" id="director-tt1316574">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1316574/?ref_=nm_flmg_dr_5"
+>& Teller 2</a></b>
+(Short)
+<br/>
+</div>
+</div>
+<div id="filmo-head-miscellaneous" class="head" data-category="miscellaneous" onclick="toggleFilmoCategory(this);">
+<span id="hide-miscellaneous" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-miscellaneous" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="miscellaneous">Miscellaneous Crew</a> (2 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="miscellaneous-tt0096697">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt0096697/?ref_=nm_flmg_msc_1"
+>The Simpsons</a></b>
+(TV Series) (magic consultant - 2 episodes)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1927865/?ref_=nm_flmg_msc_1"
+>The Ned-Liest Catch</a>
+(2011)
+... (magic consultant)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1628657/?ref_=nm_flmg_msc_1"
+>The Great Simpsina</a>
+(2011)
+... (magic consultant)
+</div>
+</div>
+<div class="filmo-row even" id="miscellaneous-tt0093683">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0093683/?ref_=nm_flmg_msc_2"
+>Orphans</a></b>
+(magic consultant)
+<br/>
+</div>
+</div>
+<div id="filmo-head-editor" class="head" data-category="editor" onclick="toggleFilmoCategory(this);">
+<span id="hide-editor" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-editor" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="editor">Editor</a> (2 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="editor-tt1316573">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1316573/?ref_=nm_flmg_edt_1"
+>& Teller</a></b>
+(Short)
+<br/>
+</div>
+<div class="filmo-row even" id="editor-tt1316574">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1316574/?ref_=nm_flmg_edt_2"
+>& Teller 2</a></b>
+(Short)
+<br/>
+</div>
+</div>
+<div id="filmo-head-camera_department" class="head" data-category="camera_department" onclick="toggleFilmoCategory(this);">
+<span id="hide-camera_department" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-camera_department" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="camera_department">Camera and Electrical Department</a> (1 credit)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="camera_department-tt3089388">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3089388/?ref_=nm_flmg_cam_1"
+>Tim's Vermeer</a></b>
+(Documentary) (additional camera)
+<br/>
+</div>
+</div>
+<div id="filmo-head-composer" class="head" data-category="composer" onclick="toggleFilmoCategory(this);">
+<span id="hide-composer" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-composer" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="composer">Composer</a> (1 credit)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="composer-tt0093715">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0093715/?ref_=nm_flmg_com_1"
+>Cruel Tricks for Dear Friends</a></b>
+(Video)
+<br/>
+</div>
+</div>
+<div id="filmo-head-music_department" class="head" data-category="music_department" onclick="toggleFilmoCategory(this);">
+<span id="hide-music_department" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-music_department" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="music_department">Music department</a> (1 credit)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="music_department-tt0108974">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0108974/?ref_=nm_flmg_msdp_1"
+>The Unpleasant World of Penn & Teller</a></b>
+(TV Series) (musician - 1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt0767908/?ref_=nm_flmg_msdp_1"
+>Episode #1.3</a>
+(1994)
+... (musician: piano)
+</div>
+</div>
+</div>
+<div id="filmo-head-thanks" class="head" data-category="thanks" onclick="toggleFilmoCategory(this);">
+<span id="hide-thanks" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-thanks" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="thanks">Thanks</a> (2 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="thanks-tt3467270">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3467270/?ref_=nm_flmg_tk_1"
+>The Tomb</a></b>
+(Short) (special thanks)
+<br/>
+</div>
+<div class="filmo-row even" id="thanks-tt1463571">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1463571/?ref_=nm_flmg_tk_2"
+>Great American Road Trip</a></b>
+(TV Series) (special thanks - 1 episode)
+<br/>
+<div class="filmo-episodes">
+- <a href="/title/tt1486289/?ref_=nm_flmg_tk_2"
+>Vegas Baby</a>
+(2009)
+... (special thanks)
+</div>
+</div>
+</div>
+<div id="filmo-head-self" class="head" data-category="self" onclick="toggleFilmoCategory(this);">
+<span id="hide-self" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-self" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="self">Self</a> (125 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="self-tt3819676">
+<span class="year_column">
+&nbsp;2014-2015
+</span>
+<b><a href="/title/tt3819676/?ref_=nm_flmg_slf_1"
+>Wizard Wars</a></b>
+(TV Series)
+<br/>
+Himself - Judge
+<div class="filmo-episodes">
+- <a href="/title/tt4525762/?ref_=nm_flmg_slf_1"
+>Walking on Water</a>
+(2015)
+... Himself - Judge
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4547780/?ref_=nm_flmg_slf_1"
+>Magic Carpet Ride</a>
+(2015)
+... Himself - Judge
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4547774/?ref_=nm_flmg_slf_1"
+>Mentalist Marvels</a>
+(2015)
+... Himself - Judge
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4450420/?ref_=nm_flmg_slf_1"
+>Billy Bears All</a>
+(2015)
+... Himself - Judge
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4450414/?ref_=nm_flmg_slf_1"
+>Silly Rabbits</a>
+(2015)
+... Himself - Judge
+</div>
+<div id="more-episodes-tt3819676-self" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="12"
+onclick="toggleSeeMoreEpisodes(this,'nm0854418','tt3819676','self',0); return false;">Show all 12 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0437729">
+<span class="year_column">
+&nbsp;2015
+</span>
+<b><a href="/title/tt0437729/?ref_=nm_flmg_slf_2"
+>The Late Late Show with Craig Ferguson</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt4329496/?ref_=nm_flmg_slf_2"
+>Larry King/Penn & Teller</a>
+(2015)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt2935916">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt2935916/?ref_=nm_flmg_slf_3"
+>City Walk</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt4126734/?ref_=nm_flmg_slf_3"
+>Cars Mean Nothing to Me.</a>
+(2014)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt4043988">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt4043988/?ref_=nm_flmg_slf_4"
+>Casino Secrets</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt3513388">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt3513388/?ref_=nm_flmg_slf_5"
+>Late Night with Seth Meyers</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3880492/?ref_=nm_flmg_slf_5"
+>Carson Daly/Penn & Teller/Christina Perri</a>
+(2014)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0044298">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt0044298/?ref_=nm_flmg_slf_6"
+>Today</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3894942/?ref_=nm_flmg_slf_6"
+>Episode dated 28 July 2014</a>
+(2014)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt3644198">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt3644198/?ref_=nm_flmg_slf_7"
+>Good Morning Britain</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3811370/?ref_=nm_flmg_slf_7"
+>Episode dated 18 June 2014</a>
+(2014)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0217211">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt0217211/?ref_=nm_flmg_slf_8"
+>Loose Women</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3728334/?ref_=nm_flmg_slf_8"
+>Episode #18.156</a>
+(2014)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt3666894">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt3666894/?ref_=nm_flmg_slf_9"
+>Britain's Best Loved Double Acts</a></b>
+(TV Movie documentary)
+<br/>
+Himself - Double Act
+(as Penn & Teller)
+</div>
+<div class="filmo-row even" id="self-tt0403813">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt0403813/?ref_=nm_flmg_slf_10"
+>Tavis Smiley</a></b>
+(TV Series)
+<br/>
+Himself - Guest
+<div class="filmo-episodes">
+- <a href="/title/tt3472390/?ref_=nm_flmg_slf_10"
+>Episode dated 29 January 2014</a>
+(2014)
+... Himself - Guest
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0270116">
+<span class="year_column">
+&nbsp;2014
+</span>
+<b><a href="/title/tt0270116/?ref_=nm_flmg_slf_11"
+>Charlie Rose</a></b>
+(TV Series)
+<br/>
+Himself - Guest
+<div class="filmo-episodes">
+- <a href="/title/tt3468156/?ref_=nm_flmg_slf_11"
+>Episode dated 27 January 2014</a>
+(2014)
+... Himself - Guest
+</div>
+</div>
+<div class="filmo-row even" id="self-tt3440734">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3440734/?ref_=nm_flmg_slf_12"
+>NYFF51</a></b>
+(Short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt2311336">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt2311336/?ref_=nm_flmg_slf_13"
+>The Arsenio Hall Show</a></b>
+(TV Series)
+<br/>
+Himself - Guest
+<div class="filmo-episodes">
+- <a href="/title/tt3180180/?ref_=nm_flmg_slf_13"
+>Episode #1.4</a>
+(2013)
+... Himself - Guest
+</div>
+</div>
+<div class="filmo-row even" id="self-tt3089388">
+<span class="year_column">
+&nbsp;2013
+</span>
+<b><a href="/title/tt3089388/?ref_=nm_flmg_slf_14"
+>Tim's Vermeer</a></b>
+(Documentary)
+<br/>
+Himself
+(uncredited)
+</div>
+<div class="filmo-row odd" id="self-tt0364782">
+<span class="year_column">
+&nbsp;2012-2013
+</span>
+<b><a href="/title/tt0364782/?ref_=nm_flmg_slf_15"
+>The Apprentice</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2924164/?ref_=nm_flmg_slf_15"
+>One of Us Will Win, But Not by Much</a>
+(2013)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2899194/?ref_=nm_flmg_slf_15"
+>May the Spoon Be with You</a>
+(2013)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2879494/?ref_=nm_flmg_slf_15"
+>The Mayor of Stress Town</a>
+(2013)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2401453/?ref_=nm_flmg_slf_15"
+>And the Winner Is ...</a>
+(2012)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2325013/?ref_=nm_flmg_slf_15"
+>Walking Papers</a>
+(2012)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0437005">
+<span class="year_column">
+&nbsp;2010-2012
+</span>
+<b><a href="/title/tt0437005/?ref_=nm_flmg_slf_16"
+>Hell's Kitchen</a></b>
+(TV Series)
+<br/>
+Himself
+/ Himself - Magician & Comic
+<div class="filmo-episodes">
+- <a href="/title/tt2363958/?ref_=nm_flmg_slf_16"
+>2 Chefs Compete</a>
+(2012)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1739482/?ref_=nm_flmg_slf_16"
+>9 Chefs Compete: Part 1</a>
+(2010)
+... Himself - Magician & Comic
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt2131406">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2131406/?ref_=nm_flmg_slf_17"
+>Trip Flip</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2306712/?ref_=nm_flmg_slf_17"
+>Las Vegas</a>
+(2012)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1231460">
+<span class="year_column">
+&nbsp;2009-2012
+</span>
+<b><a href="/title/tt1231460/?ref_=nm_flmg_slf_18"
+>Late Night with Jimmy Fallon</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2399019/?ref_=nm_flmg_slf_18"
+>Episode #4.84</a>
+(2012)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1854014/?ref_=nm_flmg_slf_18"
+>Episode #3.42</a>
+(2011)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1547138/?ref_=nm_flmg_slf_18"
+>Episode #1.148</a>
+(2009)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt2218646">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2218646/?ref_=nm_flmg_slf_19"
+>Owned & Operated</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt2275497">
+<span class="year_column">
+&nbsp;2012
+</span>
+<b><a href="/title/tt2275497/?ref_=nm_flmg_slf_20"
+>Ali 70 from Las Vegas</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt2162719">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt2162719/?ref_=nm_flmg_slf_21"
+>TVs 50 Greatest Magic Tricks</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt2142927">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt2142927/?ref_=nm_flmg_slf_22"
+>The Royal Variety Performance 2011</a></b>
+(TV Movie)
+<br/>
+Himself - Performer
+</div>
+<div class="filmo-row odd" id="self-tt2050162">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt2050162/?ref_=nm_flmg_slf_23"
+>Penn & Teller Tell a Lie</a></b>
+(TV Series)
+<br/>
+Himself
+/ Himself - Host
+<div class="filmo-episodes">
+- <a href="/title/tt2104570/?ref_=nm_flmg_slf_23"
+>You Can Crack a Safe with Liquid Nitrogen</a>
+(2011)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2096141/?ref_=nm_flmg_slf_23"
+>Monster Trucks vs Hook-and-Loop Fabric</a>
+(2011)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2096139/?ref_=nm_flmg_slf_23"
+>Hair Bleach Is a Rocket Fuel</a>
+(2011)
+... Himself - Host
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2071889/?ref_=nm_flmg_slf_23"
+>Head of Hair Can Lift a Mustang</a>
+(2011)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt2131454">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt2131454/?ref_=nm_flmg_slf_24"
+>A Tribute to Laurel & Hardy</a></b>
+(Video documentary short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1430587">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1430587/?ref_=nm_flmg_slf_25"
+>Tosh.0</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2084701/?ref_=nm_flmg_slf_25"
+>Magician Fail</a>
+(2011)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0820001">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt0820001/?ref_=nm_flmg_slf_26"
+>Jerry Lewis MDA Labor Day Telethon</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2058918/?ref_=nm_flmg_slf_26"
+>MDA Labor Day Telethon 2011</a>
+(2011)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1853840">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1853840/?ref_=nm_flmg_slf_27"
+>America's Next Great Restaurant</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1857975/?ref_=nm_flmg_slf_27"
+>Episode #1.8</a>
+(2011)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1899280">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1899280/?ref_=nm_flmg_slf_28"
+>Saturday Night Live Backstage</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0449461">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt0449461/?ref_=nm_flmg_slf_29"
+>Nova ScienceNow</a></b>
+(TV Series documentary)
+<br/>
+Himself - Magician
+<div class="filmo-episodes">
+- <a href="/title/tt1830166/?ref_=nm_flmg_slf_29"
+>How Does the Brain Work?</a>
+(2011)
+... Himself - Magician
+</div>
+</div>
+<div class="filmo-row even" id="self-tt2268730">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt2268730/?ref_=nm_flmg_slf_30"
+>Talk Stoop with Cat Greenleaf</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2765846/?ref_=nm_flmg_slf_30"
+>Freaky Talents</a>
+(2011)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1811179">
+<span class="year_column">
+&nbsp;2011
+</span>
+<b><a href="/title/tt1811179/?ref_=nm_flmg_slf_31"
+>Penn & Teller: Fool Us</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2065507/?ref_=nm_flmg_slf_31"
+>Water Tanks for the Memories</a>
+(2011)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2065505/?ref_=nm_flmg_slf_31"
+>How to Saw a Woman in Half</a>
+(2011)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2065508/?ref_=nm_flmg_slf_31"
+>Teller Sucks ... Helium</a>
+(2011)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2075873/?ref_=nm_flmg_slf_31"
+>The Magic of Polyester</a>
+(2011)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2075872/?ref_=nm_flmg_slf_31"
+>Penn Gets Nailed</a>
+(2011)
+... Himself
+</div>
+<div id="more-episodes-tt1811179-self" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="9"
+onclick="toggleSeeMoreEpisodes(this,'nm0854418','tt1811179','self',30); return false;">Show all 9 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0827947">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt0827947/?ref_=nm_flmg_slf_32"
+>Rachael Ray</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1757391/?ref_=nm_flmg_slf_32"
+>Rachael's Halloween Bash in 3-D</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0346369">
+<span class="year_column">
+&nbsp;2003-2010
+</span>
+<b><a href="/title/tt0346369/?ref_=nm_flmg_slf_33"
+>Penn & Teller: Bullshit!</a></b>
+(TV Series documentary)
+<br/>
+Himself
+/ Himself - Host
+<div class="filmo-episodes">
+- <a href="/title/tt1685162/?ref_=nm_flmg_slf_33"
+>Self-Esteem</a>
+(2010)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1685161/?ref_=nm_flmg_slf_33"
+>Old People</a>
+(2010)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1685159/?ref_=nm_flmg_slf_33"
+>Criminal Justice</a>
+(2010)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1685158/?ref_=nm_flmg_slf_33"
+>Area 51</a>
+(2010)
+... Himself - Host
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1677342/?ref_=nm_flmg_slf_33"
+>Fast Food</a>
+(2010)
+... Himself
+</div>
+<div id="more-episodes-tt0346369-self" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="85"
+onclick="toggleSeeMoreEpisodes(this,'nm0854418','tt0346369','self',32); return false;">Show all 85 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0844203">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt0844203/?ref_=nm_flmg_slf_34"
+>The One Show</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1691732/?ref_=nm_flmg_slf_34"
+>Episode dated 13 July 2010</a>
+(2010)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0299302">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt0299302/?ref_=nm_flmg_slf_35"
+>Friday Night with Jonathan Ross</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1691979/?ref_=nm_flmg_slf_35"
+>Episode #18.24</a>
+(2010)
+... Himself
+(as Penn & Teller)
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0305056">
+<span class="year_column">
+&nbsp;2005-2010
+</span>
+<b><a href="/title/tt0305056/?ref_=nm_flmg_slf_36"
+>Last Call with Carson Daly</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1650691/?ref_=nm_flmg_slf_36"
+>Episode dated 5 May 2010</a>
+(2010)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1650689/?ref_=nm_flmg_slf_36"
+>Episode dated 5 April 2010</a>
+(2010)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1246228/?ref_=nm_flmg_slf_36"
+>Episode dated 16 June 2008</a>
+(2008)
+... Himself
+(as Penn & Teller)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0625860/?ref_=nm_flmg_slf_36"
+>Episode dated 16 November 2005</a>
+(2005)
+... Himself
+(as Penn & Teller)
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1795975">
+<span class="year_column">
+&nbsp;2010
+</span>
+<b><a href="/title/tt1795975/?ref_=nm_flmg_slf_37"
+>A Kick in the Head: The Lure of Las Vegas</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt1672161">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1672161/?ref_=nm_flmg_slf_38"
+>Holly's World</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1566353/?ref_=nm_flmg_slf_38"
+>Episode #1.0</a>
+(2009)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0765425">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt0765425/?ref_=nm_flmg_slf_39"
+>Top Chef</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1511297/?ref_=nm_flmg_slf_39"
+>Penn & Teller</a>
+(2009)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1463571">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt1463571/?ref_=nm_flmg_slf_40"
+>Great American Road Trip</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1486289/?ref_=nm_flmg_slf_40"
+>Vegas Baby</a>
+(2009)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0803086">
+<span class="year_column">
+&nbsp;2009
+</span>
+<b><a href="/title/tt0803086/?ref_=nm_flmg_slf_41"
+>Throwdown with Bobby Flay</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2573074/?ref_=nm_flmg_slf_41"
+>Feast of the Seven Fishes</a>
+(2009)
+... Himself
+(as Penn & Teller)
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1332006">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1332006/?ref_=nm_flmg_slf_42"
+>Cheech & Chong: Roasted</a></b>
+(TV Special)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0103569">
+<span class="year_column">
+&nbsp;1996-2008
+</span>
+<b><a href="/title/tt0103569/?ref_=nm_flmg_slf_43"
+>The Tonight Show with Jay Leno</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1326688/?ref_=nm_flmg_slf_43"
+>Episode #16.200</a>
+(2008)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0728813/?ref_=nm_flmg_slf_43"
+>Episode #12.84</a>
+(2004)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2368233/?ref_=nm_flmg_slf_43"
+>Episode #10.150</a>
+(2002)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2545582/?ref_=nm_flmg_slf_43"
+>Episode #8.61</a>
+(2000)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2477042/?ref_=nm_flmg_slf_43"
+>Episode #7.93</a>
+(1999)
+... Himself
+</div>
+<div id="more-episodes-tt0103569-self" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="9"
+onclick="toggleSeeMoreEpisodes(this,'nm0854418','tt0103569','self',42); return false;">Show all 9 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1229845">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1229845/?ref_=nm_flmg_slf_44"
+>Battleground Earth: Ludacris vs. Tommy Lee</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1260010/?ref_=nm_flmg_slf_44"
+>Wet and Wild</a>
+(2008)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0364829">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt0364829/?ref_=nm_flmg_slf_45"
+>Last Comic Standing</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1081485/?ref_=nm_flmg_slf_45"
+>Episode #6.12</a>
+(2008)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1268991">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1268991/?ref_=nm_flmg_slf_46"
+>Women in Boxes</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0106053">
+<span class="year_column">
+&nbsp;1994-2008
+</span>
+<b><a href="/title/tt0106053/?ref_=nm_flmg_slf_47"
+>Late Show with David Letterman</a></b>
+(TV Series)
+<br/>
+Himself - Guest Magician
+/ Himself - Magical Performer
+/ Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1228398/?ref_=nm_flmg_slf_47"
+>Episode #15.113</a>
+(2008)
+... Himself - Guest Magician
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1133079/?ref_=nm_flmg_slf_47"
+>Episode #15.32</a>
+(2007)
+... Himself - Magical Performer
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4490644/?ref_=nm_flmg_slf_47"
+>Episode dated 27 December 1994</a>
+(1994)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1056319">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1056319/?ref_=nm_flmg_slf_48"
+>Free Radio</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1142644/?ref_=nm_flmg_slf_48"
+>Lance's Birthday</a>
+(2008)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0463398">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt0463398/?ref_=nm_flmg_slf_49"
+>Dancing with the Stars</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1189134/?ref_=nm_flmg_slf_49"
+>Round 1: Results</a>
+(2008)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1189133/?ref_=nm_flmg_slf_49"
+>Round 1: Part 3</a>
+(2008)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1189272/?ref_=nm_flmg_slf_49"
+>Round 1: Part 1</a>
+(2008)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt1187004">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1187004/?ref_=nm_flmg_slf_50"
+>History of the Joke</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1146329">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1146329/?ref_=nm_flmg_slf_51"
+>The 2007 World Magic Awards</a></b>
+(TV Movie)
+<br/>
+Himself - Presenter
+(as Penn & Teller)
+</div>
+<div class="filmo-row even" id="self-tt1007809">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt1007809/?ref_=nm_flmg_slf_52"
+>The States</a></b>
+(TV Series documentary)
+<br/>
+Himself (Nevada)
+<div class="filmo-episodes">
+- <a href="/title/tt1042139/?ref_=nm_flmg_slf_52"
+>Illinois, Connecticut, Nevada, Mississippi, Wyoming</a>
+(2007)
+... Himself (Nevada)
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0461622">
+<span class="year_column">
+&nbsp;2005-2006
+</span>
+<b><a href="/title/tt0461622/?ref_=nm_flmg_slf_53"
+>Criss Angel Mindfreak</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1021385/?ref_=nm_flmg_slf_53"
+>My Secret Cabaret</a>
+(2006)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1022368/?ref_=nm_flmg_slf_53"
+>Magician of the Year</a>
+(2006)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1021387/?ref_=nm_flmg_slf_53"
+>Sucker</a>
+(2006)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0760474/?ref_=nm_flmg_slf_53"
+>C4 Crate</a>
+(2005)
+... Himself
+(as Penn & Teller)
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0123366">
+<span class="year_column">
+&nbsp;2004-2006
+</span>
+<b><a href="/title/tt0123366/?ref_=nm_flmg_slf_54"
+>The View</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0887119/?ref_=nm_flmg_slf_54"
+>Episode dated 31 October 2006</a>
+(2006)
+... Himself
+(as Penn & Teller)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0740662/?ref_=nm_flmg_slf_54"
+>Episode dated 31 October 2005</a>
+(2005)
+... Himself
+(as Penn & Teller)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0740393/?ref_=nm_flmg_slf_54"
+>Episode dated 19 February 2004</a>
+(2004)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0867229">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0867229/?ref_=nm_flmg_slf_55"
+>2006 Primetime Creative Arts Emmy Awards</a></b>
+(TV Special)
+<br/>
+</div>
+<div class="filmo-row even" id="self-tt0423749">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0423749/?ref_=nm_flmg_slf_56"
+>TV Land's Top Ten</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0854033/?ref_=nm_flmg_slf_56"
+>Top Ten Musical Moments</a>
+(2006)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0823101/?ref_=nm_flmg_slf_56"
+>Top 10 TV Weddings</a>
+(2006)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0092322">
+<span class="year_column">
+&nbsp;1994-2006
+</span>
+<b><a href="/title/tt0092322/?ref_=nm_flmg_slf_57"
+>Biography</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0784083/?ref_=nm_flmg_slf_57"
+>Steve Martin</a>
+(2006)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0400102/?ref_=nm_flmg_slf_57"
+>Houdini: The Great Escape</a>
+(1994)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0498857">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0498857/?ref_=nm_flmg_slf_58"
+>The 100 Most Unexpected TV Moments</a></b>
+(TV Mini-Series documentary)
+<br/>
+Himself
+(as Penn & Teller)
+</div>
+<div class="filmo-row odd" id="self-tt0491099">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0491099/?ref_=nm_flmg_slf_59"
+>Penn & Teller: Off the Deep End</a></b>
+(TV Special)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0757073">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0757073/?ref_=nm_flmg_slf_60"
+>Dirty Tricks</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0791947/?ref_=nm_flmg_slf_60"
+>Episode #1.5</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0487912">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0487912/?ref_=nm_flmg_slf_61"
+>Houdini: Unlocking the Mystery</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0835365">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0835365/?ref_=nm_flmg_slf_62"
+>Magic: The Science of Illusion</a></b>
+(Short)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0466642">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0466642/?ref_=nm_flmg_slf_63"
+>AFI's 100 Years... 100 Movie Quotes: America's Greatest Quips, Comebacks and Catchphrases</a></b>
+(TV Special documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0411007">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0411007/?ref_=nm_flmg_slf_64"
+>Listen Up</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0632882/?ref_=nm_flmg_slf_64"
+>Last Vegas</a>
+(2005)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0433296">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0433296/?ref_=nm_flmg_slf_65"
+>Inside Dish with Rachael Ray</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0611134/?ref_=nm_flmg_slf_65"
+>Episode dated 28 January 2005</a>
+(2005)
+... Himself
+(as Penn & Teller)
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0445916">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0445916/?ref_=nm_flmg_slf_66"
+>50 Hottest Vegas Moments</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0436078">
+<span class="year_column">
+&nbsp;2005
+</span>
+<b><a href="/title/tt0436078/?ref_=nm_flmg_slf_67"
+>The Aristocrats</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0441725">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0441725/?ref_=nm_flmg_slf_68"
+>The 100 Most Memorable TV Moments</a></b>
+(TV Mini-Series documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0437735">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0437735/?ref_=nm_flmg_slf_69"
+>My Coolest Years</a></b>
+(TV Mini-Series documentary)
+<br/>
+Himself (Geeks)
+</div>
+<div class="filmo-row even" id="self-tt0192906">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0192906/?ref_=nm_flmg_slf_70"
+>The Late Late Show with Craig Kilborn</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0626800/?ref_=nm_flmg_slf_70"
+>Episode dated 30 November 2004</a>
+(2004)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0435634">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0435634/?ref_=nm_flmg_slf_71"
+>E! 101 Most Awesome Moments in Entertainment</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0432238">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0432238/?ref_=nm_flmg_slf_72"
+>Magic</a></b>
+(TV Mini-Series documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0149452">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0149452/?ref_=nm_flmg_slf_73"
+>Evening at Pops</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1447307/?ref_=nm_flmg_slf_73"
+>Keith Lockhart's 10th Anniversary Special</a>
+(2004)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0138968">
+<span class="year_column">
+&nbsp;1998-2004
+</span>
+<b><a href="/title/tt0138968/?ref_=nm_flmg_slf_74"
+>Hollywood Squares</a></b>
+(TV Series)
+<br/>
+Guest Appearance
+<div class="filmo-episodes">
+- <a href="/title/tt1559209/?ref_=nm_flmg_slf_74"
+>Episode dated 4 June 2004</a>
+(2004)
+... Guest Appearance
+(as Penn & Teller)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1559208/?ref_=nm_flmg_slf_74"
+>Episode dated 3 June 2004</a>
+(2004)
+... Guest Appearance
+(as Penn & Teller)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1559207/?ref_=nm_flmg_slf_74"
+>Episode dated 2 June 2004</a>
+(2004)
+... Guest Appearance
+(as Penn & Teller)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1559206/?ref_=nm_flmg_slf_74"
+>Episode dated 1 June 2004</a>
+(2004)
+... Guest Appearance
+(as Penn & Teller)
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0603298/?ref_=nm_flmg_slf_74"
+>Episode dated 31 May 2004</a>
+(2004)
+... Guest Appearance
+(as Penn & Teller)
+</div>
+<div id="more-episodes-tt0138968-self" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="60"
+onclick="toggleSeeMoreEpisodes(this,'nm0854418','tt0138968','self',73); return false;">Show all 60 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1904067">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt1904067/?ref_=nm_flmg_slf_75"
+>Super Secret Movie Rules</a></b>
+(TV Series documentary)
+<br/>
+Himself - Illusionist
+<div class="filmo-episodes">
+- <a href="/title/tt0410708/?ref_=nm_flmg_slf_75"
+>Slashers</a>
+(2004)
+... Himself - Illusionist
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0424315">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0424315/?ref_=nm_flmg_slf_76"
+>Nostradamus: 500 Years Later</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0390504">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0390504/?ref_=nm_flmg_slf_77"
+>Spike TV VGA Video Game Awards</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0320037">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0320037/?ref_=nm_flmg_slf_78"
+>Jimmy Kimmel Live!</a></b>
+(TV Series)
+<br/>
+Themselves
+/ Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1477375/?ref_=nm_flmg_slf_78"
+>Episode #2.68</a>
+(2003)
+... Themselves
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1300483/?ref_=nm_flmg_slf_78"
+>Episode #2.44</a>
+(2003)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0398512">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0398512/?ref_=nm_flmg_slf_79"
+>Penn & Teller's Magic and Mystery Tour</a></b>
+(TV Mini-Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt2446334/?ref_=nm_flmg_slf_79"
+>Egypt</a>
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0377192">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0377192/?ref_=nm_flmg_slf_80"
+>I Love the '70s</a></b>
+(TV Series documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0285341">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0285341/?ref_=nm_flmg_slf_81"
+>The Bernie Mac Show</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0521889/?ref_=nm_flmg_slf_81"
+>Magic Jordan</a>
+(2003)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0106052">
+<span class="year_column">
+&nbsp;1995-2003
+</span>
+<b><a href="/title/tt0106052/?ref_=nm_flmg_slf_82"
+>Late Night with Conan O'Brien</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0627421/?ref_=nm_flmg_slf_82"
+>Episode #10.63</a>
+(2003)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2782672/?ref_=nm_flmg_slf_82"
+>Episode #8.139</a>
+(2001)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt4247976/?ref_=nm_flmg_slf_82"
+>Episode #6.86</a>
+(1999)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0627032/?ref_=nm_flmg_slf_82"
+>Episode #5.21</a>
+(1997)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt2741130/?ref_=nm_flmg_slf_82"
+>Episode #2.150</a>
+(1995)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0278249">
+<span class="year_column">
+&nbsp;2003
+</span>
+<b><a href="/title/tt0278249/?ref_=nm_flmg_slf_83"
+>Trading Spaces</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0732884/?ref_=nm_flmg_slf_83"
+>Las Vegas: Live Reveal</a>
+(2003)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0278191">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0278191/?ref_=nm_flmg_slf_84"
+>Fear Factor</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0578602/?ref_=nm_flmg_slf_84"
+>Celebrity Fear Factor 3</a>
+(2002)
+... Himself
+(as Penn & Teller)
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt1720843">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt1720843/?ref_=nm_flmg_slf_85"
+>50 Greatest Magic Tricks</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0407404">
+<span class="year_column">
+&nbsp;2002
+</span>
+<b><a href="/title/tt0407404/?ref_=nm_flmg_slf_86"
+>Just for Laughs</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1579044/?ref_=nm_flmg_slf_86"
+>Episode dated 6 April 2002</a>
+(2002)
+... Himself
+(as Penn and Teller)
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0288347">
+<span class="year_column">
+&nbsp;2001
+</span>
+<b><a href="/title/tt0288347/?ref_=nm_flmg_slf_87"
+>Bravo Profiles</a></b>
+(TV Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0861896/?ref_=nm_flmg_slf_87"
+>Penn and Teller</a>
+(2001)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0471363">
+<span class="year_column">
+&nbsp;2000
+</span>
+<b><a href="/title/tt0471363/?ref_=nm_flmg_slf_88"
+>Run-DMC: Together Forever - Greatest Hits 1983-2000</a></b>
+(Video)
+<br/>
+Himself (segment "It's Tricky")
+</div>
+<div class="filmo-row odd" id="self-tt0115147">
+<span class="year_column">
+&nbsp;1998-2000
+</span>
+<b><a href="/title/tt0115147/?ref_=nm_flmg_slf_89"
+>The Daily Show with Jon Stewart</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1306303/?ref_=nm_flmg_slf_89"
+>Penn & Teller</a>
+(2000)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt1306180/?ref_=nm_flmg_slf_89"
+>Penn & Teller</a>
+(1998)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0120910">
+<span class="year_column">
+&nbsp;1999
+</span>
+<b><a href="/title/tt0120910/?ref_=nm_flmg_slf_90"
+>Fantasia/2000</a></b>
+<br/>
+Himself - Host (segment "The Sorcerer's Apprentice")
+</div>
+<div class="filmo-row odd" id="self-tt0162110">
+<span class="year_column">
+&nbsp;1998-1999
+</span>
+<b><a href="/title/tt0162110/?ref_=nm_flmg_slf_91"
+>Sin City Spectacular</a></b>
+(TV Series)
+<br/>
+Himself - Teller
+/ Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0701346/?ref_=nm_flmg_slf_91"
+>Episode #1.21</a>
+(1999)
+... Himself - Teller
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0701348/?ref_=nm_flmg_slf_91"
+>Episode #1.23</a>
+(1999)
+... Himself - Teller
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0701341/?ref_=nm_flmg_slf_91"
+>Episode #1.17</a>
+(1999)
+... Himself - Teller
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0701343/?ref_=nm_flmg_slf_91"
+>Episode #1.19</a>
+(1999)
+... Himself - Teller
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0701345/?ref_=nm_flmg_slf_91"
+>Episode #1.20</a>
+(1999)
+... Himself - Teller
+</div>
+<div id="more-episodes-tt0162110-self" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="24"
+onclick="toggleSeeMoreEpisodes(this,'nm0854418','tt0162110','self',90); return false;">Show all 24 episodes</a>
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0155428">
+<span class="year_column">
+&nbsp;1998
+</span>
+<b><a href="/title/tt0155428/?ref_=nm_flmg_slf_92"
+>E! Mysteries & Scandals</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1363660/?ref_=nm_flmg_slf_92"
+>Harry Houdini</a>
+(1998)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0115279">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0115279/?ref_=nm_flmg_slf_93"
+>Muppets Tonight</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0653267/?ref_=nm_flmg_slf_93"
+>The Gary Cahuenga Episode</a>
+(1997)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0138496">
+<span class="year_column">
+&nbsp;1997/II
+</span>
+<b><a href="/title/tt0138496/?ref_=nm_flmg_slf_94"
+>Home Invasion</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0341750">
+<span class="year_column">
+&nbsp;1997
+</span>
+<b><a href="/title/tt0341750/?ref_=nm_flmg_slf_95"
+>Ed's Night Party</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0569138/?ref_=nm_flmg_slf_95"
+>Episode dated 27 August 1997</a>
+(1997)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0283733">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0283733/?ref_=nm_flmg_slf_96"
+>Great Drives</a></b>
+(TV Mini-Series documentary)
+<br/>
+Himself (volume 4: Highway 93)
+</div>
+<div class="filmo-row odd" id="self-tt0217281">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0217281/?ref_=nm_flmg_slf_97"
+>The Best of Ed's Night Party</a></b>
+(Video)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0457298">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0457298/?ref_=nm_flmg_slf_98"
+>Caesars Palace 30th Anniversary Celebration</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0108937">
+<span class="year_column">
+&nbsp;1996
+</span>
+<b><a href="/title/tt0108937/?ref_=nm_flmg_slf_99"
+>Space Ghost Coast to Coast</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0706025/?ref_=nm_flmg_slf_99"
+>$20.01</a>
+(1996)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0251322">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0251322/?ref_=nm_flmg_slf_100"
+>Penn & Teller's Smoke and Mirrors</a></b>
+(Video Game)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0259504">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0259504/?ref_=nm_flmg_slf_101"
+>Phobophilia: The Love of Fear</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0421011">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0421011/?ref_=nm_flmg_slf_102"
+>The World's Greatest Magic 2</a></b>
+(TV Special)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0322482">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0322482/?ref_=nm_flmg_slf_103"
+>Hal Roach: Hollywood's King of Laughter</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+(as Penn and Teller)
+</div>
+<div class="filmo-row even" id="self-tt0108974">
+<span class="year_column">
+&nbsp;1994
+</span>
+<b><a href="/title/tt0108974/?ref_=nm_flmg_slf_104"
+>The Unpleasant World of Penn & Teller</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0767911/?ref_=nm_flmg_slf_104"
+>Episode #1.6</a>
+(1994)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0767910/?ref_=nm_flmg_slf_104"
+>Episode #1.5</a>
+(1994)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0767909/?ref_=nm_flmg_slf_104"
+>Episode #1.4</a>
+(1994)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0767908/?ref_=nm_flmg_slf_104"
+>Episode #1.3</a>
+(1994)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0767907/?ref_=nm_flmg_slf_104"
+>Episode #1.2</a>
+(1994)
+... Himself
+</div>
+<div id="more-episodes-tt0108974-self" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="6"
+onclick="toggleSeeMoreEpisodes(this,'nm0854418','tt0108974','self',103); return false;">Show all 6 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0169515">
+<span class="year_column">
+&nbsp;1993
+</span>
+<b><a href="/title/tt0169515/?ref_=nm_flmg_slf_105"
+>The Word</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0759441/?ref_=nm_flmg_slf_105"
+>Episode #4.5</a>
+(1993)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0158420">
+<span class="year_column">
+&nbsp;1993
+</span>
+<b><a href="/title/tt0158420/?ref_=nm_flmg_slf_106"
+>Monstervision</a></b>
+(TV Series)
+<br/>
+Himself - Host (1993)
+</div>
+<div class="filmo-row odd" id="self-tt0159878">
+<span class="year_column">
+&nbsp;1993
+</span>
+<b><a href="/title/tt0159878/?ref_=nm_flmg_slf_107"
+>The Howard Stern Interview</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0815796/?ref_=nm_flmg_slf_107"
+>Episode #1.12</a>
+(1993)
+... Himself
+(as Penn & Teller)
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0823603">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt0823603/?ref_=nm_flmg_slf_108"
+>Discover Magazine's Technology Awards</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt2248641">
+<span class="year_column">
+&nbsp;1992
+</span>
+<b><a href="/title/tt2248641/?ref_=nm_flmg_slf_109"
+>10th Annual Montreal Comedy Festival</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0383742">
+<span class="year_column">
+&nbsp;1992/II
+</span>
+<b><a href="/title/tt0383742/?ref_=nm_flmg_slf_110"
+>Behind the Scenes</a></b>
+(TV Mini-Series documentary)
+<br/>
+<a href="/character/ch0040220/?ref_=nm_flmg_slf_110"
+>Teller</a>
+</div>
+<div class="filmo-row odd" id="self-tt0303592">
+<span class="year_column">
+&nbsp;1991
+</span>
+<b><a href="/title/tt0303592/?ref_=nm_flmg_slf_111"
+>The 45th Annual Tony Awards</a></b>
+(TV Special)
+<br/>
+Himself - Presenter: Best Scenic, Costume & Lighting Design
+(as Penn & Teller)
+</div>
+<div class="filmo-row even" id="self-tt0099451">
+<span class="year_column">
+&nbsp;1990
+</span>
+<b><a href="/title/tt0099451/?ref_=nm_flmg_slf_112"
+>Don't Try This at Home!</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0419958">
+<span class="year_column">
+&nbsp;1990
+</span>
+<b><a href="/title/tt0419958/?ref_=nm_flmg_slf_113"
+>Memory & Imagination: New Pathways to the Library of Congress</a></b>
+(TV Movie documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0159546">
+<span class="year_column">
+&nbsp;1990
+</span>
+<b><a href="/title/tt0159546/?ref_=nm_flmg_slf_114"
+>The Magic of David Copperfield XII: The Niagara Falls Challenge</a></b>
+(TV Special)
+<br/>
+Second camera retriever
+(uncredited)
+</div>
+<div class="filmo-row odd" id="self-tt0266422">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0266422/?ref_=nm_flmg_slf_115"
+>Comic Relief III</a></b>
+(TV Special documentary)
+<br/>
+Himself
+(as Penn & Teller)
+</div>
+<div class="filmo-row even" id="self-tt0096530">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0096530/?ref_=nm_flmg_slf_116"
+>After Hours</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt3398802/?ref_=nm_flmg_slf_116"
+>Episode dated 1 December 1989</a>
+(1989)
+... Himself
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0083441">
+<span class="year_column">
+&nbsp;1989
+</span>
+<b><a href="/title/tt0083441/?ref_=nm_flmg_slf_117"
+>Late Night with David Letterman</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1673160/?ref_=nm_flmg_slf_117"
+>Episode dated 3 May 1989</a>
+(1989)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="self-tt0412743">
+<span class="year_column">
+&nbsp;1988
+</span>
+<b><a href="/title/tt0412743/?ref_=nm_flmg_slf_118"
+>Free to Be... a Family</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt1051977">
+<span class="year_column">
+&nbsp;1988
+</span>
+<b><a href="/title/tt1051977/?ref_=nm_flmg_slf_119"
+>The 40th Annual Emmy Awards</a></b>
+(TV Special)
+<br/>
+Himself - Presenter: Creative Arts Awards
+(as Penn & Teller)
+</div>
+<div class="filmo-row even" id="self-tt1346994">
+<span class="year_column">
+&nbsp;1988
+</span>
+<b><a href="/title/tt1346994/?ref_=nm_flmg_slf_120"
+>Negligee and Underpants Party</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0266421">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0266421/?ref_=nm_flmg_slf_121"
+>Comic Relief '87</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0137162">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0137162/?ref_=nm_flmg_slf_122"
+>Invisible Thread</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="self-tt0093715">
+<span class="year_column">
+&nbsp;1987
+</span>
+<b><a href="/title/tt0093715/?ref_=nm_flmg_slf_123"
+>Cruel Tricks for Dear Friends</a></b>
+(Video)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="self-tt0072562">
+<span class="year_column">
+&nbsp;1985-1986
+</span>
+<b><a href="/title/tt0072562/?ref_=nm_flmg_slf_124"
+>Saturday Night Live</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0694509/?ref_=nm_flmg_slf_124"
+>Steve Guttenberg/The Pretenders</a>
+(1986)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0694481/?ref_=nm_flmg_slf_124"
+>Catherine Oxenberg and Paul Simon/Ladysmith Black Mambazo</a>
+(1986)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0694480/?ref_=nm_flmg_slf_124"
+>Tony Danza/Laurie Anderson</a>
+(1986)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0694477/?ref_=nm_flmg_slf_124"
+>Griffin Dunne/Rosanne Cash</a>
+(1986)
+... Himself
+</div>
+<div class="filmo-episodes">
+- <a href="/title/tt0694491/?ref_=nm_flmg_slf_124"
+>Ron Reagan/The Nelsons</a>
+(1986)
+... Himself
+</div>
+<div id="more-episodes-tt0072562-self" style="display:none;">
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/favorite_theater/spinner-3099941772._CB306317927_.gif" />
+</div>
+<div class="filmo-episodes">
+<a href="#"
+data-n="7"
+onclick="toggleSeeMoreEpisodes(this,'nm0854418','tt0072562','self',123); return false;">Show all 7 episodes</a>
+</div>
+</div>
+<div class="filmo-row odd" id="self-tt0089795">
+<span class="year_column">
+&nbsp;1985
+</span>
+<b><a href="/title/tt0089795/?ref_=nm_flmg_slf_125"
+>Penn & Teller Go Public</a></b>
+(TV Short)
+<br/>
+Himself
+</div>
+</div>
+<div id="filmo-head-archive_footage" class="head" data-category="archive_footage" onclick="toggleFilmoCategory(this);">
+<span id="hide-archive_footage" class="hide-link"
+style="display:none;"
+>Hide&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/hide-1061525577._CB358668250_.png" class="absmiddle" alt="Hide" width="18" height="16"></span>
+<span id="show-archive_footage" class="show-link"
+style="display:inline;"
+>Show&nbsp;<img src="http://ia.media-imdb.com/images/G/01/imdb/images/icons/show-582987296._CB358668248_.png" class="absmiddle" alt="Show" width="18" height="16"></span>
+<a name="archive_footage">Archive footage</a> (7 credits)
+</div>
+<div class="filmo-category-section"
+style="display:none;"
+>
+<div class="filmo-row odd" id="archive_footage-tt1149583">
+<span class="year_column">
+&nbsp;2008
+</span>
+<b><a href="/title/tt1149583/?ref_=nm_flmg_arf_1"
+>Flow: For Love of Water</a></b>
+(Documentary)
+<br/>
+Himself - Magician
+</div>
+<div class="filmo-row even" id="archive_footage-tt0098820">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0098820/?ref_=nm_flmg_arf_2"
+>Have I Got News for You</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1117432/?ref_=nm_flmg_arf_2"
+>Episode #34.2</a>
+(2007)
+... Himself
+(uncredited)
+</div>
+</div>
+<div class="filmo-row odd" id="archive_footage-tt0278249">
+<span class="year_column">
+&nbsp;2007
+</span>
+<b><a href="/title/tt0278249/?ref_=nm_flmg_arf_3"
+>Trading Spaces</a></b>
+(TV Series)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt1111098/?ref_=nm_flmg_arf_3"
+>Top Kitchens</a>
+(2007)
+... Himself
+</div>
+</div>
+<div class="filmo-row even" id="archive_footage-tt0836927">
+<span class="year_column">
+&nbsp;2006
+</span>
+<b><a href="/title/tt0836927/?ref_=nm_flmg_arf_4"
+>The Story of Light Entertainment</a></b>
+(TV Mini-Series documentary)
+<br/>
+Himself
+<div class="filmo-episodes">
+- <a href="/title/tt0877290/?ref_=nm_flmg_arf_4"
+>Variety</a>
+(2006)
+... Himself
+(as Penn & Teller)
+</div>
+</div>
+<div class="filmo-row odd" id="archive_footage-tt0426384">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0426384/?ref_=nm_flmg_arf_5"
+>101 Most Unforgettable SNL Moments</a></b>
+(TV Movie)
+<br/>
+Himself
+</div>
+<div class="filmo-row even" id="archive_footage-tt0411646">
+<span class="year_column">
+&nbsp;2004
+</span>
+<b><a href="/title/tt0411646/?ref_=nm_flmg_arf_6"
+>Michael Moore Hates America</a></b>
+(Documentary)
+<br/>
+Himself
+</div>
+<div class="filmo-row odd" id="archive_footage-tt0113264">
+<span class="year_column">
+&nbsp;1995
+</span>
+<b><a href="/title/tt0113264/?ref_=nm_flmg_arf_7"
+>Harrison Bergeron</a></b>
+(TV Movie)
+<br/>
+Himself
+(uncredited)
+</div>
+</div>
+</div>            </div> 
+                    
+    
+        <div class="article">
+        
+        <h2>Related Videos</h2>
+    <div class="mediastrip_big">
+                <span class="video_slate" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T97,542M0S" />
+
+<a href="/video/hulu/vi1616883993?ref_=nm_rvd_vi_1"
+title="My Chauffeur -- A free-spirited young woman (Deborah Foreman) upsets the status quo at a stuffy Brentwood limousine service." alt="My Chauffeur -- A free-spirited young woman (Deborah Foreman) upsets the status quo at a stuffy Brentwood limousine service." class=" " data-video="vi1616883993" data-context="hulu" data-rid="1Y75DMBPBFRGTVBCSMGE" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="My Chauffeur -- A free-spirited young woman (Deborah Foreman) upsets the status quo at a stuffy Brentwood limousine service." title="My Chauffeur -- A free-spirited young woman (Deborah Foreman) upsets the status quo at a stuffy Brentwood limousine service."src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BNDExMTEwOTY2NF5BMl5BanBnXkFtZTgwODQyMjQ0NTE@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-goldbutton-big,BottomRight,-1,-1_ZAFull%2520Movie,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA97542:00,164,1,14,36,verdenab,7,255,255,255,1_ZAMy%2520Chauffeur,4,136,14,196,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi1616883993" /></a>            </span>
+                <span class="video_slate" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T21,691M36S" />
+
+<a href="/video/hulu/vi4242319129?ref_=nm_rvd_vi_2"
+title="Sabrina, the Teenage Witch -- Sabrina’s “Sweet 16” becomes a truly magical birthday when she discovers she’s a witch" alt="Sabrina, the Teenage Witch -- Sabrina’s “Sweet 16” becomes a truly magical birthday when she discovers she’s a witch" class=" " data-video="vi4242319129" data-context="hulu" data-rid="1Y75DMBPBFRGTVBCSMGE" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="Sabrina, the Teenage Witch -- Sabrina’s “Sweet 16” becomes a truly magical birthday when she discovers she’s a witch" title="Sabrina, the Teenage Witch -- Sabrina’s “Sweet 16” becomes a truly magical birthday when she discovers she’s a witch"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BMjM4OTY3NTc3Ml5BMl5BanBnXkFtZTgwMTE5NTgwNTE@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-goldbutton-big,BottomRight,-1,-1_ZAFull%2520Episode,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA21691:36,164,1,14,36,verdenab,7,255,255,255,1_ZASabrina,%2520the%2520Tee...%2520(S1.E1),4,136,14,196,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi4242319129" /></a>            </span>
+                <span class="video_slate_last" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T57S" />
+
+<a href="/video/screenplay/vi3870596377?ref_=nm_rvd_vi_3"
+title="Fantasia/2000 -- Clip: Rejuvenation" alt="Fantasia/2000 -- Clip: Rejuvenation" class="video-colorbox" data-video="vi3870596377" data-context="screenplay" data-rid="1Y75DMBPBFRGTVBCSMGE" widget-context="nameMaindetails" itemprop="url" ><img height="150" width="200" alt="Fantasia/2000 -- Clip: Rejuvenation" title="Fantasia/2000 -- Clip: Rejuvenation"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png"class="loadlate hidden video" loadlate="http://ia.media-imdb.com/images/M/MV5BNzIyMzQ3NDA2M15BMl5BanBnXkFtZTcwODc3MTI2NA@@._V1_SP330,330,0,C,0,0,0_CR65,90,200,150_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,200,150_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAClip,4,121,16,196,verdenab,8,255,255,255,1_ZAon%2520IMDb,4,1,14,196,verdenab,7,255,255,255,1_ZA00:57,164,1,14,36,verdenab,7,255,255,255,1_ZAFantasia/2000,4,136,14,196,arialbd,7,255,255,255,1_.jpg" itemprop='image' viconst="vi3870596377" /></a>            </span>
+    </div>
+
+                <div class="see-more">
+<a href="/name/nm0854418/videogallery?ref_=nm_rvd_vi_sm"
+>See all 41 videos</a>&nbsp;&raquo;
+                </div>
+        </div>
+    
+    </@csm.csm_widget />
+                    
+            <div class="article">
+        <span class="rightcornerlink">
+<a href="/updates?edit=nm0854418/details&ref_=nm_pdt_edt"
+> Edit
+</a>        </span>
+    <h2>Personal Details</h2>
+        <div id="details-other-works" class="see-more inline canwrap">
+                <h4 class="inline">Other Works:</h4>
+                	Music video: 
+Appeared (with <a href="/name/nm0422710?ref_=nm_pdt_wrk1">Penn Jillette</a>) in the <a href="/name/nm1505820?ref_=nm_pdt_wrk2">Run-D.M.C.</a> video "It's Tricky"                    <span class="see-more inline">
+                        <a href="/name/nm0854418/otherworks?ref_=nm_pdt_wrk_sm"
+>See more</a> 
+                    </span>
+                    &raquo;
+        </div>
+
+            <hr/>
+        <div id="details-publicity-listings" class="see-more inline canwrap">
+            <h4 class="inline">Publicity Listings:</h4>
+    2 Interviews <span class="ghost">|</span>
+    7 Articles <span class="ghost">|</span>
+            <span class="see-more inline">
+                <a href="/name/nm0854418/publicity?ref_=nm_pdt_pub_sm"
+>See more</a>
+            </span>&raquo;
+        </div>
+    
+            <hr/>
+        <div id="details-official-sites" class="see-more inline canwrap">
+            <h4 class="inline">Official Sites:</h4>
+                
+    <a href="/offsite/?page-action=offsite-pennandteller&token=BCYuxda_6mStYCNqe7nRxBfRULHyFSU0Hc5dhLpzGNtGP5MlwNq9gR9Nls-6NIjN20xiMprJyiXQ%0D%0AQ9Q21PkfbwCJAixFLN3qauGcgxmQV71c9__qlsQVCHFpoGgNApPniR9eP7CrVChvlqkEiSxowOUl%0D%0AERgH6vptsrdyIye3y8KQ-_D6pAoPl-1x957IvW43Ax0YqT-U6ZLR-xByqFUVEo04HsKJzRgr_mth%0D%0AnY7DQvK4SkM%0D%0A&ref_=nm_pdt_ofs_offsite_0"
+rel="nofollow" itemprop='url'>Penn & Teller official site</a>
+        </div>
+    
+            <hr/>
+        <div id="details-akas" class="see-more inline canwrap">
+            <h4 class="inline">Alternate Names:</h4>
+            Elmo <span>|</span> Penn & Teller <span>|</span> Penn and Teller
+        </div>
+    
+            <hr/>
+        <div id="details-height" class="see-more inline canwrap">
+            <h4 class="inline">Height:</h4>
+5'&nbsp;9"&nbsp;(1.75&nbsp;m)        </div>
+            </div> 
+                    
+            <div class="article">
+        <span class="rightcornerlink">
+<a href="/updates?edit=nm0854418/fun-facts&ref_=nm_dyk_edt"
+> Edit
+</a>        </span>
+    <h2>Did You Know?</h2>
+        <div id="dyk-personal-quote" class="see-more inline canwrap">
+                <h4 class="inline">Personal Quote:</h4>
+Indian street magic tends to be very gory, blood and guts. One trick is for a magician to take a knife and appear to cut his kid's head almost off. The magician then says to the crowd, 'Well I can continue to cut off my son's head or you can all give me some money.' Then he wanders around and takes 10 rupees from everyone and restores his son.                    <span class="see-more inline">
+                        <a href="/name/nm0854418/bio?ref_=nm_dyk_qt_sm#quotes"
+>See more</a> 
+                    </span>
+                    &raquo;
+        </div>
+            <hr/>
+        <div id="dyk-trivia" class="see-more inline canwrap">
+                <h4 class="inline">Trivia:</h4>
+Attended and graduated from Amherst College in Anherst, Massachusetts.                    <span class="see-more inline">
+                        <a href="/name/nm0854418/bio?ref_=nm_dyk_trv_sm#trivia"
+>See more</a>
+                    </span>
+                    &raquo;
+        </div>
+    
+            <hr/>
+        <div id="dyk-trademark" class="see-more inline canwrap">
+
+                <h4 class="inline">Trademark:</h4>
+Never speaks        </div>
+    
+            <hr/>
+        <div id="dyk-star-sign" class="see-more inline canwrap">
+            <h4 class="inline">Star Sign:</h4>
+            <a href="/starsign/aquarius?ref_=nm_dyk_sign"
+>Aquarius</a>
+        </div>
+            </div> 
+                    
+
+    <div class="article" id="boardsTeaser">
+        <h2>Message Boards</h2>
+            Recent Posts
+            <table class="boards">
+                    <tr class="odd">
+                        <td>
+                            <a href="/name/nm0854418/board/nest/20693695?ref_=nm_bd_1"
+>Attractive - and I'm only 15</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur5181244/?ref_=nm_bd_1"
+>pyrokiss</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/name/nm0854418/board/nest/17917441?ref_=nm_bd_2"
+>Teller has spoken in a Movie</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur3043427/?ref_=nm_bd_2"
+>evlnvrdies</a>
+                        </td>
+                    </tr>
+                    <tr class="odd">
+                        <td>
+                            <a href="/name/nm0854418/board/nest/69282883?ref_=nm_bd_3"
+>Married?</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur9695345/?ref_=nm_bd_3"
+>Mel-chan</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/name/nm0854418/board/nest/138050140?ref_=nm_bd_4"
+>I spoke to Teller</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur2759926/?ref_=nm_bd_4"
+>cheffy1975</a>
+                        </td>
+                    </tr>
+                    <tr class="odd">
+                        <td>
+                            <a href="/name/nm0854418/board/nest/29410831?ref_=nm_bd_5"
+>The Simpsons</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur3894120/?ref_=nm_bd_5"
+>Kempster</a>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td>
+                            <a href="/name/nm0854418/board/nest/30289161?ref_=nm_bd_6"
+>Penn + Teller Get Killed on DVD</a>
+                        </td>
+                        <td>
+                            <a href="/user/ur5164999/?ref_=nm_bd_6"
+>macgyver5</a>
+                        </td>
+                    </tr>
+            </table>
+        <div class="see-more">
+            <a href="/name/nm0854418/board/?ref_=nm_bd_sm"
+>Discuss Teller</a> on the IMDb message boards &raquo;
+        </div>
+    </div>
+                    
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_NameContributeWidget_started');
+    }
+  </script>
+
+    <div class="article contribute">
+        <div class="rightcornerlink">
+<a href="/help/?adding/&ref_=nm_cn_hlp"
+>Getting Started</a>
+            <span>|</span>
+<a href="/czone/?ref_=nm_cn_cz"
+>Contributor Zone</a>&nbsp;&raquo;</div>
+        <h2>Contribute to This Page</h2>
+
+            <div class="button-box">
+                <form method="post" action="/updates?ref_=nm_cn_edt">
+                    <input type="hidden" name="auto" value="legacy/name/nm0854418/">
+                        <button class="btn primary large" rel="login" type="submit">Edit page</button>
+                </form>
+            </div>
+        
+
+        <div class="button-box">
+            <a href="http://pro.imdb.com/widget/resume_redirect/?rf=cons_nm_contr_res&ref_=cons_nm_contr_res"
+class="btn large" >Add resume</a>
+        </div>
+    </div>
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_NameContributeWidget_finished');
+    }
+  </script>
+                    
+    </div>
+</div> 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+
+                   <br class="clear" />
+                </div>
+
+
+  <div id="footer" class="ft">
+    <hr width="100%" size=1>
+        <div id="rvi-div">
+            <div class="recently-viewed">&nbsp;</div>
+            <br class="clear">
+            <hr width="100%" size="1">
+        </div>
+	
+	<!-- no content received for slot: bottom_ad -->
+	
+    <p class="footer" align="center">
+    
+          <a href="/?ref_=ft_hm"
+>Home</a>
+        | <a href="/search?ref_=ft_sr"
+>Search</a>
+        | <a href="/a2z?ref_=ft_si"
+>Site Index</a>
+        | <a href="/movies-in-theaters/?ref_=ft_inth"
+>In Theaters</a>
+        | <a href="/movies-coming-soon/?ref_=ft_cs"
+>Coming Soon</a>
+        | <a href="/chart/?ref_=ft_cht"
+>Top Movies</a>
+        | <a href="/chart/top?ref_=ft_250"
+>Top 250</a>
+        | <a href="/sections/tv/?ref_=ft_tv"
+>TV</a>
+        | <a href="/news/?ref_=ft_nw"
+>News</a>
+        | <a href="/boards/?ref_=ft_mb"
+>Message Boards</a>
+        | <a href="/pressroom/?ref_=ft_pr"
+>Press Room</a>
+        <br>
+
+        <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=ft_reg"
+>Register</a>
+        |     <a href="/offsite/?page-action=ft_ad&token=BCYuXrvD2K7Z6Trd65KyiGVZxVdPUAhDvp-u2cR-lDQvGwcjgR7ZhkwjBvoz760n5KszeRRPYxPR%0D%0ABqQszxp1kMt-ejPltF07iQRC1XjKCqHkoeav_CCdkWxH6tuGNDKgFQjDTWHirXdJs3DdF_hUC4v_%0D%0AziyZsm9GTkK6XKrqvCDb2z6Xk-aq_T8dL7PJYcuNpIPjAaUCmFwjU6glGeE1GG_FAcDGuAQ8P1Fw%0D%0A-0MBlPN86b2-7dMLX8y0xok-FKkn4N10%0D%0A" >Advertising</a>
+
+        | <a href="/helpdesk/contact?ref_=ft_con"
+>Contact Us</a>
+        | <a href="/jobs?ref_=ft_jb"
+>Jobs</a>
+        | <a href="http://pro.imdb.com/signup/index.html?rf=cons_ft_hm&ref_=cons_ft_hm"
+>IMDbPro</a>
+        |     <a href="/offsite/?page-action=ft-mojo&token=BCYhVpUmOQm_T-_UM9DOzdiFiz2sXEPXzUg4hwtvbFrRO7_w-wZH7oxLOxPGMMHkXUo522DyiY4W%0D%0AxLmCRsQaQ5aDVw56B6Tg8o7YPA4heIlFQcrgQ55KksiSoGsyDFJV_HHqq0c88KGmOeFSKhIWR5Oj%0D%0AekksPe475oyYX4J_B-yXgcl6wd1zr_XPJoXuso-vlF6q%0D%0A" >Box Office Mojo</a>
+
+        |     <a href="/offsite/?page-action=ft-wab&token=BCYuj8bP_Fe8W0_tIU0peH_pA8F1gk6ls4fGRCrRYEKK8aswMKJKAjIY0kZze5seNOB2-AXh8vDD%0D%0A-rP5yBeQZhJtoHs8u7KqJ-ullWH1JT7jWPokYC-TpgOpkUY8CAtHVO4oZKsv18MFpN_YI7H1VlQH%0D%0Ag35m9KWmnqA8BeN_yRgzIM-N10zoDAczRiCUvrntsFBR%0D%0A" >Withoutabox</a>
+
+        <br /><br />
+        IMDb Mobile:
+          <a href="/apps/?ref_=ft_apps"
+>Apps</a>
+        | <a href="http://m.imdb.com?ref_=ft_mdot"
+>Mobile site</a>
+        | IMDb Social:
+              <a href="/offsite/?page-action=ft-fb&token=BCYt23cll6WwRMKuBeAA39aByn7CcSerQ-QQy-Qii1KSHe_huHjOIJtdr8D1xYC231lQoQVYL421%0D%0AbCZpu8LkD88oXbhRQyLLAgQ_yGLDYIT6TMy_nAg0_O6I_hfzUUPswlOnxtal8iFspl_mxW8v-9FI%0D%0AIwdOOGvj5EG9G_BR25rJDqsyTGWjvZ4i6JXLVK3EH-k8%0D%0A" >Facebook</a>
+
+        |     <a href="/offsite/?page-action=ft-twt&token=BCYlHopu3iVGVu3JBP3Zb2J0e_TyZtc639PLsqjCCftFknBQWh-QlVLjiDAeK9grSNoesq3YX0Ny%0D%0AJfkOelmHmFZnoNxkPp0Aejl8iCJ4gOdzU9IE10HjFh9NlTTOKQj4VwqevK0AUi7hASlxTYn8zGgv%0D%0AdGKQe5tCv2c6DnDvxBaBGFs%0D%0A" >Twitter</a>
+
+       <br /><br />
+    </p>
+  
+    <p class="footer" align="center">
+        <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/show_article?conditions';"
+href="/help/show_article?conditions"
+>Copyright &copy;</a> 1990-2015 
+        <a
+onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/';"
+href="/help/"
+>IMDb.com, Inc.</a>
+        <br>
+          <a href="/help/show_article?conditions&ref_=ft_cou"
+>Conditions of Use</a>
+        | <a href="/privacy?ref_=ft_pvc"
+>Privacy Policy</a>
+        |     <a href="/offsite/?page-action=ft-iba&token=BCYsGdNYAPRqU0tblMadXGBZ7jY2l9OiejtnIl4TYwdyp3DlHkFMsUbOvHA0eZZukRuD14Ty_nFr%0D%0AyJpxDINWMreZTydObAf0723uyQEuXLG4gLtr61cz2iTAD1BhfRny4V0MeP6d7cJZ1dGCR__UL-SK%0D%0AcdXbJA8hFlXbl12fxV_0HV54YDIcoRl7znMhrBRCGF0l%0D%0A" >Interest-Based Ads</a>
+
+        <br>
+        An <span id="amazon_logo" class="footer_logo" align="middle"></span> company.
+    </p>
+  
+
+      
+      
+  <table class="footer" id="amazon-affiliates">
+    <tr>
+      <td colspan="8">
+        Amazon Affiliates
+      </td>
+    </tr>
+    <tr>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-aiv&token=BCYsN9mo0GBHzQpFZuIRjdpi0wJHFHNg2fdE0XEoSdDoqLLE2xPC_hP8LUR-jN4F0tNe_SpLUrsg%0D%0AfMcN9QU1w7C7wpV1q2L9HWHXvswSv1hPGUz1OmOH1eOQFiuZE84AvGO879gh2rfA1GfEUcnRZUo0%0D%0A_hmjj6uL610A2UWRlQfiE30IT_h2snM9w9s1HExBJr2YEGA86hgNLvKOwSnWY6iNr4BDd0zWCuxY%0D%0A7XDmeZx63U8%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Instant Video</span><br>
+          <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-piv&token=BCYkfVmYb0cKoqDqfWlA9yv00N1do8NXanPNXqGfd45-STl7ujAg9CKctWJqVWpju4JOUp9eUGik%0D%0A3mpl2_uitlBhZ2OfKMpg3y0YjgTWEbzBPSdY00SzYs-CMyc9AABADIY1O61zmDMQP-D8sMnvO9we%0D%0ALkeCsSlrUZzjcLkw9zWNWb9XfJPubA8yvgXgNy_y7j8yYwbEPsfCq3JCcOX4jafiyyAgcsQNuP6d%0D%0AfuINVR4tUFE%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Prime Instant Video</span><br>
+          <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-de&token=BCYne3idzjTErpqNTqw4ZYSLtx3jyEWmQYBuo9ETlvBYFuYIftXGihqPp30Aae-kslaZsLVZh8t_%0D%0AJlf3nP7QCCiR-26rYNlAQcNxiOP1YrMcaYAo3tD9QPGYiq5vjGwlcLLNa2r7bOOc16OqQjvbF_L9%0D%0AKAuKoPg9Uf8tMV9wjdqfU9sIeku34TX19Ji95GDT3dzNl3lcAoLeK365ocNmk7PshLg3h6NdL-4y%0D%0AGKtxhexxvmg%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-it&token=BCYiXfOl-oRuxazmq9VmHUbut-4deHDNJlk5Ku3DrxhlTIhdvIAnBPmup1MeaijBK9d9BtVxopGb%0D%0AoQAlF61VepW12x3P7BFESvVivJv6D8sDzfpOmLq-ZGt2HMN0K9zmLf6UMEveI6JSTeHyerzonu-U%0D%0Ab79I3Z9QQU4WCAgSLtsJerTQa4nOOgno3b6pdbVTy3j5hzagCwCkmVgQ4F0x9rjmyXIlremswQ_3%0D%0AwLsFApxWWwg%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-fr&token=BCYolSViiNU0Xuv-7p6vJmJ4SMAKql0fVHLvPz_zPVxlqXfYLRwbeTni_-N6Ly45LOtiMTwCN452%0D%0A_a6Ql1fVhh8TPZ6kQf5f-3IVp_p3VGhUcrjPSu8YlFcPFVBgg2FBEXEGMYU4rzuywTRlMnttlhro%0D%0AnEHwBUiMGPmVGgsEe9b7iUIevSE2mVinH259_JaElYOGbwK8p4v68QPMw008oxq2RDsBy3m99HY6%0D%0AX6zrzw3jwYY%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon France</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-in&token=BCYquvCRdipG25Hqcyzm1KZOu-SaWhxbWfW47KM5hV3yuwhPKpa3W4j7u7MLPU9D4Buue94tmSwS%0D%0AGCqppAY2iIkaqDHaWjmH7zOTfcu6766OvOh_9R4jKU7egv91poMa_B9NI5hhqYBqYoqygpIlXg6C%0D%0A37oSIAtuOspmkuR6DQqCxRgifXqSz2PxPv3efqQhRZxjbbL6EFRpAIIlLG3JTflgfVtjW5QJkOgN%0D%0A22zdNjeRN28pY9V1IPIvtwP9lHFLYnKA%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Amazon India</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-dpr&token=BCYht-mB0y61fsShycLeIeUzSrIjelBU38EvMW7kjUfmhYjZFRLz_F_udDi04c9PVRtBzmzTP14c%0D%0AeAZ8_15I5s3tyfgWPMQIW5EvYGeF4-XHamUNM5dDoii7hlYYkLzgo_6Oo1Y2Nv17IFXIguCf0RgY%0D%0AIcp1mEvOyAgFglPji4SSYkIMAomgdNuATWhspIQbHurD%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">DPReview</span><br>
+          <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
+</a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+    <a href="/offsite/?page-action=ft-amzn-aud&token=BCYv_jI5Ashch0_NnIMeq3F0TRu7h_kv6qhE7vncRITEs7UCe7iU3QKH4ymW1QIPS5ZzqYB77huO%0D%0ASFuOZ5QyyeOmv49iI-WpUYoTMYDDAVLegjGMjUsKlKw91HwXGCvCB3Ha9ha4t39KvHvz_aAZa8cC%0D%0A7kLOklpuLSuerEaX0iXCfWvLZY2aONGk6nhboTC8uIZd%0D%0A" class="amazon-affiliate-site-link">          <span class="amazon-affiliate-site-name">Audible</span><br>
+          <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span>
+</a>
+    </td>
+    </tr>
+  </table>
+  </div>
+            </div>
+        </div>
+
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/name-2693302406._CB305150263_.js"></script>
+
+<script type="text/imdblogin-js" id="login">
+jQuery(document).ready(function(){
+    window.imdb.login_lightbox("https://secure.imdb.com", "http://www.imdb.com/name/nm0854418/");
+});
+
+</script>
+
+        <script type="text/javascript">
+                jQuery(
+                             function() {
+           var url = "//platform.twitter.com/widgets/follow_button.html?screen_name=MrTeller", 
+               twitterIframe = document.getElementById('name-twitter-iframe');
+           if (twitterIframe) {
+              twitterIframe.src = url;
+           }
+        }
+
+                );
+                jQuery(
+                         function() {
+        $("#demoReelShoveler").shoveler({
+            'buttons' : {
+                'left' : {
+                    'text' : '',
+                },
+                'right' : {
+                    'text' : '',
+                }
+            },
+            'height' : 'auto',
+            'itemsPerShovel' : 2,
+            'paginate' : false,
+            'useExternalCSS' : true,
+            'width' : '100%'
+        });
+    }
+
+                );
+                jQuery(
+                             function() {
+            var facebookTheme = (window.custom && window.custom.full_page &&
+                    window.custom.full_page.theme) ?
+                window.custom.full_page.theme : "light",
+            url = "//www.facebook.com/plugins/likebox.php?href=facebook.com%2Fimdb&width=300&height=190&connections=4&header=false&stream=false&colorscheme=" + facebookTheme,
+            like = document.getElementById('facebookIframe'),
+            twitterIframe = document.getElementById('twitterIframe');
+            if (like) {
+                like.src = url;
+            }
+            if (twitterIframe) {
+                twitterIframe.src = "http://i.media-imdb.com/images/social/twitter.html?10#imdb";
+            }
+         }
+
+                );
+                jQuery(
+                             function() {
+           var isAdvertisingThemed = !!(window.custom && window.custom.full_page && window.custom.full_page.theme),
+               url = "http://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Fname%2Fnm0854418%2F&colorscheme=light",
+               like = document.getElementById('iframe_like');
+
+           if (!isAdvertisingThemed && like) {
+              like.src = url;
+              like.onload = function () { generic.monitoring.stop_timing('facebook_like_iframe', '', false); };
+           } else if (isAdvertisingThemed) {
+              $('.social_networking_like').closest('.aux-content-widget-2').hide();
+           }
+        }
+
+                );
+                jQuery(
+                     function() { $('#maindetails_sidebar_bottom').watchlistRibbon('.ribbonize'); }
+                );
+        </script>
+
+<div id="servertime" time="71"/>
+
+
+
+<script>
+    if (typeof uet == 'function') {
+      uet("be");
+    }
+</script>
+    </body>
+</html>
+
