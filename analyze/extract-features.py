@@ -41,11 +41,25 @@ def createFeatureVec(row):
         features += [-1]
     else:
         features += [row['budget']]
-    print len(features)
+    
     return ' '.join([str(x) for x in features])
 
 if __name__ == "__main__":
 
-    df = pd.read_excel("Features.xlsx")
+    if len(sys.argv) != 4:
+        print 'Usage:', sys.argv[0], ' feature.xlsx_file train_path test_path'
+        exit(11)
+
+    
+    df = pd.read_excel(sys.argv[1])
+    train_fh = open(sys.argv[2], 'w')
+    test_fh = open(sys.argv[3], 'w')
     for index, row in df.iterrows():
-        print createFeatureVec(row)
+        if np.random.uniform() > 0.4:    
+            train_fh.write(createFeatureVec(row) + '\n')
+        else:
+            test_fh.write(createFeatureVec(row) + '\n')
+
+
+    train_fh.close()
+    test_fh.close()
